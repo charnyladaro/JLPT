@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#ffffff">
+<title>JLPT 合格リビューア</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+  <div class="hrow">
+    <div class="brand">JLPT 合格リビューア<small>Reviewer</small></div>
+    <button id="themeBtn" title="Toggle theme">🌓</button>
+  </div>
+  <div class="levels" id="levelBar"></div>
+  <div class="tabs" id="tabBar"></div>
+</header>
+<main>
+  <div id="view-review"></div>
+  <div id="view-cards" hidden></div>
+  <div id="view-quiz" hidden></div>
+</main>
+<footer>Static app generated from the JLPT_Nx_Reviewer.md files · progress is saved on this device only · 頑張って！</footer>
+
+<script src="data.js"></script>
+<script>
+if (typeof JLPT_MD === "undefined") {
+  document.querySelector("main").innerHTML =
+    '<div class="panel" style="margin-top:14px"><p><b>data.js is missing.</b></p>' +
+    '<p>Generate it from the reviewer markdown files by running:<br><code>pwsh ./build.ps1</code> in the webapp folder.</p></div>';
+  throw new Error("JLPT_MD not loaded");
+}
+</script>
+<script src="app.js"></script>
+</body>
+</html>
