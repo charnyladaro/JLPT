@@ -1,37 +1,40 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="light">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="theme-color" content="#ffffff">
-<title>JLPT 合格リビューア</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JLPT 道場 — Study Dojo (N5–N1)</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>語</text></svg>">
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<header>
-  <div class="hrow">
-    <div class="brand">JLPT 合格リビューア<small>Reviewer</small></div>
-    <button id="themeBtn" title="Toggle theme">🌓</button>
+<header id="topbar">
+  <a class="brand" href="#/home"><span class="brand-kanji">語</span><span class="brand-name">JLPT 道場<small>Study Dojo</small></span></a>
+  <nav id="mainnav" aria-label="Sections">
+    <a href="#/home" data-nav="home">Home</a>
+    <a href="#/grammar" data-nav="grammar">Grammar</a>
+    <a href="#/vocab" data-nav="vocab">Vocab</a>
+    <a href="#/practice" data-nav="practice">Practice</a>
+    <a href="#/reviewer" data-nav="reviewer">Reviewer</a>
+    <a href="#/docs" data-nav="docs">Docs</a>
+  </nav>
+  <div class="topbar-right">
+    <div id="levelpills" role="group" aria-label="JLPT level"></div>
+    <button id="themebtn" title="Toggle dark mode" aria-label="Toggle dark mode"></button>
   </div>
-  <div class="levels" id="levelBar"></div>
-  <div class="tabs" id="tabBar"></div>
 </header>
-<main>
-  <div id="view-review"></div>
-  <div id="view-cards" hidden></div>
-  <div id="view-quiz" hidden></div>
-</main>
-<footer>Static app generated from the JLPT_Nx_Reviewer.md files · progress is saved on this device only · 頑張って！</footer>
 
-<script src="data.js"></script>
-<script>
-if (typeof JLPT_MD === "undefined") {
-  document.querySelector("main").innerHTML =
-    '<div class="panel" style="margin-top:14px"><p><b>data.js is missing.</b></p>' +
-    '<p>Generate it from the reviewer markdown files by running:<br><code>pwsh ./build.ps1</code> in the webapp folder.</p></div>';
-  throw new Error("JLPT_MD not loaded");
-}
-</script>
+<main id="view" tabindex="-1"></main>
+
+<footer id="foot">
+  <span>Grammar・vocab・test data adapted from <a href="https://japanesetest4you.com/" target="_blank" rel="noopener">japanesetest4you.com</a> for personal study.</span>
+  <span id="foot-stats"></span>
+</footer>
+
+<script src="data/manifest.js"></script>
+<script src="data/docs.js"></script>
+<script src="data/reviewers.js"></script>
+<script src="md.js"></script>
 <script src="app.js"></script>
 </body>
 </html>

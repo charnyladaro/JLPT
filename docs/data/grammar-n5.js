@@ -1,0 +1,9779 @@
+window.JLPT_DATA=window.JLPT_DATA||{};window.JLPT_DATA["grammar-n5"]=[
+ {
+  "title": "だ / です (da / desu)",
+  "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n5-grammar-%e3%81%a0-%e3%81%a7%e3%81%99-da-desu/",
+  "meaning": "to be (copula)",
+  "formation": "Present affirmative: だ (plain); です (polite)\nPresent negative: じゃない/ではない (plain); じゃありません/ではありません (polite)\nPast affirmative: だった (plain); でした (polite)\nPast negative: じゃなかった/ではなかった (plain); ではありませんでした/じゃありませんでした/じゃなかったです/ではなかったです (polite)",
+  "examples": [
+   {
+    "jp": "それは非常に面白いコメントですね。",
+    "en": "That’s a very interesting comment.",
+    "romaji": "sore wa hijou ni omoshiroi komento desu ne.",
+    "audio": "https://japanesetest4you.com/audio/n5g-desu-1.mp3"
+   },
+   {
+    "jp": "コンサート・ピアニストになりたいという夢は終わった、という気分でした。",
+    "en": "I felt that my dream of becoming a concert pianist was over.",
+    "romaji": "konsaato pianisuto ni naritai to iu yume wa owatta, to iu kibun deshita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-desu-2.mp3"
+   },
+   {
+    "jp": "最初からずっと、サッカーが好きでしたね。ごく自然にそうなりました。",
+    "en": "I’ve loved football ever since day one. It just came so naturally.",
+    "romaji": "saisho kara zutto, sakkaa ga suki deshita ne. goku shizen ni sou narimashita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-desu-3.mp3"
+   },
+   {
+    "jp": "一同の立っているのは両側にドアのある広い玄関ホールでした。",
+    "en": "They were in a wide hall with doors on either side.",
+    "romaji": "ichidou no tatte iru no wa ryougawa no doa no aru hiroi genkan hooru deshita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-desu-4.mp3"
+   },
+   {
+    "jp": "フェイスブックは、どうあれ職場では奇妙な現象です。",
+    "en": "Facebook is an odd phenomenon in the workplace anyway.",
+    "romaji": "feisubukku wa, dou are shokuba de wa kimyou na genshou desu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-desu-5.mp3"
+   },
+   {
+    "jp": "もちろん私はイギリス人ですが、ヨーロッパ人であるという自覚も強く持っています。",
+    "en": "Obviously I’m British, but I also feel very European.",
+    "romaji": "mochiron watashi wa igirisujin desu ga, yooroppajin de aru to iu jikaku mo tsuyoku motte imasu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-desu-6.mp3"
+   },
+   {
+    "jp": "考えてみると、食べ物、特に食べ物を人と分かち合うことは、心に残るすてきな贈り物です。",
+    "en": "Come to think of it, food, and especially sharing food, is a great and memorable gift.",
+    "romaji": "kangaete miru to, tabemono, toku ni tabemono o hito to wakachiau koto wa, kokoro ni nokoru suteki na okurimono desu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-desu-7.mp3"
+   },
+   {
+    "jp": "自分がしたいことは何でもする、積極的な子でした。",
+    "en": "I was a positive child. I did whatever I wanted to.",
+    "romaji": "jibun ga shitai koto wa nan demo suru, sekkyokuteki na ko deshita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-desu-8.mp3"
+   },
+   {
+    "jp": "客たちの期待は裏切られず、まことに楽しい宴会でした。",
+    "en": "The guests were not disappointed: they had a very pleasant feast.",
+    "romaji": "kyakutachi no kitai wa uragirarezu, makoto ni tanoshii enkai deshita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-desu-9.mp3"
+   },
+   {
+    "jp": "お父様は、著名なジャーナリストですね。あなたにとってどのような存在で、どのような影響を受けてきましたか？",
+    "en": "Your father is a well-known journalist. What does he mean to you, and how have you been influenced by him?",
+    "romaji": "otousama wa, chomei na jaanarisuto desu ne. anata ni totte dono you na sonzai de, dono you na eikyou o ukete kimashita ka.",
+    "audio": "https://japanesetest4you.com/audio/n5g-desu-10.mp3"
+   },
+   {
+    "jp": "わたしたちは間違いなく似合いのカップルだった。",
+    "en": "It was so obvious that we were meant for each other.",
+    "romaji": "watashitachi wa machigainaku niai no kappuru datta.",
+    "audio": "https://japanesetest4you.com/audio/n5g-desu-11.mp3"
+   },
+   {
+    "jp": "イギリスにまた一人、女性首相が誕生したことは、ものすごくうれしいんですよ。",
+    "en": "I am very, very pleased that the UK has another female Prime Minister.",
+    "romaji": "igirisu ni mata hitori, josei shushou ga tanjou shita koto wa, mono sugoku ureshiin desu yo.",
+    "audio": "https://japanesetest4you.com/audio/n5g-desu-12.mp3"
+   },
+   {
+    "jp": "父の敵を取るために、復讐心に燃えるキャラクターです。",
+    "en": "This is a character whose heart is filled with the desire to avenge his father.",
+    "romaji": "chichi no kataki o toru tame ni, fukushuushin ni moeru kyarakutaa desu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-desu-13.mp3"
+   },
+   {
+    "jp": "きみたちは危険を口にしているが、それがわかっていないのだ。今度のことは宝探しではない。行って戻って来る旅ではない。",
+    "en": "You speak of danger, but you do not understand. This is no treasure-hunt, no there-and-back journey.",
+    "romaji": "kimitachi wa kiken o kuchi ni shite iru ga, sore ga wakatte inai no da. kondo no koto wa takarasagashi de wa nai. itte modotte kuru tabi de wa nai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-desu-14.mp3"
+   },
+   {
+    "jp": "本当に優れたマジックは「子供だまし」ではありませんよ。",
+    "en": "Truly exceptional magic is not mere “kid’s stuff.”",
+    "romaji": "hontou ni sugureta majikku wa kodomo damashi de wa arimasen yo.",
+    "audio": "https://japanesetest4you.com/audio/n5g-desu-15.mp3"
+   },
+   {
+    "jp": "さんさんと光の降り注ぐ、のどかな午後でした。",
+    "en": "The late afternoon was bright and peaceful.",
+    "romaji": "sansan to hikari no furisosogu, nodoka na gogo deshita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-desu-16.mp3"
+   },
+   {
+    "jp": "私たちはすごく怖いんです。でも私たちはあなたと一緒に行くつもりです。",
+    "en": "We are horribly afraid, but we are coming with you.",
+    "romaji": "watashitachi wa sugoku kowain desu. demo watashitachi wa anata to issho ni iku tsumori desu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-desu-17.mp3"
+   },
+   {
+    "jp": "芝居をすることができて本当に幸せです。",
+    "en": "I’m so happy I can play on a stage.",
+    "romaji": "shibai o suru koto ga dekite hontou ni shiawase desu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-desu-18.mp3"
+   },
+   {
+    "jp": "若い世代の顧客は、もはや待ちたくないのです。",
+    "en": "The younger customer does not want to wait any longer.",
+    "romaji": "wakai sedai no kokyaku wa, mohaya machitakunai no desu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-desu-19.mp3"
+   },
+   {
+    "jp": "こんなに遅れているのは尋常なことではありません。",
+    "en": "This delay is not natural.",
+    "romaji": "konna ni okurete iru no wa jinjou na koto de wa arimasen.",
+    "audio": "https://japanesetest4you.com/audio/n5g-desu-20.mp3"
+   },
+   {
+    "jp": "あなたのその推測が事実ではないと誰が言えるか。",
+    "en": "Who says your supposition is not reality?",
+    "romaji": "anata no sono suisoku ga jijitsu de wa nai to dare ga ieru ka.",
+    "audio": "https://japanesetest4you.com/audio/n5g-desu-21.mp3"
+   },
+   {
+    "jp": "これは、東京市内の掲示の写真です。",
+    "en": "This picture is a notice in Tokyo.",
+    "romaji": "kore wa, toukyou shinai no keiji no shashin desu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-desu-22.mp3"
+   }
+  ],
+  "id": "n5-g1"
+ },
+ {
+  "title": "だけ (dake)",
+  "url": "https://japanesetest4you.com/flashcard/jlpt-n5-grammar-%e3%81%a0%e3%81%91-dake/",
+  "meaning": "only, just",
+  "formation": "Verb-casual + だけ\nいadj + だけ\nなadj + だけ\nNoun + だけ",
+  "examples": [
+   {
+    "jp": "ほかに一つだけ可能性がある。",
+    "en": "There’s only one other possibility.",
+    "romaji": "hoka ni hitotsu dake kanousei ga aru.",
+    "audio": "https://japanesetest4you.com/media001/n5g-dake-16.mp3"
+   },
+   {
+    "jp": "そこから二、三歩だけ先に進め。",
+    "en": "Take just two or three steps forward.",
+    "romaji": "soko kara ni, sanpo dake saki ni susume.",
+    "audio": "https://japanesetest4you.com/media001/n5g-dake-17.mp3"
+   },
+   {
+    "jp": "この話をしたのは君にだけだ。",
+    "en": "Only to you have I told the story.",
+    "romaji": "kono hanashi o shita no wa kimi ni dake da.",
+    "audio": "https://japanesetest4you.com/media001/n5g-dake-18.mp3"
+   },
+   {
+    "jp": "問題はそれだけだと思うかい？",
+    "en": "You think that is all there is to it?",
+    "romaji": "mondai wa sore dake da to omou kai.",
+    "audio": "https://japanesetest4you.com/media001/n5g-dake-19.mp3"
+   },
+   {
+    "jp": "精神的作業だけでは人間は疲れない。",
+    "en": "Mental work alone can’t make you tired.",
+    "romaji": "seishinteki sagyou dake dewa ningen wa tsukarenai.",
+    "audio": "https://japanesetest4you.com/media001/n5g-dake-20.mp3"
+   },
+   {
+    "jp": "欠けているものはひとつだけ、客だった。",
+    "en": "The only thing missing was the customers.",
+    "romaji": "kakete iru mono wa hitotsu dake, kyaku datta.",
+    "audio": "https://japanesetest4you.com/media001/n5g-dake-21.mp3"
+   },
+   {
+    "jp": "残された道は一つだけだと思いました。",
+    "en": "I decided that there was only one thing to be done.",
+    "romaji": "nokosareta michi wa hitotsu dake da to omoimashita.",
+    "audio": "https://japanesetest4you.com/media001/n5g-dake-22.mp3"
+   },
+   {
+    "jp": "わたしの目的は、病気を治療することだけですよ。",
+    "en": "My only intention is to cure the disease.",
+    "romaji": "watashi no mokuteki wa, byouki o chiryou suru koto dake desu yo.",
+    "audio": "https://japanesetest4you.com/media001/n5g-dake-23.mp3"
+   },
+   {
+    "jp": "わたしが受けた報告を申し上げただけです。",
+    "en": "I repeat only what was reported to me.",
+    "romaji": "watashi ga uketa houkoku o moushiageta dake desu.",
+    "audio": "https://japanesetest4you.com/media001/n5g-dake-24.mp3"
+   },
+   {
+    "jp": "彼だけがわたしたちの頼みの綱ではないのよ。",
+    "en": "He’s not our only hope.",
+    "romaji": "kare dake ga watashitachi no tanomi no tsuna dewa nai no yo.",
+    "audio": "https://japanesetest4you.com/media001/n5g-dake-25.mp3"
+   },
+   {
+    "jp": "彼が左利きであることを知っているのは彼女だけだ。",
+    "en": "She alone knows that he’s left-handed.",
+    "romaji": "kare ga hidarikiki de aru koto o shitte iru no wa kanojo dake da.",
+    "audio": "https://japanesetest4you.com/media001/n5g-dake-26.mp3"
+   },
+   {
+    "jp": "不当な非難だけを無視せよと言っているのだ。",
+    "en": "I am talking about ignoring only unjust criticism.",
+    "romaji": "futou na hinan dake o mushi seyo to itte iru no da.",
+    "audio": "https://japanesetest4you.com/media001/n5g-dake-27.mp3"
+   },
+   {
+    "jp": "油断をしないように一言言っておきたかっただけだ。",
+    "en": "I only want to put you on your guard.",
+    "romaji": "yudan o shinai you ni hitokoto itte okitakatta dake da.",
+    "audio": "https://japanesetest4you.com/media001/n5g-dake-28.mp3"
+   },
+   {
+    "jp": "頭がちょっと痛いだけ。そのほかは、とってもいい気分です。",
+    "en": "My head aches a little, but otherwise I feel fine.",
+    "romaji": "atama ga chotto itai dake. sono hoka wa, tottemo ii kibun desu.",
+    "audio": "https://japanesetest4you.com/media001/n5g-dake-29.mp3"
+   },
+   {
+    "jp": "ここでは時間に意味はない。時はただ流れ去るだけ。",
+    "en": "Time doesn’t matter in here; in here, time just floats away.",
+    "romaji": "koko dewa jikan ni imi wa nai. toki wa tada nagaresaru dake.",
+    "audio": "https://japanesetest4you.com/media001/n5g-dake-30.mp3"
+   },
+   {
+    "jp": "落ち着けよ。子供たちが花火で遊んでいるだけさ。",
+    "en": "Relax. It’s just kids shooting off firecrackers.",
+    "romaji": "ochitsuke yo. kodomotachi ga hanabi de asonde iru dake sa.",
+    "audio": "https://japanesetest4you.com/media001/n5g-dake-31.mp3"
+   },
+   {
+    "jp": "いまのわたしの願いは、あなたがよくなることだけ。",
+    "en": "I only want you to get better.",
+    "romaji": "ima no watashi no negai wa, anata ga yoku naru koto dake.",
+    "audio": "https://japanesetest4you.com/media001/n5g-dake-32.mp3"
+   },
+   {
+    "jp": "わたしは黙っていた。残っていた水を飲んだだけだ。",
+    "en": "I kept silence. I just drank the rest of my water.",
+    "romaji": "watashi wa damatte ita. nokotte ita mizu o nonda dake da.",
+    "audio": "https://japanesetest4you.com/media001/n5g-dake-33.mp3"
+   },
+   {
+    "jp": "かごに棄てるのは、全くつまらないものだけでしょうね。",
+    "en": "Only something quite unimportant would be thrown away like that.",
+    "romaji": "kago ni suteru no wa, mattaku tsumaranai mono dake deshou ne.",
+    "audio": "https://japanesetest4you.com/media001/n5g-dake-34.mp3"
+   },
+   {
+    "jp": "自分だけの利益を追求するならば、仕事の質は低下する。",
+    "en": "When you are concerned only with helping yourself, you do your job less well.",
+    "romaji": "jibun dake no rieki o tsuikyuu suru naraba, shigoto no shitsu wa teika suru.",
+    "audio": "https://japanesetest4you.com/media001/n5g-dake-35.mp3"
+   },
+   {
+    "jp": "話の一部終始を聞いてくださるだけでも、実にありがたいのです。",
+    "en": "You will help me tremendously if you will just sit and listen while I talk it out.",
+    "romaji": "hanashi no ichibu shuushi o kiite kudasaru dake demo, jitsu ni arigatai no desu.",
+    "audio": "https://japanesetest4you.com/media001/n5g-dake-36.mp3"
+   },
+   {
+    "jp": "おれは底まで落ちたが、とにかくそれに耐えてきた。これからは上へ行くだけだ。",
+    "en": "I’ve hit bottom and I’ve stood it. There’s no place to go now but up.",
+    "romaji": "ore wa soko made ochita ga, tonikaku sore ni taete kita. kore kara wa ue e iku dake da.",
+    "audio": "https://japanesetest4you.com/media001/n5g-dake-37.mp3"
+   },
+   {
+    "jp": "殺したいという願望が問題なんです、道具だけでは、どうということはありません。",
+    "en": "It’s the wish to kill that counts—the mere instrument doesn’t matter.",
+    "romaji": "koroshitai to iu ganbou ga mondai nan desu, dougu dake dewa, dou to iu koto wa arimasen.",
+    "audio": "https://japanesetest4you.com/media001/n5g-dake-38.mp3"
+   },
+   {
+    "jp": "こういうケースには特別な治療法はないんです。ただ待つだけ。",
+    "en": "There is no special treatment to pursue in such cases. It is really a matter of waiting.",
+    "romaji": "kou iu keesu ni wa tokubetsu na chiryouhou wa nain desu. tada matsu dake.",
+    "audio": "https://japanesetest4you.com/media001/n5g-dake-39.mp3"
+   },
+   {
+    "jp": "われわれが利用しているのは、肉体的にも精神的にも、自分の資質のごくわずかな部分だけだ。",
+    "en": "We are making use of only a small part of our physical and mental resources.",
+    "romaji": "wareware ga riyou shite iru no wa, nikutaiteki ni mo seishinteki ni mo, jibun no shishitsu no goku wazuka na bubun dake da.",
+    "audio": "https://japanesetest4you.com/media001/n5g-dake-40.mp3"
+   },
+   {
+    "jp": "「私だけが解決できる」などと言う人のことを信用してはなりません。",
+    "en": "Don’t believe anyone who says, “I alone can fix it.”",
+    "romaji": "watashi dake ga kaiketsu dekiru nado to iu hito no koto o shin’you shite wa narimasen.",
+    "audio": "https://japanesetest4you.com/audio/n5g-dake-1.mp3"
+   },
+   {
+    "jp": "病室にあるのは、ひとり用のベッドが一床だけだ。",
+    "en": "The hospital room only has a single bed.",
+    "romaji": "byoushitsu ni aru no wa, hitori you no beddo ga isshou dake da.",
+    "audio": "https://japanesetest4you.com/audio/n5g-dake-2.mp3"
+   },
+   {
+    "jp": "窓ガラスに映るのは自分の姿だけ。",
+    "en": "All I can see in the glass is my own reflection.",
+    "romaji": "mado garasu ni utsuru no wa jibun no sugata dake.",
+    "audio": "https://japanesetest4you.com/audio/n5g-dake-3.mp3"
+   },
+   {
+    "jp": "文句を言わないのは佐野だけだった。",
+    "en": "Only Sano did not complain.",
+    "romaji": "monku o iwanai no wa sano dake datta.",
+    "audio": "https://japanesetest4you.com/audio/n5g-dake-4.mp3"
+   },
+   {
+    "jp": "彼はただ事実を述べているだけなのだ。",
+    "en": "He’s simply stating a fact.",
+    "romaji": "kare wa tada jijitsu o nobete iru dake na no da.",
+    "audio": "https://japanesetest4you.com/audio/n5g-dake-5.mp3"
+   },
+   {
+    "jp": "それだけで僕を犯人と断定するのは早すぎませんか？",
+    "en": "Isn’t it too early to conclude that I’m the culprit based only on that?",
+    "romaji": "sore dake de boku o hannin to dantei suru no wa hayasugimasen ka.",
+    "audio": "https://japanesetest4you.com/audio/n5g-dake-6.mp3"
+   },
+   {
+    "jp": "恋愛はただ切なく苦しいだけのもの。",
+    "en": "Love is nothing but pain and anguish.",
+    "romaji": "ren’ai wa tada setsunaku kurushii dake no mono.",
+    "audio": "https://japanesetest4you.com/audio/n5g-dake-7.mp3"
+   },
+   {
+    "jp": "わたし一人だけ休憩で職員室にいました。",
+    "en": "I was alone in the staff room taking a break.",
+    "romaji": "watashi hitori dake kyuukei de shokuinshitsu ni imashita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-dake-8.mp3"
+   },
+   {
+    "jp": "政治では、人は殺さない。障害を除去する、ただそれだけだ。",
+    "en": "In politics we do not kill a man. We only remove an obstacle, that is all.",
+    "romaji": "seiji de wa, hito wa korosanai. shougai o jokyo suru, tada sore dake da.",
+    "audio": "https://japanesetest4you.com/audio/n5g-dake-9.mp3"
+   },
+   {
+    "jp": "彼はじっと見つめているだけで、急いで立ち去ろうともしなかった。",
+    "en": "He just looked at me and was in no hurry to get away.",
+    "romaji": "kare wa jitto mitsumete iru dake de, isoide tachisarou to mo shinakatta.",
+    "audio": "https://japanesetest4you.com/audio/n5g-dake-10.mp3"
+   },
+   {
+    "jp": "このピンチを脱する手が一つだけあるわ。",
+    "en": "There’s only one way out of this mess.",
+    "romaji": "kono pinchi o dassuru te ga hitotsu dake aru wa.",
+    "audio": "https://japanesetest4you.com/audio/n5g-dake-11.mp3"
+   },
+   {
+    "jp": "あなただけが完全無欠な存在だとおっしゃるのですか？",
+    "en": "Are you saying that you alone are perfect?",
+    "romaji": "anata dake ga kanzen muketsu na sonzai da to ossharu no desu ka.",
+    "audio": "https://japanesetest4you.com/audio/n5g-dake-12.mp3"
+   },
+   {
+    "jp": "私はただ臆測しただけです。",
+    "en": "I only guessed.",
+    "romaji": "watashi wa tada okusoku shita dake desu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-dake-13.mp3"
+   },
+   {
+    "jp": "あなたの資産の情況を知っているのは私だけです。",
+    "en": "I alone know your real financial position.",
+    "romaji": "anata no shisan no joukyou o shitte iru no wa watashi dake desu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-dake-14.mp3"
+   },
+   {
+    "jp": "世の中には悪い草も悪い人間もいない。ただ育てる者が悪いだけなんだ。",
+    "en": "There are no such things as bad plants or bad men. There are only bad cultivators.",
+    "romaji": "yo no naka ni wa warui kusa mo warui ningen mo inai. tada sodateru mono ga warui dake nan da.",
+    "audio": "https://japanesetest4you.com/audio/n5g-dake-15.mp3"
+   },
+   {
+    "jp": "だけ (dake): as much as",
+    "en": "だけで (dake de): just by, just by doing",
+    "romaji": "だけに (dake ni): being the case だけは (dake wa): to do all that one can きり (kiri): only, after"
+   }
+  ],
+  "id": "n5-g2"
+ },
+ {
+  "title": "だろう (darou)",
+  "url": "https://japanesetest4you.com/flashcard/jlpt-n5-grammar-%e3%81%a0%e3%82%8d%e3%81%86-darou/",
+  "meaning": "probably; seems; I think; I guess; I wonder; I hope; don’t you agree?",
+  "formation": "Verb-casual + だろう\nい-adjective + だろう\nな-adjective + だろう\nNoun + だろう",
+  "examples": [
+   {
+    "jp": "私はまだ夢を見ているのだろうか？",
+    "en": "Am I still dreaming?",
+    "romaji": "watashi wa mada yume o mite iru no darou ka.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-17.mp3"
+   },
+   {
+    "jp": "彼らはいったいどんな夢を見てるだろう。",
+    "en": "I wonder what sort of dreams they are having.",
+    "romaji": "karera wa ittai donna yume o mi teru darou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-18.mp3"
+   },
+   {
+    "jp": "たぶんふたりともわたしを忘れないだろう。",
+    "en": "They probably won’t forget me.",
+    "romaji": "tabun futari tomo watashi o wasurenai darou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-19.mp3"
+   },
+   {
+    "jp": "信じないよりは信じた方がいいだろう。",
+    "en": "Better to believe than not to believe.",
+    "romaji": "shinjinai yori wa shinjita hou ga ii darou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-20.mp3"
+   },
+   {
+    "jp": "急がせて悪かった。いろいろと大変だっただろう。",
+    "en": "Sorry to hurry you. I’m sure it was tough.",
+    "romaji": "isogasete warukatta. iroiro to taihen datta darou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-21.mp3"
+   },
+   {
+    "jp": "これこそ運動の最大の恩恵だろう。",
+    "en": "This is probably the greatest benefit of physical exercise.",
+    "romaji": "kore koso undou no saidai no onkei darou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-22.mp3"
+   },
+   {
+    "jp": "そいつは君が持っていればいい。何かの役に立つだろう。",
+    "en": "You can keep those. They might come in handy.",
+    "romaji": "soitsu wa kimi ga motte ireba ii. nanika no yaku ni tatsu darou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-23.mp3"
+   },
+   {
+    "jp": "どんなやつが、ここへ、この道具を持ってきたんだろう？",
+    "en": "Who could have brought those tools here?",
+    "romaji": "donna yatsu ga, koko e, kono dougu o motte kitan darou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-24.mp3"
+   },
+   {
+    "jp": "美しいということはおそらく、危険な所持品なんだろうね。",
+    "en": "Beauty is perhaps a dangerous possession.",
+    "romaji": "utsukushii to iu koto wa osoraku, kiken na shojihin nan darou ne.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-25.mp3"
+   },
+   {
+    "jp": "何も連絡がないので気を揉んでいることだろう。",
+    "en": "You must be anxious at hearing nothing.",
+    "romaji": "nanimo renraku ga nai node ki o monde iru koto darou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-26.mp3"
+   },
+   {
+    "jp": "きみは、わたしに借金の申し込みをしようと言うんだろう。",
+    "en": "You are getting ready to touch me for a loan.",
+    "romaji": "kimi wa, watashi ni shakkin no moushikomi o shiyou to iun darou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-27.mp3"
+   },
+   {
+    "jp": "そのとおり。百人中、九十九人までがそう言うだろう。",
+    "en": "Exactly. Just what ninety-nine people out of a hundred would say!",
+    "romaji": "sono toori. hyakunin chuu, kyuujuu kyuu nin made ga sou iu darou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-28.mp3"
+   },
+   {
+    "jp": "どうしてクイズ番組が楽しいって、人は思うんだろう？",
+    "en": "Why do people find TV game shows to be entertaining?",
+    "romaji": "dou shite kuizu bangumi ga tanoshii tte, hito wa omoun darou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-29.mp3"
+   },
+   {
+    "jp": "広告の数を削減すれば、売り上げに損害を与えるだろう。",
+    "en": "Reducing the number of ads would probably cripple our sales.",
+    "romaji": "koukoku no kazu o sakugen sureba, uriage ni songai o ataeru darou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-30.mp3"
+   },
+   {
+    "jp": "たった２４時間で重病化するのはどんな病気だろうか？",
+    "en": "What kind of serious illness came on in a mere twenty-four hours?",
+    "romaji": "tatta nijuuyo jikan de juubyouka suru no wa donna byouki darou ka.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-31.mp3"
+   },
+   {
+    "jp": "あのマーケティング計画を実行に移すのは、簡単ではないだろう。",
+    "en": "That marketing plan may not be easy to execute.",
+    "romaji": "ano maaketingu keikaku o jikkou ni utsusu no wa, kantan dewa nai darou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-32.mp3"
+   },
+   {
+    "jp": "今まで運動しなかった人は、最初は身体が思うように動かないだろう。",
+    "en": "If you haven’t been exercising, your body will probably protest at first.",
+    "romaji": "ima made undou shinakatta hito wa, saisho wa karada ga omou you ni ugokanai darou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-33.mp3"
+   },
+   {
+    "jp": "もしわたしがこのこころみで死ぬようなことになれば、彼はどうなるのだろう？",
+    "en": "If I die in the attempt, what will become of him?",
+    "romaji": "moshi watashi ga kono kokoromi de shinu you na koto ni nareba, kare wa dou naru no darou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-34.mp3"
+   },
+   {
+    "jp": "どうしたら、われわれの製品設計に新鮮なアイデアを注入できるだろう？",
+    "en": "How can we inject fresh ideas into our product designs?",
+    "romaji": "dou shitara, wareware no seihin sekkei ni shinsen na aidea o chuunyuu dekiru darou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-35.mp3"
+   },
+   {
+    "jp": "たくさんの人がすごく動揺して、「わあ、大変、新年だ！」と思うだろう。",
+    "en": "I think a lot of people freak out and think, “Oh my god, another year!”",
+    "romaji": "takusan no hito ga sugoku douyou shite, waa, taihen, shinnen da to omou darou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-36.mp3"
+   },
+   {
+    "jp": "彼は、ここ数ヶ月の会社の成長、その成長の裏にあるものまでたどり着いたのだろう。",
+    "en": "He must have noticed the growth in the company these last few months and what was behind it.",
+    "romaji": "kare wa, koko suukagetsu no kaisha no seichou, sono seichou no ura ni aru mono made tadoritsuita no darou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-37.mp3"
+   },
+   {
+    "jp": "おれには、その傲慢さえもないのだ。せめてその傲慢でもあったら、おれもまさかに、自分をこんな立場にはおかなかっただろう。",
+    "en": "I have no pride. If I had any pride, I should not have put myself in such a position.",
+    "romaji": "ore ni wa, sono gouman sae mo nai no da. semete sono gouman demo attara, ore mo masaka ni, jibun o konna tachiba ni wa okanakatta darou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-38.mp3"
+   },
+   {
+    "jp": "どうして私はあんなことをせずにこうしなかったのだろう。",
+    "en": "Why did I not do this, instead of that?",
+    "romaji": "dou shite watashi wa anna koto o sezu ni kou shinakatta no darou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-1.mp3"
+   },
+   {
+    "jp": "法律に、あなたの悲しみを見る目があるだろうか。",
+    "en": "Has the law any eyes to witness your grief?",
+    "romaji": "houritsu wa, anata no kanashimi o miru me ga aru darou ka.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-2.mp3"
+   },
+   {
+    "jp": "彼らは決して理解してくれないし、きみがなにをしようとショックを受けるだろう。",
+    "en": "They’ll never understand you and they’ll be shocked no matter what you do.",
+    "romaji": "karera wa kesshite rikai shite kurenai shi, kimi ga nani o shiyou to shokku o ukeru darou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-3.mp3"
+   },
+   {
+    "jp": "いつか政府も、私たちがしていることに賛同してくれるだろう。",
+    "en": "The government will eventually agree with what we’re doing.",
+    "romaji": "itsuka seifu mo, watashitachi ga shite iru koto ni sandou shite kureru darou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-4.mp3"
+   },
+   {
+    "jp": "あの山の下は陰で、涼しいだろう。",
+    "en": "It would be cool and shady under those mountains.",
+    "romaji": "ano yama no shita wa kage de, suzushii darou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-5.mp3"
+   },
+   {
+    "jp": "その二つの大企業の合併は、食品業界に大きな影響を及ぼすだろう。",
+    "en": "The integration of those two large companies will greatly affect the food industry.",
+    "romaji": "sono futatsu no daikigyou no gappei wa, shokuhin gyoukai ni ooki na eikyou o oyobosu darou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-6.mp3"
+   },
+   {
+    "jp": "それじゃ、私の出発が村の話題になってたんだろうか？",
+    "en": "So are all the villagers discussing my departure then?",
+    "romaji": "sore ja, watashi no shuppatsu ga mura no wadai ni nattetan darou ka.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-7.mp3"
+   },
+   {
+    "jp": "最初はまさか食べないだろうと思ったんですが、キムさんは新人俳優のように情熱的で、これほどの熱意があれば、実際にやってもらえるんじゃないかと思うようになりました。",
+    "en": "At first I thought there’s no way he’s gonna eat it, but Kim has a strong passion like a new actor, so I began to think maybe with this enthusiasm, he’s really gonna do it.",
+    "romaji": "saisho wa masaka tabenai darou to omottan desu ga, kimusan wa shinjin haiyuu no you ni jounetsuteki de, kore hodo no netsui ga areba, jissai ni yatte moraerun janai ka to omou you ni narimashita.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-8.mp3"
+   },
+   {
+    "jp": "君は、話を聞きだすのが上手だろうと思った。",
+    "en": "I thought you were good at getting people to talk.",
+    "romaji": "kimi wa, hanashi o kikidasu no ga jouzu darou to omotta.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-9.mp3"
+   },
+   {
+    "jp": "お前もきっと、このところ、おかしい話をいろいろ聞いてるだろう？",
+    "en": "You also hear strange things these days, don’t you?",
+    "romaji": "omae mo kitto, kono tokoro, okashii hanashi o iroiro kiiteru darou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-10.mp3"
+   },
+   {
+    "jp": "あなたは、きっと一番重いものばかり私のところによこしたんだろうね。",
+    "en": "I am sure you have given me all the heaviest stuff.",
+    "romaji": "anata wa, kitto ichiban omoi mono bakari watashi no tokoro ni yokoshitan darou ne.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-11.mp3"
+   },
+   {
+    "jp": "俺が貯金しなきゃならねえってこともわかるだろう。",
+    "en": "You know I have to save money.",
+    "romaji": "ore ga chokin shinakya naranee tte koto mo wakaru darou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-12.mp3"
+   },
+   {
+    "jp": "なんの用でおれは警察へ呼ばれているんだろう？",
+    "en": "Why am I sent for to the police office?",
+    "romaji": "nan no you de ore wa keisatsu e yobarete irun darou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-13.mp3"
+   },
+   {
+    "jp": "あの谷をはたしてふたたび眺めることがあるだろうか。",
+    "en": "Shall I ever look down into that valley again, I wonder.",
+    "romaji": "ano tani o hatashite futatabi nagameru koto ga aru darou ka.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-14.mp3"
+   },
+   {
+    "jp": "なんて幼気で、かわいくて、女らしい人なんだろう。",
+    "en": "What a helpless, sweet, womanly person she is.",
+    "romaji": "nante itaike de, kawaikute, onna rashii hito nan darou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-15.mp3"
+   },
+   {
+    "jp": "あなたはそれいじょう、お金はいらないだろう。",
+    "en": "You don’t need more money than that.",
+    "romaji": "anata wa sore ijou, okane wa iranai darou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-darou-16.mp3"
+   },
+   {
+    "jp": "でしょう (deshou)",
+    "en": "かしら (kashira)",
+    "romaji": "かな (kana)"
+   }
+  ],
+  "id": "n5-g3"
+ },
+ {
+  "title": "で (de) – 1",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-30/",
+  "meaning": "in, at, on",
+  "formation": "Location + で",
+  "examples": [
+   {
+    "jp": "この帽子はどこで買いましたか？",
+    "en": "Where did you buy this hat?",
+    "romaji": "kono boushi wa doko de kaimashita ka.",
+    "audio": "https://japanesetest4you.com/audio/n5g-de1-1.mp3"
+   },
+   {
+    "jp": "このレストランで食事しましょう。",
+    "en": "Let’s eat at this restaurant.",
+    "romaji": "kono resutoran de shokuji shimashou.",
+    "audio": "https://japanesetest4you.com/audio/n5g-de1-2.mp3"
+   },
+   {
+    "jp": "家の中で遊ばないで。",
+    "en": "Don’t play inside the house.",
+    "romaji": "ie no naka de asobanaide.",
+    "audio": "https://japanesetest4you.com/audio/n5g-de1-3.mp3"
+   },
+   {
+    "jp": "どこで日本語を勉強していますか？",
+    "en": "Where are you studying Japanese?",
+    "romaji": "doko de nihongo o benkyou shite imasu ka.",
+    "audio": "https://japanesetest4you.com/audio/n5g-de1-4.mp3"
+   },
+   {
+    "jp": "新宿駅南口で会いましょうか？",
+    "en": "Shall we meet at the South gate of Shinjuku station?",
+    "romaji": "shinjuku eki minamiguchi de aimashou ka.",
+    "audio": "https://japanesetest4you.com/audio/n5g-de1-5.mp3"
+   },
+   {
+    "jp": "被害者は公園で殺された。",
+    "en": "The victim was killed in the park.",
+    "romaji": "higaisha wa kouen de korosareta.",
+    "audio": "https://japanesetest4you.com/audio/n5g-de1-6.mp3"
+   },
+   {
+    "jp": "私はいつも図書館で本を読みます。",
+    "en": "I always read books in the library.",
+    "romaji": "watashi wa itsumo toshokan de hon o yomimasu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-de1-7.mp3"
+   },
+   {
+    "jp": "ここでサッカーをしないでください。",
+    "en": "Please don’t play soccer here.",
+    "romaji": "koko de sakkaa o shinaide kudasai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-de1-8.mp3"
+   },
+   {
+    "jp": "その著作権論争は法廷で決着しました。",
+    "en": "The copyright dispute was settled in court.",
+    "romaji": "sono chosakuken ronsou wa houtei de kecchaku shimashita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-de1-9.mp3"
+   },
+   {
+    "jp": "数百人の幸運なファンがロンドンで列を成し、「ハリー・ポッターと呪いの子」の初公演を火曜日に見ました。",
+    "en": "Hundreds of lucky fans lined up in London to see the first showing of Harry Potter and the Cursed Child on Tuesday.",
+    "romaji": "suuhyakunin no kouun na fan ga rondon de retsu o nashi, harii pottaa to noroi no ko no shokouen o kayoubi ni mimashita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-de1-10.mp3"
+   },
+   {
+    "jp": "探検家たちは、ブラジルのジャングルで、失われた文明を発見した。",
+    "en": "Explorers discovered a lost civilization in the jungles of Brazil.",
+    "romaji": "tankenkatachi wa, burajiru no janguru de, ushinawareta bunmei o hakken shita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-de1-11.mp3"
+   },
+   {
+    "jp": "大学で蝶類の研究をしております。",
+    "en": "I study butterfly species at the university.",
+    "romaji": "daigaku de chourui no kenkyuu o shite orimasu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-de1-12.mp3"
+   },
+   {
+    "jp": "道程のどこかで、別々の方向へ歩き出した。",
+    "en": "Somewhere along the road we took different turnings.",
+    "romaji": "doutei no dokoka de, betsubetsu no houkou e arukidashita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-de1-13.mp3"
+   },
+   {
+    "jp": "中田は家の前で封筒の中を確かめている。",
+    "en": "Nakada’s checking the inside of the envelope in front of the house.",
+    "romaji": "nakada wa ie no mae de fuutou no naka o tashikamete iru.",
+    "audio": "https://japanesetest4you.com/audio/n5g-de1-14.mp3"
+   },
+   {
+    "jp": "危険が多く、物騒で、不潔で、騒がしい環境で生活している人もいました。",
+    "en": "Some of them lived in risky, dangerous, dirty and loud environments.",
+    "romaji": "kiken ga ooku, bussou de, fuketsu de, sawagashii kankyou de seikatsu shite iru hito mo imashita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-de1-15.mp3"
+   }
+  ],
+  "id": "n5-g4"
+ },
+ {
+  "title": "で (de) – 2",
+  "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n5-grammar-%e3%81%a7-de-2/",
+  "meaning": "by; with; using; for",
+  "formation": "Noun + で",
+  "examples": [
+   {
+    "jp": "おれは自分の目で見たことを信じる男なんだ。",
+    "en": "I believe what I see with my own eyes.",
+    "romaji": "ore wa jibun no me de mita koto o shinjiru otoko nan da.",
+    "audio": "https://japanesetest4you.com/media/010/n5g-de2-19.mp3"
+   },
+   {
+    "jp": "わたしは頭痛がすると言って一人で帰って来ました。",
+    "en": "I said I had a headache and came back alone.",
+    "romaji": "Watashi wa zutsuu ga suru to itte hitori de kaette kimashita.",
+    "audio": "https://japanesetest4you.com/media/010/n5g-de2-20.mp3"
+   },
+   {
+    "jp": "なにかの理由で彼はもどってきませんでした。",
+    "en": "For some reason or other he had not returned.",
+    "romaji": "nanika no riyuu de kare wa modotte kimasen deshita.",
+    "audio": "https://japanesetest4you.com/media/010/n5g-de2-21.mp3"
+   },
+   {
+    "jp": "二人はふるえる指でそれを拡げた。紙は白紙だった！",
+    "en": "With trembling fingers they unfolded it. The sheet was blank!",
+    "romaji": "futari wa furueru yubi de sore o hirogeta. kami wa hakushi datta.",
+    "audio": "https://japanesetest4you.com/media/010/n5g-de2-22.mp3"
+   },
+   {
+    "jp": "あたりの雰囲気は、棺のにおいでよごされている感じだった。",
+    "en": "The atmosphere seemed tainted with the smell of coffins.",
+    "romaji": "atari no fun’iki wa, hitsugi no nioi de yogosarete iru kanji datta.",
+    "audio": "https://japanesetest4you.com/media/010/n5g-de2-23.mp3"
+   },
+   {
+    "jp": "だれがこの遺言書を燃やしたのだ？何の目的で？",
+    "en": "Who destroyed this will? And what was their object?",
+    "romaji": "dare ga kono yuigonsho o moyashita no da. nan no mokuteki de.",
+    "audio": "https://japanesetest4you.com/media/010/n5g-de2-24.mp3"
+   },
+   {
+    "jp": "あなたのことでなにか妙な噂が流されているのですね。",
+    "en": "There is evidently some story being circulated about you.",
+    "romaji": "anata no koto de nanika myou na uwasa ga nagasarete iru no desu ne.",
+    "audio": "https://japanesetest4you.com/media/010/n5g-de2-25.mp3"
+   },
+   {
+    "jp": "そうはいっても、わたし、あることで、ひどく悩んでいます。",
+    "en": "But all the same, I’m sorely troubled about something.",
+    "romaji": "sou wa itte mo, watashi, aru koto de, hidoku nayande imasu.",
+    "audio": "https://japanesetest4you.com/media/010/n5g-de2-26.mp3"
+   },
+   {
+    "jp": "インターネットで花を注文して、確認メールを受け取った。",
+    "en": "I ordered flowers online and received a confirmation by email.",
+    "romaji": "intaanetto de hana o chuumon shite, kakunin meeru o uketotta.",
+    "audio": "https://japanesetest4you.com/media/010/n5g-de2-27.mp3"
+   },
+   {
+    "jp": "だから僕は、先祖伝来のものおよび、労力で得たものを尊重するのだ。",
+    "en": "That’s why I prize what’s come to me from my ancestors or been won by hard work.",
+    "romaji": "dakara boku wa, senzo denrai no mono oyobi, rouryoku de eta mono o sonchou suru no da.",
+    "audio": "https://japanesetest4you.com/media/010/n5g-de2-28.mp3"
+   },
+   {
+    "jp": "震える指で、彼女は封筒を開けた。",
+    "en": "She opened the envelope with her trembling fingers.",
+    "romaji": "furueru yubi de, kanojo wa fuutou o aketa.",
+    "audio": "https://japanesetest4you.com/media/010/n5g-de2-1.mp3"
+   },
+   {
+    "jp": "今の雷でどこかの電線が切れた。",
+    "en": "That lightning just now cut one of the power lines.",
+    "romaji": "ima no kaminari de dokoka no densen ga kireta.",
+    "audio": "https://japanesetest4you.com/media/010/n5g-de2-2.mp3"
+   },
+   {
+    "jp": "彼は人気のない海岸に一人で立っている。",
+    "en": "He stood alone on the quiet beach.",
+    "romaji": "kare wa ninki no nai kaigan ni hitori de tatte iru.",
+    "audio": "https://japanesetest4you.com/media/010/n5g-de2-3.mp3"
+   },
+   {
+    "jp": "なんであの人あんな格好で車内うろついてんの？",
+    "en": "Why is he wandering around the train looking like that?",
+    "romaji": "nande ano hito anna kakkou de shanai urotsuiten no.",
+    "audio": "https://japanesetest4you.com/media/010/n5g-de2-4.mp3"
+   },
+   {
+    "jp": "青年は乾いた砂の上で足のしずくを払った。",
+    "en": "The young man stamped on the dry sand to shake off the wet.",
+    "romaji": "seinen wa kawaita suna no ue de ashi no shizuku o haratta.",
+    "audio": "https://japanesetest4you.com/media/010/n5g-de2-5.mp3"
+   },
+   {
+    "jp": "何がきっかけでそんな恐ろしい光景を見たのか、心当たりはありますか？",
+    "en": "Any idea what might have sparked such a frightening vision?",
+    "romaji": "nani ga kikkake de sonna osoroshii koukei o mita no ka, kokoroatari wa arimasu ka.",
+    "audio": "https://japanesetest4you.com/media/010/n5g-de2-6.mp3"
+   },
+   {
+    "jp": "こんな重い物を一人で動かすには相当骨が折れます。",
+    "en": "It’d be hard for one person to move something this heavy around.",
+    "romaji": "konna omoi mono o hitori de ugokasu ni wa soutou hone ga oremasu.",
+    "audio": "https://japanesetest4you.com/media/010/n5g-de2-7.mp3"
+   },
+   {
+    "jp": "部屋はたちまち火と煙で埋まりました。",
+    "en": "The room was filled with fire and smoke.",
+    "romaji": "heya wa tachimachi hi to kemuri de umarimashita.",
+    "audio": "https://japanesetest4you.com/media/010/n5g-de2-8.mp3"
+   },
+   {
+    "jp": "あなたの危険な冒険旅行には、連れは一人では足りませんよ。",
+    "en": "You will need more than one companion in your dangerous adventure.",
+    "romaji": "anata no kiken na bouken ryokou ni wa, tsure wa hitori de wa tarimasen yo.",
+    "audio": "https://japanesetest4you.com/media/010/n5g-de2-9.mp3"
+   },
+   {
+    "jp": "地元のコミュニティが設立したこのセンターは、寄付金で運営されています。",
+    "en": "The community here set up this center, which is run on donations.",
+    "romaji": "jimoto no komyuniti ga setsuritsu shita kono sentaa wa, kifukin de un’ei sarete imasu.",
+    "audio": "https://japanesetest4you.com/media/010/n5g-de2-10.mp3"
+   },
+   {
+    "jp": "インターネットを利用する人が、コンテンツの良し悪しを一瞬で判断できるようになっている。",
+    "en": "Internet users can tell in an instant whether the content (of a website) is good or bad.",
+    "romaji": "intaanetto o riyou suru hito ga, kontentsu no yoshiashi o isshun de handan dekiru you ni natte iru.",
+    "audio": "https://japanesetest4you.com/media/010/n5g-de2-11.mp3"
+   },
+   {
+    "jp": "機会があったら日本語能力試験を受けたい。インタビューする時に日本語でスラスラ答えられるようになりたい。",
+    "en": "I’d like to take the Japanese Language Proficiency Test if I had the chance. I want to answer interview questions smoothly in Japanese.",
+    "romaji": "kikai ga attara nihongo nouryoku shiken o uketai. intabyuu suru toki ni nihongo de surasura kotaerareru you ni naritai.",
+    "audio": "https://japanesetest4you.com/media/010/n5g-de2-12.mp3"
+   },
+   {
+    "jp": "政治家は「結果」ではなく「公約」で評価を求めます。",
+    "en": "Politicians ask to be judged by their promises, not their results.",
+    "romaji": "seijika wa kekka de wa naku kouyaku de hyouka o motomemasu.",
+    "audio": "https://japanesetest4you.com/media/010/n5g-de2-13.mp3"
+   },
+   {
+    "jp": "ところで当時、商品の袋詰めで、時給はどのくらいだったんでしょうね？",
+    "en": "What would the hourly rate possibly have been at that time for bagging groceries?",
+    "romaji": "tokoro de touji, shouhin no fukurodzume de, jikyuu wa dono kurai dattan deshou ne.",
+    "audio": "https://japanesetest4you.com/media/010/n5g-de2-14.mp3"
+   },
+   {
+    "jp": "１１歳で自らの個性を築き上げる人なんて、いないとは思います。",
+    "en": "Nobody develops their own character when they’re eleven, I think.",
+    "romaji": "juuissai de mizukara no kosei o kizukiageru hito nante, inai to wa omoimasu.",
+    "audio": "https://japanesetest4you.com/media/010/n5g-de2-15.mp3"
+   },
+   {
+    "jp": "私たちの質問攻めで、そのお医者さんが一番大変だったかもしれません。",
+    "en": "That doctor had the hardest time since we were bombarding him with questions.",
+    "romaji": "watashitachi no shitsumonzeme de, sono oishasan ga ichiban taihen datta kamoshiremasen.",
+    "audio": "https://japanesetest4you.com/media/010/n5g-de2-16.mp3"
+   },
+   {
+    "jp": "多くの人が間違った理由で投票したとも思っているんです。より大きな視点で考えずにね。",
+    "en": "I also think that many people voted for the wrong reason and didn’t see the bigger picture.",
+    "romaji": "ooku no hito ga machigatta riyuu de touhyou shita to mo omotte irun desu. yori ookina shiten de kangaezu ni ne.",
+    "audio": "https://japanesetest4you.com/media/010/n5g-de2-17.mp3"
+   },
+   {
+    "jp": "これまでやった仕事、アルバイトで、すごく変わったものってある？",
+    "en": "Are there any really unusual jobs that you’ve had – part-time jobs?",
+    "romaji": "kore made yatta shigoto, arubaito de, sugoku kawatta mono tte aru.",
+    "audio": "https://japanesetest4you.com/media/010/n5g-de2-18.mp3"
+   }
+  ],
+  "id": "n5-g5"
+ },
+ {
+  "title": "でしょう (deshou)",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-flashcard-20/",
+  "meaning": "I think, probably",
+  "formation": "Noun + でしょう\nVerb + でしょう\nAdjective + でしょう",
+  "examples": [
+   {
+    "jp": "あなたならうまく乗り切れるでしょう。",
+    "en": "I know you will be able to get through it.",
+    "romaji": "anata nara umaku norikireru deshou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-16.mp3"
+   },
+   {
+    "jp": "あの世へ行けば、何もかもよくわかるでしょう。",
+    "en": "In another world we shall understand it all.",
+    "romaji": "ano yo e ikeba, nanimo kamo yoku wakaru deshou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-17.mp3"
+   },
+   {
+    "jp": "ばかげた話に聞こえるでしょうね。",
+    "en": "I expect that sounds foolish to you.",
+    "romaji": "bakageta hanashi ni kikoeru deshou ne.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-18.mp3"
+   },
+   {
+    "jp": "それではその話全部はたぶん伝説なのでしょうね。",
+    "en": "Probably the whole story is a myth.",
+    "romaji": "sore dewa sono hanashi zenbu wa tabun densetsu na no deshou ne.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-19.mp3"
+   },
+   {
+    "jp": "そんな自白を信じる者は多くないでしょうね。",
+    "en": "Many might doubt such a confession.",
+    "romaji": "sonna jihaku o shinjiru mono wa ookunai deshou ne.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-20.mp3"
+   },
+   {
+    "jp": "私の娘の子供たち、可愛いでしょう？",
+    "en": "My daughter’s children. Aren’t they cute?",
+    "romaji": "watashi no musume no kodomotachi, kawaii deshou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-21.mp3"
+   },
+   {
+    "jp": "熱心なアップルファンはきっと買うでしょう。",
+    "en": "The die-hard Apple followers will buy it.",
+    "romaji": "nesshin na appuru fan wa kitto kau deshou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-22.mp3"
+   },
+   {
+    "jp": "わたしは最初の任務を決して忘れないでしょう。",
+    "en": "I’ll never forget my first assignment.",
+    "romaji": "watashi wa saisho no ninmu o kesshite wasurenai deshou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-23.mp3"
+   },
+   {
+    "jp": "ご自分がどんなに幸運な方か、おわかりでしょうね。",
+    "en": "You know how lucky you are, don’t you?",
+    "romaji": "gojibun ga donna ni kouun na kata ka, owakari deshou ne.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-24.mp3"
+   },
+   {
+    "jp": "きっと有益なご協力をいただけるでしょう。",
+    "en": "I am sure your co-operation will be very valuable.",
+    "romaji": "kitto yuueki na gokyuryoku o itadakeru deshou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-25.mp3"
+   },
+   {
+    "jp": "今、あなたが望んでいたのは、理知だったんでしょう。",
+    "en": "It was intelligence you were requiring just now.",
+    "romaji": "ima, anata ga nozonde ita no wa, richi dattan deshou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-26.mp3"
+   },
+   {
+    "jp": "私は何たる低能だったでしょう。ようやく、はっきりと解った。",
+    "en": "I have been an imbecile. I see clearly at last.",
+    "romaji": "watashi wa nantaru teinou datta deshou. youyaku, hakkiri to wakatta.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-27.mp3"
+   },
+   {
+    "jp": "ねえ、コーヒー茶碗は、粉みじんにこわれているでしょう。",
+    "en": "See, the coffee-cup is absolutely smashed to powder.",
+    "romaji": "nee, koohii chawan wa, konamijin ni kowarete iru deshou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-28.mp3"
+   },
+   {
+    "jp": "わたしが行けば、ショウタも、今晩は泊めてくれるでしょう。",
+    "en": "Shota will put me up for the night when I get there.",
+    "romaji": "watashi ga ikeba, shouta mo, konban wa tomete kureru deshou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-29.mp3"
+   },
+   {
+    "jp": "どうすればあなたのように平常心を保っていられるのでしょう。",
+    "en": "How do I maintain serenity and peace like you?",
+    "romaji": "dou sureba anata no you ni heijoushin o tamotte irareru no deshou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-30.mp3"
+   },
+   {
+    "jp": "けっきょく、あの地方みたいなところは、ありませんでしょう？",
+    "en": "After all, there’s nothing like the country, is there?",
+    "romaji": "kekkyoku, ano chihou mitai na tokoro wa, arimasen deshou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-31.mp3"
+   },
+   {
+    "jp": "その問題については、たぶんあなたは何も聞いていないでしょう。",
+    "en": "It is unlikely that you would ever have heard anything of the matter.",
+    "romaji": "sono mondai ni tsuite wa, tabun anata wa nanimo kiite inai deshou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-32.mp3"
+   },
+   {
+    "jp": "一生懸命に働いて、運もあればそのうちにはお金持ちにもなるでしょう。",
+    "en": "With diligence and good luck, you may be rich in time.",
+    "romaji": "isshou kenmei ni hataraite, un mo areba sono uchi ni wa okanemochi ni mo naru deshou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-33.mp3"
+   },
+   {
+    "jp": "正直に言って、この中ではおそらく、わたしがいちばん怖くないでしょう。",
+    "en": "To be honest, I’m probably the least scary of them all.",
+    "romaji": "shoujiki ni itte, kono naka dewa osoraku, watashi ga ichiban kowakunai deshou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-34.mp3"
+   },
+   {
+    "jp": "ここで手紙は切れています。疑いもなく、書き手に邪魔がはいったのでしょう。",
+    "en": "Here, the letter breaks off. Doubtless the writer was interrupted.",
+    "romaji": "koko de tegami wa kirete imasu. utagai mo naku, kakite ni jama ga haitta no deshou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-35.mp3"
+   },
+   {
+    "jp": "こう言うと曖昧に聞こえるでしょうが、わたしはあらゆる書類の音楽が好きです。",
+    "en": "I know this sounds ambiguous, but I like all kinds of music.",
+    "romaji": "kou iu to aimai ni kikoeru deshou ga, watashi wa arayuru shorui no ongaku ga suki desu.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-36.mp3"
+   },
+   {
+    "jp": "そう、それは事実でしょうね。多くの人々は当然そうしたでしょう。",
+    "en": "Yes, I suppose that is true. It would have been many people’s natural reaction.",
+    "romaji": "sou, sore wa jijitsu deshou ne. ooku no hitobito wa touzen sou shita deshou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-37.mp3"
+   },
+   {
+    "jp": "これがつづけば、このちっぽけな街はいずれゴーストタウンになるでしょうね。",
+    "en": "If it keeps up, this burg’s gonna be a ghost town.",
+    "romaji": "kore ga tsuzukeba, kono chippoke na machi wa izure goosuto taun ni naru deshou ne.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-38.mp3"
+   },
+   {
+    "jp": "もし男の人が来てくれなかったら、わたしだってきっと溺れ死んでいたでしょう。",
+    "en": "If that man had not come out I should have been drowned too.",
+    "romaji": "moshi otoko no hito ga kite kurenakattara, watashi datte kitto oboreshinde ita deshou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-39.mp3"
+   },
+   {
+    "jp": "あなたが雇われているという会社が、そのことを否認しているのは、ご存じでしょうね？",
+    "en": "You are aware, are you not, that the firm who you say employed you deny the fact?",
+    "romaji": "anata ga yatowarete iru to iu kaisha ga, sono koto o hinin shite iru no wa, gozonji deshou ne.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-40.mp3"
+   },
+   {
+    "jp": "そう注意ぶかく扱う必要はありませんよ。そこには、わたしの指紋しか残っていないでしょうよ。",
+    "en": "You need not be so careful. There will be no fingerprints on it save those of mine.",
+    "romaji": "sou chuui bukaku atsukau hitsuyou wa arimasen yo. soko ni wa, watashi no shimon shika nokotte inai deshou yo.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-41.mp3"
+   },
+   {
+    "jp": "それからよ、あの男が自分の条件を切り出したの。それが、なんであるか、さっしがつくでしょう。",
+    "en": "Then he named his own terms. Perhaps you can guess what they were.",
+    "romaji": "sore kara yo, ano otoko ga jibun no jouken o kiridashita no. sore ga, nan de aru ka, sasshi ga tsuku deshou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-42.mp3"
+   },
+   {
+    "jp": "「練習」「根気」「忍耐」「情熱」がなければ、わたしは今こうして皆さんにお話ししていなかったでしょう。",
+    "en": "Without the practice, the perseverance, the patience and the passion, I wouldn’t be here right now talking to you.",
+    "romaji": "renshuu konki nintai jounetsu ga nakereba, watashi wa ima kou shite minasan ni ohanashi shite inakatta deshou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-43.mp3"
+   },
+   {
+    "jp": "明日は雨が降るでしょう。",
+    "en": "It will probably rain tomorrow.",
+    "romaji": "ashita wa ame ga furu deshou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-1.mp3"
+   },
+   {
+    "jp": "日本人が晩ごはんによく食べるものは寿司でしょう。",
+    "en": "Japanese people probably eat sushi a lot for dinner.",
+    "romaji": "nihonjin ga bangohan ni yoku taberu mono wa sushi deshou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-2.mp3"
+   },
+   {
+    "jp": "今夜は風が強いでしょう。",
+    "en": "The wind will be strong tonight.",
+    "romaji": "kon’ya wa kaze ga tsuyoi deshou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-3.mp3"
+   },
+   {
+    "jp": "学校から帰ったら、すぐ宿題するって、お父さんと約束したでしょう。",
+    "en": "Didn’t you promise Dad that you’d do your homework right after returning from school?",
+    "romaji": "gakkou kara kaettara, sugu shukudai suru tte, otousan to yakusoku shita deshou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-4.mp3"
+   },
+   {
+    "jp": "宿題は後でできるでしょう？手伝いなさい。",
+    "en": "You can do your homework later, right? Help me now.",
+    "romaji": "shukudai wa atode dekiru deshou? tetsudai nasai.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-5.mp3"
+   },
+   {
+    "jp": "しかしなにか間違いがあったのでしょう。",
+    "en": "But there must be some kind of mistake.",
+    "romaji": "shikashi nanika machigai ga atta no deshou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-6.mp3"
+   },
+   {
+    "jp": "まだ解けてない大きな謎があるでしょう？",
+    "en": "Isn’t there still a big mystery that you haven’t solved yet?",
+    "romaji": "mada toketenai ookina nazo ga aru deshou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-7.mp3"
+   },
+   {
+    "jp": "あなたなら何を手がけても成功なさるでしょう。",
+    "en": "You could be a success at anything you turned your hand to.",
+    "romaji": "anata nara nani o tegakete mo seikou nasaru deshou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-8.mp3"
+   },
+   {
+    "jp": "それなのに突然、政府は銃を取って、私たちに発砲しました。あんなことになるなど、誰が想像できたでしょう？",
+    "en": "But suddenly, they took the guns and shot at us. Who could imagine this scenery?",
+    "romaji": "sore na noni totsuzen, seifu wa juu o totte, watashitachi ni happou shimashita. anna koto ni naru nado, dare ga souzou dekita deshou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-9.mp3"
+   },
+   {
+    "jp": "来る２０１７年１月には、すべてのことが再び可能になるでしょう。",
+    "en": "Come January ’17, all things will be possible again.",
+    "romaji": "kuru nisen juunana nen ichigatsu ni wa, subete no koto ga futatabi kanou ni naru deshou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-10.mp3"
+   },
+   {
+    "jp": "誰も代議員の過半数を獲得できなかったらどうなるのでしょう？",
+    "en": "What happens if no one wins a majority of delegates?",
+    "romaji": "daremo daigiin no kahansuu o kakutoku dekinakattara dou naru no deshou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-11.mp3"
+   },
+   {
+    "jp": "移民の社会福祉手当については、何らかの微調整が図られるでしょう。",
+    "en": "There will be some tweaks on migrants’ benefits.",
+    "romaji": "imin no shakai ifukushi teate ni tsuite wa, nanraka no bichousei ga hakarareru deshou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-12.mp3"
+   },
+   {
+    "jp": "彼は皆さんの、最も偉大な、最も正直な、最も忠実な擁護者となるでしょう。",
+    "en": "He will be your greatest, your truest and your most loyal champion.",
+    "romaji": "kare wa minasan no, motto mo idai na, motto mo shoujiki na, motto mo chuujitsu na yougosha to naru deshou.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-deshou-15.mp3"
+   }
+  ],
+  "id": "n5-g6"
+ },
+ {
+  "title": "が (ga) – 1",
+  "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n5-grammar-%e3%81%8c-ga-1/",
+  "meaning": "",
+  "formation": "",
+  "examples": [
+   {
+    "jp": "非常階段があるな。これは便利だ。",
+    "en": "Here is an emergency staircase. That is convenient.",
+    "romaji": "hijou kaidan ga aru na. kore wa benri da.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ga3-1.mp3"
+   },
+   {
+    "jp": "あなたがピアノを弾けるとは知りませんでした。",
+    "en": "I didn’t know you could play the piano.",
+    "romaji": "anata ga piano o hikeru to wa shirimasen deshita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ga3-2.mp3"
+   },
+   {
+    "jp": "次から次へと恐ろしい危険が待っていて、逃げてまわる旅なのだ。",
+    "en": "During this trip I will fly from deadly peril into deadly peril.",
+    "romaji": "tsugi kara tsugi e to osoroshii kiken ga matte ite, nigetemawaru tabi na no da.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ga3-3.mp3"
+   },
+   {
+    "jp": "イギリスの経済的安定、私の子どもたちの将来が心配なんです。",
+    "en": "I’m worried for the economic stability of the UK, and I’m worried for my children’s future.",
+    "romaji": "igirisu no keizaiteki antei, watashi no kodomotachi no shourai ga shinpai nan desu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ga3-4.mp3"
+   },
+   {
+    "jp": "ドアが開いて小百合が姿を現わした。",
+    "en": "The door opened and Sayuri appeared.",
+    "romaji": "doa ga hiraite sayuri ga sugata o arawashita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ga3-5.mp3"
+   },
+   {
+    "jp": "推定で１０％のイギリス人が、アイルランド人の血筋を引いています。",
+    "en": "An estimated 10 percent of Brits have Irish heritage.",
+    "romaji": "suitei de juppaasento no igirisujin ga, airurandojin no chisuji o hiite imasu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ga3-6.mp3"
+   },
+   {
+    "jp": "夏が過ぎ、冬がふたたびやって来た。",
+    "en": "The summer passed, and winter came again.",
+    "romaji": "natsu ga sugi, fuyu ga futatabi yatte kita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ga3-7.mp3"
+   },
+   {
+    "jp": "星々が窓に光り、夜空の静けさが私を取り巻くように思えた。",
+    "en": "The stars shone through the window and the silence of the heavens seemed to be round me.",
+    "romaji": "hoshiboshi ga mado ni hikari, yozora no shizukesa ga watashi o torimaku you ni omoeta.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ga3-8.mp3"
+   },
+   {
+    "jp": "紙を走るペンの音がやんだ。",
+    "en": "The pen ceased to move over the paper.",
+    "romaji": "kami o hashiru pen no oto ga yanda.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ga3-9.mp3"
+   },
+   {
+    "jp": "よし、その金はわたしが貸そう。",
+    "en": "Okay, I will lend you the money.",
+    "romaji": "yoshi, sono kane wa watashi ga kasou.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ga3-10.mp3"
+   },
+   {
+    "jp": "私が私のものをどう処分しようと、それはあなたにどんな関係があるんです？",
+    "en": "What business is it of yours to know what I do with my own things?",
+    "romaji": "watashi ga watashi no mono o dou shobun shiyou to, sore wa anata ni donna kankei ga arun desu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ga3-11.mp3"
+   },
+   {
+    "jp": "日本の英語レベルが、外国人が日本でビジネスをすることをいっそう難しくしています。",
+    "en": "The level of English in Japan makes it more difficult for the foreigner to do business.",
+    "romaji": "nihon no eigo reberu ga, gaikokujin ga nihon de bijinesu o suru koto o issou muzukashiku shite imasu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ga3-12.mp3"
+   },
+   {
+    "jp": "自分の彼女が料理が下手だとガッカリする男性は多いようです。",
+    "en": "It seems that a lot of men feel disappointed when their girlfriends can’t cook.",
+    "romaji": "jibun no kanojo ga ryouri ga heta da to gakkari suru dansei wa ooi you desu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ga3-13.mp3"
+   },
+   {
+    "jp": "見たことのない時代を作り上げる面白さがありますね。",
+    "en": "It’s interesting to create an era that we’ve never seen.",
+    "romaji": "mita koto no nai jidai o tsukuriageru omoshirosa ga arimasu ne.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ga3-14.mp3"
+   },
+   {
+    "jp": "足が急に重くなり、猛烈な眠気がさしてきた。",
+    "en": "My legs felt suddenly heavy and a great drowsiness came upon me.",
+    "romaji": "ashi ga kyuu ni omoku nari, mouretsu na nemuke ga sashite kita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ga3-15.mp3"
+   },
+   {
+    "jp": "努力に努力を重ねて作り上げたキャラクターが素晴らしく、この作品を見れば誰もが彼のファンになってしまうのではないでしょうか。",
+    "en": "He kept on trying his hardest to create an amazing character. I think anyone who watches this movie will become his fan.",
+    "romaji": "doryoku ni doryoku o kasanete tsukuriageta kyarakutaa ga subarashiku, kono sakuhin o mireba daremo ga kare no fan ni natte shimau no de wa nai deshou ka.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ga3-16.mp3"
+   },
+   {
+    "jp": "Ｂｒｅｘｉｔの投票後、皆が大変なことになると話しています。",
+    "en": "Everybody speaks of calamity after the Brexit vote.",
+    "romaji": "Brexit no touhyougo, minna ga taihen na koto ni naru to hanashite imasu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ga3-17.mp3"
+   },
+   {
+    "jp": "庭の方からは、スバルが芝を刈る音が聞こえてきた。",
+    "en": "The sound of Subaru cutting the lawn came in from the garden.",
+    "romaji": "niwa no hou kara wa, subaru ga shiba o karu oto ga kikoete kita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ga3-18.mp3"
+   },
+   {
+    "jp": "女の子が落としたのは小さな指輪だった。",
+    "en": "What the little girl dropped was a small ring.",
+    "romaji": "onna no ko ga otoshita no wa chiisa na yubiwa datta.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ga3-19.mp3"
+   },
+   {
+    "jp": "戦う理由が僕にはないよ。",
+    "en": "I have no reason to fight.",
+    "romaji": "tatakau riyuu ga boku ni wa nai yo.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ga3-20.mp3"
+   }
+  ],
+  "id": "n5-g7"
+ },
+ {
+  "title": "が (ga) – 2",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-54-%e3%81%8c/",
+  "meaning": "but, however, still",
+  "formation": "Sentence 1 + が + Sentence 2",
+  "examples": [
+   {
+    "jp": "不況だったが、以前にはもっと深刻な不況もあった。",
+    "en": "There was a recession, but people had seen worse.",
+    "romaji": "fukyou datta ga, izen ni wa motto shinkoku na fukyou mo atta.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-22.mp3"
+   },
+   {
+    "jp": "眠れるとは思っていなかったが、わたしはちゃんと眠れた。",
+    "en": "I wasn’t sure I’d sleep, but I did, and soundly.",
+    "romaji": "nemureru to wa omotte inakatta ga, watashi wa chanto nemureta.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-23.mp3"
+   },
+   {
+    "jp": "水はいらないが、コカコーラをもらえばありがたいね。",
+    "en": "I don’t want water, but a Coca-Cola would be very nice.",
+    "romaji": "mizu wa iranai ga, kokakoora o moraeba arigatai ne.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-24.mp3"
+   },
+   {
+    "jp": "そんなことはないと思うが、断言できる者はいないな。",
+    "en": "I don’t think so, but who can tell?",
+    "romaji": "sonna koto wa nai to omou ga, dangen dekiru mono wa inai na.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-25.mp3"
+   },
+   {
+    "jp": "その会社の社長は辞任したが、誰も理由を説明しなかった。",
+    "en": "The company resident resigned, but no one explained why.",
+    "romaji": "sono kaisha no shachou wa jinin shita ga, dare mo riyuu o setsumei shinakatta.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-26.mp3"
+   },
+   {
+    "jp": "いくつか小さな欠点はあるが、これは素晴らしい小説だ。",
+    "en": "This is a great novel, although it has a few minor flaws.",
+    "romaji": "ikutsuka chiisa na ketten wa aru ga, kore wa subarashii shousetsu da.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-27.mp3"
+   },
+   {
+    "jp": "厳密に言うと、ここに駐車はできないが、皆がやっている。",
+    "en": "Technically, you can’t park here, but everybody does.",
+    "romaji": "genmitsu ni iu to, koko ni chuusha wa dekinai ga, mina ga yatte iru.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-28.mp3"
+   },
+   {
+    "jp": "彼は横になり、目を閉じて休息したが、眠りはしなかった。",
+    "en": "He lay down and close his eyes and rest, but he got no sleep whatever.",
+    "romaji": "kare wa yoko ni nari, me o tojite kyuusoku shita ga, nemuri wa shinakatta.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-29.mp3"
+   },
+   {
+    "jp": "成功は保証しませんが、可能性は充分あると思います。",
+    "en": "I do not guarantee success, but I do think there is a reasonable possibility of it.",
+    "romaji": "seikou wa hoshou shimasen ga, kanousei wa juubun aru to omoimasu.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-30.mp3"
+   },
+   {
+    "jp": "失礼ですが、それでは、まえのあなたのお話と喰いちがいますよ。",
+    "en": "Excuse me, but that is not just what you told us before.",
+    "romaji": "shitsurei desu ga, soredewa, mae no anata no ohanashi to kuichigaimasu yo.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-31.mp3"
+   },
+   {
+    "jp": "仕事なら金銭をもたらしてくれますが、友情は金には結びつきません。",
+    "en": "Business brings money, but friendship does not.",
+    "romaji": "shigoto nara kinsen o motarashite kuremasu ga, yuujou wa kane ni wa musubitsukimasen.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-32.mp3"
+   },
+   {
+    "jp": "君はこの上地へやって来た。そして商売をはじめたが、金につまった。",
+    "en": "You came here; you started a little business, but you were short of money.",
+    "romaji": "kimi wa kono jouchi e yatte kita. soshite shoubai o hajimeta ga, kane ni tsumatta.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-33.mp3"
+   },
+   {
+    "jp": "わたしは少しこわくなってきましたが、どうしたらいいかわかりませんでした。",
+    "en": "I began to get scared, but I didn’t know what to do.",
+    "romaji": "watashi wa sukoshi kowaku natte kimashita ga, dou shitara ii ka wakarimasen deshita.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-34.mp3"
+   },
+   {
+    "jp": "心臓発作を起こしたことはないが、これがその本物だっていう気がするよ。",
+    "en": "I never had a heart attack, but this sure feels like one.",
+    "romaji": "shinzou hossa o okoshita koto wa nai ga, kore ga sono honmono datte iu ki ga suru yo.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-35.mp3"
+   },
+   {
+    "jp": "アキラはわたしをばか呼ばわりしたが、それは侮辱というより冗談だった。",
+    "en": "Akira called me stupid, but it was more of a joke and an insult.",
+    "romaji": "akira wa watashi o baka yobawari shita ga, sore wa bujoku to iu yori joudan datta.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-36.mp3"
+   },
+   {
+    "jp": "わたしの父はジャズの大ファンだが、わたしはロックンロールが好きだ。",
+    "en": "My father is a jazz enthusiast, but I like rock ‘n’ roll.",
+    "romaji": "watashi no chichi wa jazu no daifan da ga, watashi wa rokkunrooru ga suki da.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-37.mp3"
+   },
+   {
+    "jp": "二人は、長いあいだ話をしていたが、ほとんど心のなぐさめにはならなかった。",
+    "en": "The two of them had a long talk, but it brought them little comfort.",
+    "romaji": "futari wa, nagai aida hanashi o shite ita ga, hotondo kokoro no nagusame ni wa naranakatta.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-38.mp3"
+   },
+   {
+    "jp": "このアパートは古くて狭いが、学校から近くて便利だ。",
+    "en": "Though this apartment is old and small, it’s convenient because it’s near my school.",
+    "romaji": "kono apaato wa furukute semai ga, gakkou kara chikakute benri da.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-1.mp3"
+   },
+   {
+    "jp": "失礼ですがこちらの切符は同じ３でもB寝台です。",
+    "en": "I’m sorry, your ticket is for compartment 3 on sleeping car B.",
+    "romaji": "shitsurei desu ga kochira no kippu wa onaji san demo bii shindai desu.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-2.mp3"
+   },
+   {
+    "jp": "口をきこうとしたが、舌がひきつった。",
+    "en": "I wished to speak, but my tongue refused to move.",
+    "romaji": "kuchi o kikou to shita ga, shita ga hikitsutta.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-3.mp3"
+   },
+   {
+    "jp": "出血はひどいですが、毒グモに刺された様子はありませんよ。",
+    "en": "The bleeding is bad, but it doesn’t seem like she was bitten by the poisonous spiders.",
+    "romaji": "shukketsu wa hidoi desu ga, dokugumo ni sasareta yousu wa arimasen yo.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-4.mp3"
+   },
+   {
+    "jp": "今年は撮影が忙しく、日本でファンの皆さんと会えませんでしたが、機会があれば、また日本に行きたいです。",
+    "en": "I’ve been busy filming this year so I couldn’t meet my Japanese fans, but I would love to go to Japan if I had the chance.",
+    "romaji": "kotoshi wa satsuei ga isogashiku, nihon de fan no minasan to aemasen deshita ga, kikai ga areba, mata nihon ni ikitai desu.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-5.mp3"
+   },
+   {
+    "jp": "通路は広かったが真暗だった。",
+    "en": "The path was wide, but dark.",
+    "romaji": "tsuuro wa hirokatta ga makkura datta.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-6.mp3"
+   },
+   {
+    "jp": "多少残酷かもしれませんが、少なくとも正確です。",
+    "en": "It is rather cruel, but it is true.",
+    "romaji": "tashou zankoku kamoshiremasen ga, sukunakutomo seikaku desu.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-7.mp3"
+   },
+   {
+    "jp": "２００９年に公開した映画ですが、今また見ても１０点満点中９点をつけられる映画です。",
+    "en": "This movie was released in 2009, but I’ll still give it a 9 out of 10 if I watch it again.",
+    "romaji": "nisen kyuu nen ni koukai shita eiga desu ga, ima mata mite mo juuten mantenchuu kyuu ten o tsukerareru eiga desu.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-8.mp3"
+   },
+   {
+    "jp": "彼は薬草にくわしかったが、旅には出なかった。",
+    "en": "He knew much about herbs, but he was no traveler.",
+    "romaji": "kare wa yakusou ni kuwashikatta ga, tabi ni wa denakatta.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-9.mp3"
+   },
+   {
+    "jp": "本は冷やかであるが、安全な友である。",
+    "en": "Books are cold but safe friends.",
+    "romaji": "hon wa hiyayaka de aru ga, anzen na tomo de aru.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-10.mp3"
+   },
+   {
+    "jp": "夕方この町に着いて宿屋にいったのですが、追い出されました。",
+    "en": "This evening, when I arrived in this town, I went to an inn, but they turned me out.",
+    "romaji": "yuugata kono machi ni tsuite yadoya ni itta no desu ga, oidasaremashita.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-11.mp3"
+   },
+   {
+    "jp": "高木は立ちあがった。汗が流れていたが顔色は蒼かった。",
+    "en": "Takagi rose. He was pale, though dripping with sweat.",
+    "romaji": "takagi wa tachiagatta. ase ga nagarete ita ga kaoiro wa aokatta.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-12.mp3"
+   },
+   {
+    "jp": "あなたは興味深い指摘をするが、それが関係あるのかわからない。",
+    "en": "You make an interesting point, but I’m not sure it’s relevant.",
+    "romaji": "anata wa kyoumibukai shiteki o suru ga, sore ga kankei aru no ka wakaranai.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-13.mp3"
+   },
+   {
+    "jp": "人々は映画スターを美化するが、彼らのうわさ話をするのも大好きだ。",
+    "en": "People idealise movie starts, but also love to gossip about them.",
+    "romaji": "hitobito wa eiga sutaa o bika suru ga, karera no uwasabanashi o suru no mo daisuki da.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-14.mp3"
+   },
+   {
+    "jp": "私は普段、紅茶にミルクを入れるが、砂糖は入れない。",
+    "en": "I normally take milk in my tea but not sugar.",
+    "romaji": "watashi wa fudan, koucha ni miruku o ireru ga, satou wa irenai.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-15.mp3"
+   },
+   {
+    "jp": "松田さんは、もともと医学を勉強していたが、音楽教師になった。",
+    "en": "Matsuda originally studied medicine, but he became a music teacher.",
+    "romaji": "matsudasan wa, motomoto igaku o benkyou shite ita ga, ongaku kyoushi ni natta.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-16.mp3"
+   },
+   {
+    "jp": "その会議ではみんなが解決策を求めたが、誰も提案しなかった。",
+    "en": "Everyone at the meeting demanded solutions, but no one proposed any.",
+    "romaji": "kono kaigi de wa minna ga kaiketsusaku o motometa ga, daremo teian shinakatta.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-17.mp3"
+   },
+   {
+    "jp": "彼の人生や性格には、どうにもめちゃくちゃな部分がありますが、それが真実です。",
+    "en": "There are parts of his life and personality that are extremely messy, but that’s the truth.",
+    "romaji": "kare no jinsei ya seikaku ni wa, dou ni mo mechakucha na bubun ga arimasu ga, sore ga shinjitsu desu.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-18.mp3"
+   },
+   {
+    "jp": "なぜだかわかりませんが、機内にはいつも、オレンジを持ち込みたくなるんです。",
+    "en": "I don’t know why, but I always like to have an orange on the plane.",
+    "romaji": "naze da ka wakarimasen ga, kinai ni wa itsumo, orenji o mochikomitakunarun desu.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-19.mp3"
+   },
+   {
+    "jp": "もちろん心配もしていますが、僕が実際に俳優になって、ある程度キャリアを築いて仕事をしていることに母は安心したようです。",
+    "en": "Of course my mom’s worried, but I have really become an actor and reached a certain point in my career, so I think she’s glad that I’m working.",
+    "romaji": "mochiron shinpai mo shite imasu ga, boku ga jissai ni haiyuu ni natte, aru teido kyaria o kizuite shigoto o shite iru koto ni haha wa anshin shita you desu.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-20.mp3"
+   },
+   {
+    "jp": "彼は外見も能力も完璧だが、とても敏感で冷たい。",
+    "en": "He’s very good-looking and talented, but he’s sensitive and cold.",
+    "romaji": "kare wa gaiken mo nouryoku mo kanpeki da ga, totemo binkan de tsumetai.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-ga1-21.mp3"
+   }
+  ],
+  "id": "n5-g8"
+ },
+ {
+  "title": "がある (gaaru)",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-24/",
+  "meaning": "to be, to exist",
+  "formation": "Person/Place + (に)は + thing + がある",
+  "examples": [
+   {
+    "jp": "奉仕する方法はたくさんある。",
+    "en": "There are so many ways to serve.",
+    "romaji": "houshi suru houhou wa takusan aru.",
+    "audio": "https://japanesetest4you.com/media002/n5g-aru-18.mp3"
+   },
+   {
+    "jp": "私は抗議したいことがあります。",
+    "en": "I have a complaint to make.",
+    "romaji": "watashi wa kougi shitai koto ga arimasu.",
+    "audio": "https://japanesetest4you.com/media002/n5g-aru-19.mp3"
+   },
+   {
+    "jp": "死よりも恐ろしいことがある。",
+    "en": "There are worse things than dying.",
+    "romaji": "shi yori mo osoroshii koto ga aru.",
+    "audio": "https://japanesetest4you.com/media002/n5g-aru-20.mp3"
+   },
+   {
+    "jp": "わたしには一つの確信があります。",
+    "en": "I know one thing for certain.",
+    "romaji": "watashi ni wa hitotsu no kakushin ga arimasu.",
+    "audio": "https://japanesetest4you.com/media002/n5g-aru-21.mp3"
+   },
+   {
+    "jp": "言うべきことがないときもある。",
+    "en": "Sometimes there’s nothing to say.",
+    "romaji": "iu beki koto ga nai toki mo aru.",
+    "audio": "https://japanesetest4you.com/media002/n5g-aru-22.mp3"
+   },
+   {
+    "jp": "まだまだ学ぶことはたくさんあるよ。",
+    "en": "You’ve got a lot to learn.",
+    "romaji": "madamada manabu koto wa takusan aru yo.",
+    "audio": "https://japanesetest4you.com/media002/n5g-aru-23.mp3"
+   },
+   {
+    "jp": "わからないことが、もう一つあるよ。",
+    "en": "There’s one thing I don’t understand.",
+    "romaji": "wakaranai koto ga, mou hitotsu aru yo.",
+    "audio": "https://japanesetest4you.com/media002/n5g-aru-24.mp3"
+   },
+   {
+    "jp": "われわれにはもっと大切な仕事がある。",
+    "en": "We have more pressing business.",
+    "romaji": "wareware ni wa motto taisetsu na shigoto ga aru.",
+    "audio": "https://japanesetest4you.com/media002/n5g-aru-25.mp3"
+   },
+   {
+    "jp": "ちょっと妙なことがひとつだけあります。",
+    "en": "You might call one thing a little odd.",
+    "romaji": "chotto myou na koto ga hitotsu dake arimasu.",
+    "audio": "https://japanesetest4you.com/media002/n5g-aru-26.mp3"
+   },
+   {
+    "jp": "人間はだれにもこんな盲点があるのか？",
+    "en": "Does every human have this blind spot?",
+    "romaji": "ningen wa dare ni mo konna mouten ga aru no ka.",
+    "audio": "https://japanesetest4you.com/media002/n5g-aru-27.mp3"
+   },
+   {
+    "jp": "きみに聞きたいことがたくさんあるんだ。",
+    "en": "There are lots of things I want to ask you.",
+    "romaji": "kimi ni kikitai koto ga takusan arun da.",
+    "audio": "https://japanesetest4you.com/media002/n5g-aru-28.mp3"
+   },
+   {
+    "jp": "たぶん壁のどこかに、のぞき穴があるだろう。",
+    "en": "There must be a peephole somewhere in the walls.",
+    "romaji": "tabun kabe no dokoka ni, nozoki ana ga aru darou.",
+    "audio": "https://japanesetest4you.com/media002/n5g-aru-29.mp3"
+   },
+   {
+    "jp": "世の中には、大層悲しいことが一ぱいありますわ。",
+    "en": "There are very sad things in the world.",
+    "romaji": "yo no naka ni wa, taisou kanashii koto ga ippai arimasu wa.",
+    "audio": "https://japanesetest4you.com/media002/n5g-aru-30.mp3"
+   },
+   {
+    "jp": "あなたにはなんとなくわたしの気に入らない点があるわ。",
+    "en": "There’s something about you that I don’t like.",
+    "romaji": "anata ni wa nan to naku watashi no ki ni iranai ten ga aru wa.",
+    "audio": "https://japanesetest4you.com/media002/n5g-aru-31.mp3"
+   },
+   {
+    "jp": "わたしが決断をくだすまでには、どのくらいの時間がある？",
+    "en": "How long have I got to decide?",
+    "romaji": "watashi ga ketsudan o kudasu made ni wa, dono kurai no jikan ga aru.",
+    "audio": "https://japanesetest4you.com/media002/n5g-aru-32.mp3"
+   },
+   {
+    "jp": "まちがいなくわたしたちには、おたがいに教えることがたくさんありますね。",
+    "en": "No doubt we have much to teach each other.",
+    "romaji": "machigai naku watashitachi ni wa, otagai ni oshieru koto ga takusan arimasu ne.",
+    "audio": "https://japanesetest4you.com/media002/n5g-aru-33.mp3"
+   },
+   {
+    "jp": "彼はわたしの息子です。わたしが命をあたえた。わたしには責任があります。",
+    "en": "He’s my son. I have given him life. I am responsible for him.",
+    "romaji": "kare wa watashi no musuko desu. watashi ga inochi o ataeta. watashi ni wa sekinin ga arimasu.",
+    "audio": "https://japanesetest4you.com/media002/n5g-aru-34.mp3"
+   },
+   {
+    "jp": "お金がありません。",
+    "en": "I have no money.",
+    "romaji": "okane ga arimasen.",
+    "audio": "https://japanesetest4you.com/audio/n5g-aru-1.mp3"
+   },
+   {
+    "jp": "あなたの鞄はテーブルの上にある。",
+    "en": "Your bag is on the table.",
+    "romaji": "anata no kaban wa teeburu no ue ni aru.",
+    "audio": "https://japanesetest4you.com/audio/n5g-aru-2.mp3"
+   },
+   {
+    "jp": "質問がありますか？",
+    "en": "Do you have any questions?",
+    "romaji": "shitsumon ga arimasu ka.",
+    "audio": "https://japanesetest4you.com/audio/n5g-aru-3.mp3"
+   },
+   {
+    "jp": "彼には家が二軒あります。",
+    "en": "He has two houses.",
+    "romaji": "kare ni wa ie ga niken arimasu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-aru-4.mp3"
+   },
+   {
+    "jp": "このアパートにはルームが二つあります。",
+    "en": "This apartment has 2 rooms.",
+    "romaji": "kono apaato ni wa ruumu ga futatsu arimasu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-aru-5.mp3"
+   },
+   {
+    "jp": "言いたいことがありますか？",
+    "en": "Is there anything you want to say?",
+    "romaji": "iitai koto ga arimasu ka.",
+    "audio": "https://japanesetest4you.com/audio/n5g-aru-6.mp3"
+   },
+   {
+    "jp": "日本の大好きなところはあります。",
+    "en": "There are things about Japan that I love.",
+    "romaji": "nihon no daisuki na tokoro wa arimasu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-aru-7.mp3"
+   },
+   {
+    "jp": "あのモールにあるいくつかの店舗が閉鎖した。",
+    "en": "Several stores in that mall have closed down.",
+    "romaji": "ano mooru ni aru ikutsuka no tenpo ga heisa shita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-aru-8.mp3"
+   },
+   {
+    "jp": "バヌアツには活火山がいくつかあるが、最も有名なのがこのヤスール山だ。",
+    "en": "Vanuatu has a number of active volcanos, among witch Mount Yasur is the most famous.",
+    "romaji": "banuatsu ni wa katsukazan ga ikutsuka aru ga, mottomo yuumei na no ga kono yasuuru yama da.",
+    "audio": "https://japanesetest4you.com/audio/n5g-aru-9.mp3"
+   },
+   {
+    "jp": "彼女の中にはまわりの人々に軽い緊張感を呼び起こす何かがあったのだ。",
+    "en": "Something about her made other people a bit tense.",
+    "romaji": "kanojo no naka ni wa mawari no hitobito ni karui kinchoukan o yobiokosu nanika ga attan no da.",
+    "audio": "https://japanesetest4you.com/audio/n5g-aru-10.mp3"
+   },
+   {
+    "jp": "なぜこんなものがかばんの中にあるんだ！",
+    "en": "Why do you have these in your bag?",
+    "romaji": "naze konna mono ga kaban no naka ni arun da.",
+    "audio": "https://japanesetest4you.com/audio/n5g-aru-11.mp3"
+   },
+   {
+    "jp": "この引出しに仕掛けがある。",
+    "en": "There’s a secret spring in this drawer.",
+    "romaji": "kono hikidashi ni shikake ga aru.",
+    "audio": "https://japanesetest4you.com/audio/n5g-aru-12.mp3"
+   },
+   {
+    "jp": "私はいささか医学の心得もあります。",
+    "en": "I have some knowledge of medical science.",
+    "romaji": "watashi wa isasaka igaku no kokoroe mo arimasu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-aru-13.mp3"
+   },
+   {
+    "jp": "今のところ特に異状はありません。",
+    "en": "There’s nothing out of the ordinary at the moment.",
+    "romaji": "ima no tokoro toku ni ijou wa arimasen.",
+    "audio": "https://japanesetest4you.com/audio/n5g-aru-14.mp3"
+   },
+   {
+    "jp": "穏やかな表面のすぐ下にはパニックがあった。",
+    "en": "Panic lay just beneath the surface.",
+    "romaji": "odayaka na hyoumen no sugu shita ni wa panikku ga atta.",
+    "audio": "https://japanesetest4you.com/audio/n5g-aru-15.mp3"
+   },
+   {
+    "jp": "私には良心を苦しめるものがあるのだ。",
+    "en": "I have a heavy burden upon my conscience.",
+    "romaji": "watashi ni wa ryoushin o kurushimeru mono ga aru no da.",
+    "audio": "https://japanesetest4you.com/audio/n5g-aru-16.mp3"
+   },
+   {
+    "jp": "扉のそばにひとつの小さい机があった。",
+    "en": "Near the door there stood a little table.",
+    "romaji": "tobira no soba ni hitotsu no chiisai tsukue ga atta.",
+    "audio": "https://japanesetest4you.com/audio/n5g-aru-17.mp3"
+   },
+   {
+    "jp": "がいる (ga iru): to exist (living things), there is/are",
+    "en": "てある (te aru): something is done",
+    "romaji": ""
+   }
+  ],
+  "id": "n5-g9"
+ },
+ {
+  "title": "がいる (gairu)",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-23/",
+  "meaning": "to exist, there is/are",
+  "formation": "Person/Place + (に)は + thing + がいる",
+  "examples": [
+   {
+    "jp": "教室には生徒がいる。",
+    "en": "There are students in the classroom.",
+    "romaji": "kyoushitsu niwa seito ga iru.",
+    "audio": "https://japanesetest4you.com/audio4/n5g-iru-1.mp3"
+   },
+   {
+    "jp": "図書館に人がいっぱいいる。",
+    "en": "There are many people at the library.",
+    "romaji": "toshokan ni hito ga ippai iru.",
+    "audio": "https://japanesetest4you.com/audio4/n5g-iru-2.mp3"
+   },
+   {
+    "jp": "台所には母がいます。",
+    "en": "Mom’s in the kitchen.",
+    "romaji": "daidokori niwa haha ga imasu.",
+    "audio": "https://japanesetest4you.com/audio4/n5g-iru-3.mp3"
+   },
+   {
+    "jp": "私には兄弟というものがただの一人もいません。",
+    "en": "I don’t have any sibling.",
+    "romaji": "watashi ni wa kyoudai to iu mono ga tada no hitori mo imasen.",
+    "audio": "https://japanesetest4you.com/audio4/n5g-iru-4.mp3"
+   },
+   {
+    "jp": "北海道には私の知り合いは一人もいなかった。",
+    "en": "I didn’t know a soul in Hokkaido.",
+    "romaji": "hokkaidou ni wa watashi no shiriai wa hitori mo inakatta.",
+    "audio": "https://japanesetest4you.com/audio4/n5g-iru-5.mp3"
+   },
+   {
+    "jp": "俺には三人子どもがいる。それで、俺は三人の子どもたちみんなのことを公平に好きだと思うか？",
+    "en": "I have three children. Do you think I love all three of my children equally?",
+    "romaji": "ore ni wa sannin kodomo ga iru. sore de, ore wa sannin no kodomotachi minna no koto o kouhei ni suki da to omou ka.",
+    "audio": "https://japanesetest4you.com/audio4/n5g-iru-6.mp3"
+   },
+   {
+    "jp": "私たちには、お互い３歳の子どもがいるという共通点があります。",
+    "en": "What you and I have in common is that we have a three-year-old.",
+    "romaji": "watashitachi ni wa, otagai sansai no kodomo ga iru to iu kyoutsuuten ga arimasu.",
+    "audio": "https://japanesetest4you.com/audio4/n5g-iru-7.mp3"
+   },
+   {
+    "jp": "さて、これでどうやら、私たちがどこにいるか見当だけはついたぞ！私たちがめざしたのとほとんど反対の方角に来てしまった。",
+    "en": "Well, now I have at least some notion of where we are! We have come almost in the opposite direction to which we intended.",
+    "romaji": "sate, kore de dou yara, watashitachi ga doko ni iru ka kentou dake wa tsuita zo. watashitachi ga mezashita no to hotondo hantai no hougaku ni kite shimatta.",
+    "audio": "https://japanesetest4you.com/audio4/n5g-iru-8.mp3"
+   },
+   {
+    "jp": "日本の主流メディアにも、いい仕事をしようとしているジャーナリストたちがいる。",
+    "en": "There are journalists in Japan trying to do good work in mainstream media.",
+    "romaji": "nihon no shuryuu media ni mo, ii shigoto o shiyou to shite iru jaanarisutotachi ga iru.",
+    "audio": "https://japanesetest4you.com/audio4/n5g-iru-9.mp3"
+   },
+   {
+    "jp": "中山を批判する人もいるが、彼の実績は認めるべきだ。",
+    "en": "Some people criticize Nakayama, but you’ve got to give him credit.",
+    "romaji": "nakayama o hihan suru hito mo iru ga, kare no jisseki wa mitomeru beki da.",
+    "audio": "https://japanesetest4you.com/audio4/n5g-iru-10.mp3"
+   },
+   {
+    "jp": "がある (ga aru): to be, to exist",
+    "en": "ている (teiru): be doing something",
+    "romaji": ""
+   }
+  ],
+  "id": "n5-g10"
+ },
+ {
+  "title": "ほうがいい (hou ga ii)",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-flashcard-8/",
+  "meaning": "had better, should, it’d be better to",
+  "formation": "Verb-casual past + ほうがいい\nVerb-casual, non-past + ほうがいい",
+  "examples": [
+   {
+    "jp": "仕事は早く進めたほうがいい。",
+    "en": "You’d better work fast.",
+    "romaji": "shigoto wa hayaku susumeta hou ga ii.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii1-19.mp3"
+   },
+   {
+    "jp": "そろそろ帰ったほうがいいみたいね。",
+    "en": "I guess we better go back.",
+    "romaji": "sorosoro kaetta hou ga ii mitai ne.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii1-20.mp3"
+   },
+   {
+    "jp": "もう一度電話してきいたほうがいいよ。",
+    "en": "You’d better call and ask again.",
+    "romaji": "mou ichido denwa shite kiita hou ga ii yo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii1-21.mp3"
+   },
+   {
+    "jp": "覚悟して身辺を固めておいた方がいい。",
+    "en": "Get ready to protect yourself.",
+    "romaji": "kakugo shite shinpen o katamete oita hou ga ii.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii1-22.mp3"
+   },
+   {
+    "jp": "われわれは汽車でいったほうがいいと思う。",
+    "en": "We’d better go by train.",
+    "romaji": "wareware wa kisha de itta hou ga ii to omou.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii1-23.mp3"
+   },
+   {
+    "jp": "はやく眠ったほうがいいかもしれない。",
+    "en": "It might be better to go to sleep early.",
+    "romaji": "hayaku nemutta hou ga ii kamoshirenai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii1-24.mp3"
+   },
+   {
+    "jp": "ですからそうやって考えたほうがいいですね。",
+    "en": "So, you have to think about it in that way.",
+    "romaji": "desu kara sou yatte kangaeta hou ga ii desu ne.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii1-25.mp3"
+   },
+   {
+    "jp": "食べものがたくさんあったほうがいいと思った。",
+    "en": "I thought it’d be better to have lots of food.",
+    "romaji": "tabemono ga takusan atta hou ga ii to omotta.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii1-26.mp3"
+   },
+   {
+    "jp": "君は髪を刈ったほうがいいかもしれないよ。",
+    "en": "You’d better get your hair cut.",
+    "romaji": "kimi wa kami o katta hou ga ii kamoshirenai yo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii1-27.mp3"
+   },
+   {
+    "jp": "ねえ、もうこんな芝居はやめたほうがいいですよ。",
+    "en": "Look here, I think we’d better give this drama up.",
+    "romaji": "nee, mou konna shibai wa yameta hou ga ii desu yo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii1-28.mp3"
+   },
+   {
+    "jp": "今のうちに金の使い道を考えておいた方がいいよ。",
+    "en": "You’d better start planning how you’re going to spend all your money.",
+    "romaji": "ima no uchi ni kane no tsukaimichi o kangaete oita hou ga ii yo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii1-29.mp3"
+   },
+   {
+    "jp": "電話を切ったほうがいいぞ。電話をかけた目的は達した。",
+    "en": "Might as well hang up. I got what I called for.",
+    "romaji": "denwa o kitta hou ga ii zo. denwa o kaketa mokuteki wa tasshita.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii1-30.mp3"
+   },
+   {
+    "jp": "ポーチの階段の最初の段にはちょっと気をつけたほうがいい。",
+    "en": "You’d better watch out for that first porch step.",
+    "romaji": "poochi no kaidan no saisho no dan ni wa chotto ki o tsuketa hou ga ii.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii1-31.mp3"
+   },
+   {
+    "jp": "いますぐテレビかラジオのスイッチを入れたほうがいいですよ。",
+    "en": "You should turn on your TV or radio immediately.",
+    "romaji": "ima sugu terebi ka rajio no suicchi o ireta hou ga ii desu yo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii1-32.mp3"
+   },
+   {
+    "jp": "ひと晩ゆっくり寝たければ、すぐにでも出発したほうがいい。",
+    "en": "You need to hit the road now if you want a full night’s sleep.",
+    "romaji": "hitoban yukkuri netakereba, sugu ni demo shuppatsu shita hou ga ii.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii1-33.mp3"
+   },
+   {
+    "jp": "あとで後悔するよりは石橋を叩いておいたほうがいい。",
+    "en": "Better safe than sorry.",
+    "romaji": "ato de koukai suru yori wa ishibashi o tataite oita hou ga ii.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii1-34.mp3"
+   },
+   {
+    "jp": "どうも、これは話しておいたほうがよさそうですね。",
+    "en": "Look here, I think I’d better tell you something.",
+    "romaji": "doumo, kore wa hanashite oita hou ga yosasou desu ne.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii1-35.mp3"
+   },
+   {
+    "jp": "アキラ、今夜はここに留まっているほうがいいぞ。",
+    "en": "Akira, you’d better remain here for the rest of the night.",
+    "romaji": "akira, kon’ya wa koko ni tomatte iru hou ga ii zo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii1-36.mp3"
+   },
+   {
+    "jp": "彼は意識をなくしているだけだ。縛ったほうがいいよ。",
+    "en": "He’s merely unconscious. I suggest you tie him.",
+    "romaji": "kare wa ishiki o nakushite iru dake da. shibatta hou ga ii yo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii1-37.mp3"
+   },
+   {
+    "jp": "テントを立てる場所を見つけたほうがいいですね。",
+    "en": "We’d better find a place to pitch the tent.",
+    "romaji": "tento o tateru basho o mitsuketa hou ga ii desu ne.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii1-38.mp3"
+   },
+   {
+    "jp": "こんなお芝居はやめて、早く帰ったほうがいい。",
+    "en": "The sooner you stop this playacting and go home, the better.",
+    "romaji": "konna oshibai wa yamete, hayaku kaetta hou ga ii.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii1-39.mp3"
+   },
+   {
+    "jp": "こういう場合、旅行は見合わせたほうがいいだろうと考えたのです。",
+    "en": "Under the circumstances I thought it better to cancel my trip.",
+    "romaji": "kou iu baai, ryokou wa miawaseta hou ga ii darou to kangaeta no desu.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii1-40.mp3"
+   },
+   {
+    "jp": "もう少し時間をかけて、じっくり考えた方がいいんじゃないかな。",
+    "en": "Don’t you think you should take a little more time to think it over?",
+    "romaji": "mou sukoshi jikan o kakete, jikkuri kangaeta hou ga iin janai kana.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii1-41.mp3"
+   },
+   {
+    "jp": "ご存じのことはなにもかも話していただいたほうがいいのですがね。",
+    "en": "I think that you’d better tell us all you know.",
+    "romaji": "gozonji no koto wa nanimo kamo hanashite itadaita hou ga ii no desu ga ne.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii1-42.mp3"
+   },
+   {
+    "jp": "中田さん！これはご覧になったほうがいいですよ！",
+    "en": "Nakada! I think you’ll want to see this!",
+    "romaji": "nakata-san. kore wa goran ni natta hou ga ii desu yo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii1-43.mp3"
+   },
+   {
+    "jp": "そうしたルールは、ゼロから考え直すほうがいいと思います。",
+    "en": "I think it’s better to rethink those rules from scratch.",
+    "romaji": "sou shita ruuru wa, zero kara kangaenaosu hou ga ii to omoimasu.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii1-44.mp3"
+   },
+   {
+    "jp": "道には何も見えない。見込みがあるうちに立ち退くほうがいい。",
+    "en": "There’s nothing on the roads, and we’d better get away while there’s a chance.",
+    "romaji": "michi ni wa nanimo mienai. mikomi ga aru uchi ni tachinoku hou ga ii.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii1-45.mp3"
+   },
+   {
+    "jp": "いまここで、秘密を打ち明けたほうがいいと考えませんか？",
+    "en": "Don’t you think it’s better to spill the beans here and now?",
+    "romaji": "ima koko de, himitsu o uchiaketa hou ga ii to kangaemasen ka.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii1-46.mp3"
+   },
+   {
+    "jp": "私の生い立ちから始めて、一部始終をすっかり話したほうがよさそうに思うわ。",
+    "en": "I had better begin at the beginning and tell you the whole story.",
+    "romaji": "watashi no oitachi kara hajimete, ichibu shijuu o sukkari hanashita hou ga yosasou ni omou wa.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii1-47.mp3"
+   },
+   {
+    "jp": "時によっては積極的に出ることが必要な場合もあるが、おとなしくしているほうがいいこともあるのだ。",
+    "en": "There are times when you have to be aggressive, but there are also times when your best strategy is to lie back.",
+    "romaji": "toki ni yotte wa sekkyokuteki ni deru koto ga hitsuyou na baai mo aru ga, otonashiku shite iru hou ga ii koto mo aru no da.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii1-48.mp3"
+   },
+   {
+    "jp": "そんな思いが頭をよぎったのは、否めないよ。もし、君がそのことを一度も考えたことがないのなら、これからは考えたほうがいい。",
+    "en": "Such thought has crossed me, I admit; and if it never occurred to you before, you may as well take it into consideration now.",
+    "romaji": "sonna omoi ga atama o yogitta no wa, inamenai yo. moshi, kimi ga sono koto o ichido mo kangaeta koto ga nai no nara, kore kara wa kangaeta hou ga ii.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii1-49.mp3"
+   },
+   {
+    "jp": "率直に言って、わたしなら、鉄道会社やタバコ会社を経営して４５歳で健康をそこなうよりは、社員でいるほうがいい。",
+    "en": "Frankly, I would rather be an employee than wreck my health at forty-five by trying to run a railroad or a cigarette company.",
+    "romaji": "socchoku ni itte, watashi nara, tetsudou gaisha ya tabako gaisha o keiei shite yonjuu go sai de kenkou o sokonau yori wa, shain de iru hou ga ii.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii1-50.mp3"
+   },
+   {
+    "jp": "死ぬ前に整理しておいたほうがいい。遺言書に自分のアカウントを遺す相手を記しておくべきかもしれない。",
+    "en": "You better sort out before you die, and include in your will, to whom, if anyone, you want to leave your account.",
+    "romaji": "shinu mae ni seiri shite oita hou ga ii. yuigonsho ni jibun no akaunto o nokosu aite o shirushite oku beki kamoshirenai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii1-51.mp3"
+   },
+   {
+    "jp": "英会話をもっと練習したほうがいい。",
+    "en": "You should practice speaking English more.",
+    "romaji": "eikaiwa o motto renshuu shita hougaii.",
+    "audio": "https://japanesetest4you.com/audio/n5g-hougaii1-1.mp3"
+   },
+   {
+    "jp": "私の言うとおりにしたほうがいいですよ。",
+    "en": "You’d better listen to what I say.",
+    "romaji": "watashi no iu toori ni shita hougaii desu yo.",
+    "audio": "https://japanesetest4you.com/audio/n5g-hougaii1-2.mp3"
+   },
+   {
+    "jp": "願書を早く送るほうがいいですよ。",
+    "en": "You’d better send your application form quickly.",
+    "romaji": "gansho o hayaku okuru hougaii desu yo.",
+    "audio": "https://japanesetest4you.com/audio/n5g-hougaii1-3.mp3"
+   },
+   {
+    "jp": "あなたの部屋は汚すぎる。毎日掃除したほうがいい。",
+    "en": "Your room is too dirty. You should clean it every day.",
+    "romaji": "anata no heya wa kitanasugiru. mainichi souji shita hougaii.",
+    "audio": "https://japanesetest4you.com/audio/n5g-hougaii1-4.mp3"
+   },
+   {
+    "jp": "気をつけたほうがいいよ。",
+    "en": "You’d better be careful.",
+    "romaji": "ki o tsuketa hougaii yo.",
+    "audio": "https://japanesetest4you.com/audio/n5g-hougaii1-5.mp3"
+   },
+   {
+    "jp": "ゆっくり休んだほうがいいですよ。",
+    "en": "You should get some rest.",
+    "romaji": "yukkuri yasunda hougaii desu yo.",
+    "audio": "https://japanesetest4you.com/audio/n5g-hougaii1-6.mp3"
+   },
+   {
+    "jp": "ちゃんと勉強するほうがいい。しないと成績が悪くなっちゃうよ。",
+    "en": "You should study more seriously. If you don’t your grades will decline.",
+    "romaji": "chanto benkyou suru hougaii. shinai to seiseki ga waruku nacchau yo.",
+    "audio": "https://japanesetest4you.com/audio/n5g-hougaii1-7.mp3"
+   },
+   {
+    "jp": "彼のことを忘れたほうがいい。",
+    "en": "You should forget about him.",
+    "romaji": "kare no koto o wasureta hougaii.",
+    "audio": "https://japanesetest4you.com/audio/n5g-hougaii1-8.mp3"
+   },
+   {
+    "jp": "彼女に謝ったほうがいいと思う。",
+    "en": "I think you should apologize to her.",
+    "romaji": "kanojo ni ayamatta hougaii to omou.",
+    "audio": "https://japanesetest4you.com/audio/n5g-hougaii1-9.mp3"
+   },
+   {
+    "jp": "武器を持って行ったほうがいいですか？",
+    "en": "Should I take my arms?",
+    "romaji": "buki o motte itta hou ga ii desu ka.",
+    "audio": "https://japanesetest4you.com/audio/n5g-hougaii1-10.mp3"
+   },
+   {
+    "jp": "くよくよ考えているより、最悪の事態でも知ったほうがいい。",
+    "en": "It’s better to know the worst than to wonder.",
+    "romaji": "kuyokuyo kangaete iru yori, saiaku no jitai demo shitta hou ga ii.",
+    "audio": "https://japanesetest4you.com/audio/n5g-hougaii1-11.mp3"
+   },
+   {
+    "jp": "私は何か一口食べたいところなんだけど、なんだかここにぐずぐずしていないで先に進んだほうがいいような気がする。",
+    "en": "I should like to eat something, but somehow I think we had better move on from here.",
+    "romaji": "watashi wa nanika hitokuchi tabetai tokoro nan da kedo, nan da ka koko ni guzuguzu shite inaide saki ni susunda hou ga ii you na ki ga suru.",
+    "audio": "https://japanesetest4you.com/audio/n5g-hougaii1-12.mp3"
+   },
+   {
+    "jp": "あなたたちはこれから長いあいだ一緒に暮らしていくんだから、いいことも悪いことも一応全部知っておいた方がいいだろう。",
+    "en": "The two of you are going to be together for a long time, so you’d better know everything—the good and the bad.",
+    "romaji": "anatatachi wa kore kara nagai aida issho ni kurashite ikun dakara, ii koto mo warui koto mo ichiou zenbu shitte oita hou ga ii darou.",
+    "audio": "https://japanesetest4you.com/audio/n5g-hougaii1-13.mp3"
+   },
+   {
+    "jp": "私が子どもの頃、父はいつも私にこう言いました。「どうせ何かを考えるのなら、大きく考えた方がいい」と。",
+    "en": "When I was a child, my father always told me, “If you’re going to be thinking anyway, you might as well think big.”",
+    "romaji": "watashi ga kodomo no koro, chichi wa itsumo watashi ni kou iimashita. douse nanika o kangaeru no nara, ookiku kangaeta hou ga ii to.",
+    "audio": "https://japanesetest4you.com/audio/n5g-hougaii1-14.mp3"
+   },
+   {
+    "jp": "私のところで一緒に暮らしたほうがいいよ。そうすりゃ、都合よく一緒に誕生祝いができるじゃないか。",
+    "en": "You had better come and live with me, and then we can celebrate our birthday parties comfortably together.",
+    "romaji": "watashi no tokoro de issho ni kurashita hou ga ii yo. sou surya, tsugou yoku issho ni tanjou iwai ga dekiru janai ka.",
+    "audio": "https://japanesetest4you.com/audio/n5g-hougaii1-15.mp3"
+   },
+   {
+    "jp": "イギリスにはＥＵを批判する人が多くいますが、組織にとどまって、内側から改善点を交渉しようとするほうがいいですよ。部外者には、誰も注意を払ってくれませんからね。",
+    "en": "Britain has many criticisms of the EU, but it’s better to stay in an organization and try and negotiate improvement from within because no one takes notice of an outsider.",
+    "romaji": "igirisu ni wa iiyuu o hihan suru hito ga ooku imasu ga, soshiki ni todomatte, uchigawa kara kaizenten o koushou shiyou to suru hou ga ii desu yo. bugaisha ni wa, daremo chuui o haratte kuremasen kara ne.",
+    "audio": "https://japanesetest4you.com/audio/n5g-hougaii1-16.mp3"
+   },
+   {
+    "jp": "これはまじめに早いとこまとめてしまった方がいいと両家の意見が一致した。",
+    "en": "Everybody in both families thought it would be better to settle this soon.",
+    "romaji": "kore wa majime ni hayai toko matomete shimatta hou ga ii to ryouke no iken ga icchi shita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-hougaii1-17.mp3"
+   },
+   {
+    "jp": "お母さんを安心させるため、君が無事だと電話したほうがいいよ。",
+    "en": "You’d better call your mother to reassure her that you’re safe.",
+    "romaji": "okaasan o anshin saseru tame, kimi ga buji da to denwa shita hou ga ii yo.",
+    "audio": "https://japanesetest4you.com/audio/n5g-hougaii1-18.mp3"
+   },
+   {
+    "jp": "ばいい (baii): should, can, it’d be good if",
+    "en": "ほうがいい (hou ga ii) – 2: better not do something",
+    "romaji": "より ~ のほうが (yori~no hou ga): more than ほうがましだ (hou ga mashi da): I would rather"
+   }
+  ],
+  "id": "n5-g11"
+ },
+ {
+  "title": "ほうがいい (hou ga ii)",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-flashcard-9/",
+  "meaning": "It’d be better to not do something",
+  "formation": "Verb ない form + ほうがいい",
+  "examples": [
+   {
+    "jp": "あまり気にしないほうがいいですよ。",
+    "en": "Don’t let this bother you.",
+    "romaji": "amari ki ni shinai hou ga ii desu yo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii2-21.mp3"
+   },
+   {
+    "jp": "あまり深刻に考えない方がいい。",
+    "en": "Better not think about it too seriously.",
+    "romaji": "amari shinkoku ni kangaenai hou ga ii.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii2-22.mp3"
+   },
+   {
+    "jp": "そんなふうにわたしを呼ばないほうがいいかも。",
+    "en": "Maybe you’d better not call me that.",
+    "romaji": "sonna fuu ni watashi o yobanai hou ga ii kamo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii2-23.mp3"
+   },
+   {
+    "jp": "その質問には答えないほうがいいと思うの。",
+    "en": "I’m not sure I want to answer that question.",
+    "romaji": "sono shitsumon ni wa kotaenai hou ga ii to omou no.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii2-24.mp3"
+   },
+   {
+    "jp": "しかし、この仕事を引き受けないほうがいいよ。",
+    "en": "But you shouldn’t take this job.",
+    "romaji": "shikashi, kono shigoto o hikiukenai hou ga ii yo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii2-25.mp3"
+   },
+   {
+    "jp": "君のためには、行かないほうがいいと忠告する。",
+    "en": "For your own sake, I should say you would do better not to go.",
+    "romaji": "kimi no tame ni wa, ikanai hou ga ii to chuukoku suru.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii2-26.mp3"
+   },
+   {
+    "jp": "その手の場所に出入りする姿を人に見られないほうがいいと思ってね。",
+    "en": "I’m not sure I’d want to be seen going into a place like that.",
+    "romaji": "sono te no basho ni deiri suru sugata o hito ni mirarenai hou ga ii to omotte ne.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii2-27.mp3"
+   },
+   {
+    "jp": "もう何も気にしないほうがいい。一、二分すれば、タクシーをつかまえられる。",
+    "en": "Don’t worry about anything now. In a minute or two we’ll be able to get a taxi.",
+    "romaji": "mou nanimo ki ni shinai hou ga ii. ichi, nifun sureba, takushii o tsukamaerareru.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii2-28.mp3"
+   },
+   {
+    "jp": "両方が満足しない案でやっていくよりは、取引きしないほうがいい。",
+    "en": "It would be better not to deal than to live with a decision that wasn’t right for us both.",
+    "romaji": "ryouhou ga manzoku shinai an de yatte iku yori wa, torihiki shinai hou ga ii.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii2-29.mp3"
+   },
+   {
+    "jp": "心配しない方がいい。君の務めに落ちどがあったとは思えないんだから。",
+    "en": "Do not distress yourself. I cannot see that there has been any negligence on your part.",
+    "romaji": "shinpai shinai hou ga ii. kimi no tsutome ni ochido ga atta to wa omoenain dakara.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii2-30.mp3"
+   },
+   {
+    "jp": "これからしばらくのあいだ、横浜にいるつもりなんだ。でも、あんまり人の注目を浴びないほうがいいんだよ。",
+    "en": "I’m going to be around Yokohama for a little while, and it would be good not to attract too much attention.",
+    "romaji": "kore kara shibaraku no aida, yokohama ni iru tsumori nan da. demo, anmari hito no chuumoku o abinai hou ga iin da yo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-hougaii2-31.mp3"
+   },
+   {
+    "jp": "約束を忘れないほうがいい。",
+    "en": "You’d better not forget your promise.",
+    "romaji": "yakusoku o wasurenai hougaii.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-hougaii2-1.mp3"
+   },
+   {
+    "jp": "彼は気が短いから、怒らせないほうがいい。",
+    "en": "You shouldn’t provoke him because he’s quick-tempered.",
+    "romaji": "kare wa ki ga mijikai kara, okorasenai hougaii.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-hougaii2-2.mp3"
+   },
+   {
+    "jp": "子供に「進撃の巨人」を読ませないほうがいい。",
+    "en": "You shouldn’t let children read “Attack on Titan”.",
+    "romaji": "kodomo ni shingeki no kyojin o yomasenai hougaii.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-hougaii2-3.mp3"
+   },
+   {
+    "jp": "目に悪いから、ずっとパソコンを使わないほうがいい。",
+    "en": "Since it’s bad for your eyes, you shouldn’t use your computer all the time.",
+    "romaji": "me ni warui kara, zutto pasokon o tsukawanai hougaii.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-hougaii2-4.mp3"
+   },
+   {
+    "jp": "子供の前に悪い言葉を言わないほうがいいです。",
+    "en": "You shouldn’t use bad language in front of children.",
+    "romaji": "kodomo no mae ni warui kotoba o iwanai hougaii desu.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-hougaii2-5.mp3"
+   },
+   {
+    "jp": "彼女を泣かさないほうがいいよ。",
+    "en": "You shouldn’t make her cry.",
+    "romaji": "kanojo o nakasanai hougaii yo.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-hougaii2-6.mp3"
+   },
+   {
+    "jp": "やっといい仕事を見つけたから、辞めないほうがいい。",
+    "en": "You have finally found a good job so you shouldn’t quit.",
+    "romaji": "yatto ii shigoto o mitsuketa kara, yamenai hougaii.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-hougaii2-7.mp3"
+   },
+   {
+    "jp": "他人の物を勝手に使わないほうがいい。",
+    "en": "You’d better not touch other people’s stuff without permission.",
+    "romaji": "tanin no moto o katteni tsukawanai hougaii.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-hougaii2-8.mp3"
+   },
+   {
+    "jp": "夜中の十二時すぎまでは帰らないほうがいい。",
+    "en": "We shouldn’t go home till after midnight.",
+    "romaji": "yonaka no juuniji sugi made wa kaeranai hou ga ii.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-hougaii2-9.mp3"
+   },
+   {
+    "jp": "いまはぜんぶ渡さないほうがいいな。",
+    "en": "Better not give you all now.",
+    "romaji": "ima wa zenbu watasanai hou ga ii na.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-hougaii2-10.mp3"
+   },
+   {
+    "jp": "恋愛するなら同じ職業じゃないほうがいいと思います。",
+    "en": "I don’t think you should love someone in the same profession.",
+    "romaji": "ren’ai suru nara onaji shokugyou janai hou ga ii to omoimasu.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-hougaii2-11.mp3"
+   },
+   {
+    "jp": "彼はどんな取引かについては言わないが、相手によってそれを聞かないほうがいい場合もある。",
+    "en": "He doesn’t say what the deal is, but with certain people you don’t ask.",
+    "romaji": "kare wa donna torihiki ka ni tsuite wa iwanai ga, aite ni yotte sore o kikanai hou ga ii baai mo aru.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-hougaii2-12.mp3"
+   },
+   {
+    "jp": "知らない方がいいと思ったから、これまでは言わないことにしていたんだ。",
+    "en": "I thought it was better you didn’t know, so I never mentioned it.",
+    "romaji": "shiranai hou ga ii to omotta kara, kore made wa iwanai koto ni shite itan da.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-hougaii2-13.mp3"
+   },
+   {
+    "jp": "井上は依頼人となったその人に、わたしとは取引しないほうがいいと進めた。",
+    "en": "Inoue was recommending to his client that he not make the deal with me.",
+    "romaji": "inoue wa irainin to natta sono hito ni, watashi to wa torihiki shinai hou ga ii to susumeta.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-hougaii2-14.mp3"
+   },
+   {
+    "jp": "ヒデオは、今持っている株は手離さないほうがいいという意見だ。",
+    "en": "Hideo argues for holding tight with the shares we’ve got.",
+    "romaji": "hideo wa, ima motte iru kabu wa tebasanai hou ga ii to iu iken da.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-hougaii2-15.mp3"
+   },
+   {
+    "jp": "約束しないほうがいいのです。破らざるを得ないことになるかもしれませんから。",
+    "en": "I had better not pass my word. I might be obliged to break it.",
+    "romaji": "yakusoku shinai hou ga ii no desu. yaburazaru o enai koto ni naru kamoshiremasen kara.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-hougaii2-16.mp3"
+   },
+   {
+    "jp": "これまでの努力は水のあわになったのだ。これ以上先へ行かないほうがいい。",
+    "en": "Your efforts have gone down the drain. You had better go no farther.",
+    "romaji": "kore made no doryoku wa mizu no awa ni natta no da. kore ijou saki e ikanai hou ga ii.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-hougaii2-17.mp3"
+   },
+   {
+    "jp": "足を止めないほうがいい。途中で説明する。",
+    "en": "We should keep moving. I’ll explain on the way.",
+    "romaji": "ashi o tomanai hou ga ii. tochuu de setsumei suru.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-hougaii2-19.mp3"
+   },
+   {
+    "jp": "子供を俳優にはしないほうがいい。",
+    "en": "Don’t let your kids grow up to be actors.",
+    "romaji": "kodomo o haiyuu ni wa shinai hou ga ii.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-hougaii2-20.mp3"
+   },
+   {
+    "jp": "ほうがいい (hou ga ii) – 1: had better, should",
+    "en": "より ~ のほうが (yori~no hou ga): more than",
+    "romaji": "ほうがましだ (hou ga mashi da): I would rather"
+   }
+  ],
+  "id": "n5-g12"
+ },
+ {
+  "title": "いちばん (ichiban)",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-flashcard-22/",
+  "meaning": "the most, the best",
+  "formation": "Noun + は/が一番 + adjective + だ\nVerb-dictionary form + のは/のが一番 + adjective + だ",
+  "examples": [
+   {
+    "jp": "一番好きな漫画って何？",
+    "en": "What’s your favorite manga?",
+    "romaji": "ichiban suki na manga tte nani?",
+    "audio": "https://japanesetest4you.com/media002/n5g-ichiban-20.mp3"
+   },
+   {
+    "jp": "人生でいちばん長い夜になったわ。",
+    "en": "It was the longest night of my life.",
+    "romaji": "jinsei de ichiban nagai yoru ni natta wa.",
+    "audio": "https://japanesetest4you.com/media002/n5g-ichiban-21.mp3"
+   },
+   {
+    "jp": "あれは世界でいちばん退屈な町だ。",
+    "en": "It’s the most boring town in the world.",
+    "romaji": "are wa sekai de ichiban taikutsu na machi da.",
+    "audio": "https://japanesetest4you.com/media002/n5g-ichiban-22.mp3"
+   },
+   {
+    "jp": "この人は一番の重要人物ですよ。",
+    "en": "This is the most important character of the lot.",
+    "romaji": "kono hito wa ichiban no juuyou jinbutsu desu yo.",
+    "audio": "https://japanesetest4you.com/media002/n5g-ichiban-23.mp3"
+   },
+   {
+    "jp": "いまとなっては、あのかたが、夫の一番近い親戚だと思います。",
+    "en": "I suppose now he is my husband’s nearest relative.",
+    "romaji": "ima to natte wa, ano kata ga, otto no ichiban chikai shinseki da to omoimasu.",
+    "audio": "https://japanesetest4you.com/media002/n5g-ichiban-24.mp3"
+   },
+   {
+    "jp": "ここ数週間、彼はなんのことについて一番よく話したの？",
+    "en": "What has he talked about most in the last few weeks?",
+    "romaji": "Koko suu shuukan , kare wa nan no koto ni tsuite ichiban yoku hanashita no.",
+    "audio": "https://japanesetest4you.com/media002/n5g-ichiban-25.mp3"
+   },
+   {
+    "jp": "わたしは思いもつかなかったが、そうするのが一番いい。",
+    "en": "I had not thought of it before, but that is the best way.",
+    "romaji": "watashi wa omoi mo tsukanakatta ga, sou suru no ga ichiban ii.",
+    "audio": "https://japanesetest4you.com/media002/n5g-ichiban-26.mp3"
+   },
+   {
+    "jp": "お医者さんからは、治りがいちばん速い患者って呼ばれてるんですよ。",
+    "en": "My doctor called me his fastest-healing patient.",
+    "romaji": "oishasan kara wa, naori ga ichiban hayai kanja tte yobareterun desu yo.",
+    "audio": "https://japanesetest4you.com/media002/n5g-ichiban-27.mp3"
+   },
+   {
+    "jp": "わたしは、現在一番多い検索種目は何かと彼らにたずねた。",
+    "en": "I asked them what had been the most frequent search terms lately.",
+    "romaji": "watashi wa, genzai ichiban ooi kensaku shumoku wa nanika to karera ni tazuneta.",
+    "audio": "https://japanesetest4you.com/media002/n5g-ichiban-28.mp3"
+   },
+   {
+    "jp": "平山はその地方で一番上等なその宿屋のほうへ歩みをむけた。",
+    "en": "Hirayama bent his steps towards this inn, which was the best in the country-side.",
+    "romaji": "hirayama wa sono chihou de ichiban joutou na sono yadoya no hou e ayumi o muketa.",
+    "audio": "https://japanesetest4you.com/media002/n5g-ichiban-29.mp3"
+   },
+   {
+    "jp": "私は少女漫画を読むのが一番好きだ。",
+    "en": "I love reading shojo manga the most.",
+    "romaji": "watashi wa shoujo manga o yomu noga ichiban suki da.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-ichiban-01.mp3"
+   },
+   {
+    "jp": "一番好きな映画は何ですか？",
+    "en": "What’s your favorite movie?",
+    "romaji": "ichiban suki na eiga wa nan desu ka?",
+    "audio": "https://japanesetest4you.com/audio6/n5g-ichiban-02.mp3"
+   },
+   {
+    "jp": "歴史は一番退屈な科目だと思わない？",
+    "en": "Don’t you think History is the most boring subject?",
+    "romaji": "rekishi wa ichiban taikutsu na kamoku da to omowanai?",
+    "audio": "https://japanesetest4you.com/audio6/n5g-ichiban-03.mp3"
+   },
+   {
+    "jp": "私はあなたのことが一番好きです。",
+    "en": "I like you the best.",
+    "romaji": "watashi wa anata no koto ga ichiban suki desu.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-ichiban-04.mp3"
+   },
+   {
+    "jp": "ゴーストが一番怖いです。",
+    "en": "I’m scared of ghosts the most.",
+    "romaji": "goosuto ga ichiban kowai desu.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-ichiban-05.mp3"
+   },
+   {
+    "jp": "彼は漢字を覚えるのが一番上手だ。",
+    "en": "He’s best at remembering the Kanji.",
+    "romaji": "kare wa kanji o oboeru noga ichiban jouzu da.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-ichiban-06.mp3"
+   },
+   {
+    "jp": "KFCのチッキンが一番おいしいと思う。",
+    "en": "I think KFC’s chickens are the best.",
+    "romaji": "KFC no chikkin ga ichiban oishii to omou.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-ichiban-07.mp3"
+   },
+   {
+    "jp": "一番嫌いな男性のタイプは何ですか？",
+    "en": "What’s the type of man you hate the most?",
+    "romaji": "ichiban kirai na dansei no taipu wa nan desu ka?",
+    "audio": "https://japanesetest4you.com/audio6/n5g-ichiban-08.mp3"
+   },
+   {
+    "jp": "今まで読んだ本の中で、レ・ミゼラブルは一番面白かった。",
+    "en": "Of all the books I’ve read, Les Misérables is the most interesting one.",
+    "romaji": "ima made yonda hon no nada de, re mizeraburu wa ichiban omoshirokatta.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-ichiban-09.mp3"
+   },
+   {
+    "jp": "この世で一番恐ろしいものはなんだろう？",
+    "en": "What’s the most frightening thing in the world?",
+    "romaji": "kono yo de ichiban osoroshii mono wa nan darou.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-ichiban-10.mp3"
+   },
+   {
+    "jp": "これまでいちばん長かった恋愛ってどれくらい？",
+    "en": "What’s the longest you’ve ever dated someone?",
+    "romaji": "kore made ichiban nagakatta ren’ai tte dore kurai.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-ichiban-11.mp3"
+   },
+   {
+    "jp": "あなたは世界中で、誰が一番の富豪か知っていますか？",
+    "en": "Do you know who is the richest man in the world?",
+    "romaji": "anata wa sekaijuu de, dare ga ichiban no fugou ka shitte imasu ka.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-ichiban-12.mp3"
+   },
+   {
+    "jp": "ねえ、医者になっていちばんよかったことは何？",
+    "en": "Tell me, what’s the best thing about being a doctor?",
+    "romaji": "nee, isha ni natte ichiban yokatta koto wa nani.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-ichiban-13.mp3"
+   },
+   {
+    "jp": "人生でいちばん困るのは面倒な隣人だ。",
+    "en": "The last thing I need in my life is a troublesome neighbor.",
+    "romaji": "jinsei de ichiban komaru no wa mendou na rinjin da.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-ichiban-14.mp3"
+   },
+   {
+    "jp": "今日出会った中では、彼女はいちばん感じがいい相手だった。",
+    "en": "She was the nicest person I’d met today.",
+    "romaji": "kyou de atta naka de wa, kanojo wa ichiban kanji ga ii aite datta.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-ichiban-15.mp3"
+   },
+   {
+    "jp": "それは僕の青春時代のいちばん楽しい思い出のひとつだった。",
+    "en": "This was one of the most grateful recollections of my youth.",
+    "romaji": "sore wa boku no seishun jidai no ichiban tanoshii omoide no hitotsu datta.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-ichiban-16.mp3"
+   },
+   {
+    "jp": "過去に犯した失敗から学んだ一番重要な教訓は何ですか？",
+    "en": "What’s the most important lesson you’ve learned from a mistake you’ve made in the past?",
+    "romaji": "kako ni okashita shippai kara mananda ichiban juuyou na kyoukun wa nan desu ka.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-ichiban-17.mp3"
+   },
+   {
+    "jp": "いちばんのお気に入りはカレーライス。インドのカレーとは全然別物なんだけど、すごく簡単でおいしい食べ物だよね。大好きなんだ。",
+    "en": "My absolute favorite is curry rice. It has nothing to do with Indian curry, but it’s just a very simple and nice dish. I love it.",
+    "romaji": "ichiban no oki ni iri wa karee raisu. indo no karee to wa zenzen betsumono nan da kedo, sugoku kantan de oishii tabemono da yo ne. daisuki nan da.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-ichiban-18.mp3"
+   },
+   {
+    "jp": "イギリス人にとって、わが家は城であり、アメリカ人も、「自分の家がいちばん」だと知っている。",
+    "en": "An Englishman’s home is his castle, or so the saying goes. Americans, too, know that “there’s no place like home.”",
+    "romaji": "igirisujin ni totte, wagaya wa shiro de ari, amerikajin mo, jibun no ie ga ichiban da to shitte iru.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-ichiban-19.mp3"
+   }
+  ],
+  "id": "n5-g13"
+ },
+ {
+  "title": "か (ka) 1",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-52-%e3%81%8b-2/",
+  "meaning": "or",
+  "formation": "Verb + か\nNoun + か\nAdjective + か",
+  "examples": [
+   {
+    "jp": "大抵の家には二人か三人の子どもがいました。",
+    "en": "A typical family had two or three children.",
+    "romaji": "taitei no ie ni wa futari ka sannin no kodomo ga imashita.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-ka2-1.mp3"
+   },
+   {
+    "jp": "あの男たちは、佐々木か私を探しているのだ。",
+    "en": "Those men are looking for Sasaki or for me.",
+    "romaji": "ano otokotachi wa, sasaki ka watashi o sagashite iru no da.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-ka2-2.mp3"
+   },
+   {
+    "jp": "私は暗くなってからここに来たことは、一度か二度しかない。",
+    "en": "I have only once or twice been in here after dark.",
+    "romaji": "watashi wa kuraku natte kara koko ni kita koto wa, ichido ka nido shika nai.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-ka2-3.mp3"
+   },
+   {
+    "jp": "次の水曜か木曜に大阪に行くから、その時に電話で日時を決めよう。",
+    "en": "I’ll be in Osaka next Wednesday or Thursday, so I’ll call you to set a date.",
+    "romaji": "tsugi no suiyou ka mokuyou ni oosaka ni iku kara, sono toki ni denwa de nichiji o kimeyou.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-ka2-4.mp3"
+   },
+   {
+    "jp": "ブライアンは過半数に近い自社株を息子に譲るか、少なくとも家族の何人かに分け与えるだろうというのがおおかたの予想だった。",
+    "en": "The assumption had been that Brian would pass on his near-controlling interest in the company to his son or at the very least that he’d spread it among family members.",
+    "romaji": "buraian wa kahansuu ni chikai jishakabu o musuko ni yuzuru ka, sukunakutomo kazoku no nanninka ni wakeataeru darou to iu no ga ookata no yosou datta.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-ka2-5.mp3"
+   },
+   {
+    "jp": "一時間か二時間後には、二人ともすっかり方向感覚を失っていました。",
+    "en": "After an hour or two they had lost all clear sense of direction.",
+    "romaji": "ichijikan ka nijikan go ni wa, futari tomo sukkari houkou kankaku o ushinatte imashita.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-ka2-6.mp3"
+   },
+   {
+    "jp": "退職者に対して国からは月々２０ドルしか支給されないため、ほとんどの人は若い家族に頼って生きているか、一人きりで苦労しています。",
+    "en": "The state provides just $20 a month to retirees, meaning most rely on younger family members to survive, or struggle alone.",
+    "romaji": "taishokusha ni taishite kuni kara wa tsukidzuki nijuu doru shika shikyuu sarenai tame, hotondo no hito wa wakai kazoku ni tayotte ikite iru ka, hitori kiri de kurou shite imasu.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-ka2-7.mp3"
+   },
+   {
+    "jp": "一階ぶんくだったころには、近づいてくる靴音がすぐそこまで迫り、ほんのひとつかふたつ下の階から響いてきた。",
+    "en": "We descended one floor, and the sounds of approaching boots grew very close now, echoing only a floor or two below us.",
+    "romaji": "ikkai bun kudatta koro ni wa, chikadzuite kuru kutsuoto ga sugu soko made semari, hon no hitotsu ka futatsu shita no kai kara hibiite kita.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-ka2-8.mp3"
+   },
+   {
+    "jp": "何千という地元建設業者は失業しているか、失業寸前の状態だ。",
+    "en": "Thousands of local construction workers are either out of work or about to be.",
+    "romaji": "nanzen to iu jimoto kensetsu gyousha wa shitsugyou shite iru ka, shitsugyou sunzen no joutai da.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-ka2-9.mp3"
+   }
+  ],
+  "id": "n5-g14"
+ },
+ {
+  "title": "か (ka) 2",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-51-%e3%81%8b/",
+  "meaning": "question particle",
+  "formation": "Sentence + か",
+  "examples": [
+   {
+    "jp": "どうやってベッドを動かしたか教えてくれる？",
+    "en": "Can you tell me how the bed was moved?",
+    "romaji": "dou yatte beddo o ugokashita ka oshiete kureru.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ka1-1.mp3"
+   },
+   {
+    "jp": "広之は自分が夢を見ているのか目覚めているのかわからなかった。",
+    "en": "Hiroyuki knew not if he was dreaming or awake.",
+    "romaji": "hiroyuki wa jibun ga yume o mite iru no ka mezamete iru no ka wakaranakatta.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ka1-2.mp3"
+   },
+   {
+    "jp": "いったい僕がなにに腹をたてているか、君にはそれがわかるかい？",
+    "en": "Do you know what makes me angry?",
+    "romaji": "ittai boku ga nani ni hara o tatete iru ka, kimi ni wa sore ga wakaru kai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ka1-3.mp3"
+   },
+   {
+    "jp": "感動したのか、または屈辱を感じたのか自分でわからなかった。",
+    "en": "I could not tell whether I was touched or humiliated.",
+    "romaji": "kandou shita no ka, mata wa kutsujoku o kanjita no ka jibun de wakaranakatta.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ka1-4.mp3"
+   },
+   {
+    "jp": "あなたは、あの本まで読んだのか！驚いたねえ！何一つ安全じゃないというのか？",
+    "en": "You have read that book! Good heavens above! Is nothing safe?",
+    "romaji": "anata wa, ano hon made yonda no ka. odoroita nee. nani hitotsu anzen janai to iu no ka.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ka1-5.mp3"
+   },
+   {
+    "jp": "あなたがだれなのか、どうやってここへ来たのか、誰にもわからない。",
+    "en": "Nobody had any idea who you were or how you got here.",
+    "romaji": "anata ga dare na no ka, dou yatte koko e kita no ka, dare ni mo wakaranai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ka1-6.mp3"
+   },
+   {
+    "jp": "人魚が、現代に現れたらどんなことが巻き起こるか。",
+    "en": "What would happen if a mermaid appeared in modern times?",
+    "romaji": "ningyo ga, gendai ni arawaretara donna koto ga makiokoru ka.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ka1-7.mp3"
+   },
+   {
+    "jp": "どうして手放さなきゃいけないのか、そのわけが私にはよくわからないですよ。なぜあなたは、わたしにこれを手放させようとなさるんです？",
+    "en": "I don’t really see why I should leave it behind. Why do you want me to?",
+    "romaji": "dou shite tebanasanakya ikenai no ka, sono wake ga watashi ni wa yoku wakaranai desu yo. naze anata wa, watashi ni kore o tebanasaseyou to nasarun desu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ka1-8.mp3"
+   },
+   {
+    "jp": "何が起こってるのか、自分には知る権利がある！",
+    "en": "I have a right to know what’s going on!",
+    "romaji": "nani ga okotteru no ka, jibun ni wa shiru kenri ga aru.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ka1-9.mp3"
+   },
+   {
+    "jp": "彼は自分がどうしたいのかを伝える方法を知っています。",
+    "en": "He knows how to communicate what he wants.",
+    "romaji": "kare wa jibun ga dou shitai no ka o tsutaeru houhou o shitte imasu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ka1-10.mp3"
+   },
+   {
+    "jp": "どうしたら自分がこの役をうまくできるか、が大事だと思っています。",
+    "en": "I think what’s important is how to play this role well.",
+    "romaji": "dou shitara jibun ga kono yaku o umaku dekiru ka, ga daiji da to omotte imasu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ka1-11.mp3"
+   },
+   {
+    "jp": "どう撮ろうかとても悩んだ場面でした。",
+    "en": "It was a really hard scene to shoot.",
+    "romaji": "dou torou ka totemo nayanda bamen deshita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ka1-12.mp3"
+   },
+   {
+    "jp": "一瞬、犯人の味方をしてしまう人もいるかと思います。",
+    "en": "For a moment, I thought some people might feel for the culprit.",
+    "romaji": "isshun, hannin no mikata o shite shimau hito mo iru ka to omoimasu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ka1-13.mp3"
+   },
+   {
+    "jp": "あなたは、自分の求めるものを見いだせるか、自分の願うことが果たせるか、生きてふたたびこの地に戻れるか、危ぶんでいる。そういうことでしょう？",
+    "en": "You doubt that you will find what you seek, or accomplish what you intend, or that you will ever return. Is that not so?",
+    "romaji": "anata wa, jibun no motomeru mono o miidaseru ka, jibun no negau koto ga hataseru ka, ikite futatabi kono chi ni modoreru ka, ayabunde iru. sou iu koto deshou.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ka1-14.mp3"
+   },
+   {
+    "jp": "周囲を見てみると、この話題について話すのに、誰が本当に適任なのかはよくわかりません。",
+    "en": "I look around and, I’m not sure who is really qualified to speak on this subject.",
+    "romaji": "shuui o mite miru to, kono wadai ni tsuite hanasu noni, dare ga hontou ni tekinin na no ka wa yoku wakarimasen.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ka1-15.mp3"
+   },
+   {
+    "jp": "５人の専門家から成る審査員団が、誰が受賞するのかを決定する。",
+    "en": "A panel of five experts will decide who wins the award.",
+    "romaji": "gonin no senmonka kara naru shinsaindan ga, dare ga jushou suru no ka o kettei suru.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ka1-16.mp3"
+   },
+   {
+    "jp": "一番最初どうやって私がそのことを見つけたか、知りたければ言ってあげますよ。",
+    "en": "If you want to know how I first found out, I will tell you.",
+    "romaji": "ichiban saisho dou yatte watashi ga sono koto o mitsuketa ka, shiritakereba itte agemasu yo.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ka1-17.mp3"
+   },
+   {
+    "jp": "あなた、自分がなにをしているのかわかっているのか？",
+    "en": "Do you know what you’re doing?",
+    "romaji": "anata, jibun ga nani o shite iru no ka wakatte iru no ka.",
+    "audio": "https://japanesetest4you.com/audio/n5g-ka1-18.mp3"
+   }
+  ],
+  "id": "n5-g15"
+ },
+ {
+  "title": "から (kara)",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-flashcard-4/",
+  "meaning": "since, because",
+  "formation": "Verb + から\nいadjective + から\nなadjective + だから\nNoun +　だから",
+  "examples": [
+   {
+    "jp": "僕にも信頼性があるさ。バカじゃないんだから。",
+    "en": "I have some credibility, too. I’m not a moron.",
+    "romaji": "boku ni mo shinraisei ga aru sa. baka janain dakara.",
+    "audio": "https://japanesetest4you.com/media002/n5g-kara1-19.mp3"
+   },
+   {
+    "jp": "彼らは登山に退屈したから疲労したのだ。",
+    "en": "They were exhausted because they were bored by mountain climbing.",
+    "romaji": "karera wa tozan ni taikutsu shita kara hirou shita no da.",
+    "audio": "https://japanesetest4you.com/media002/n5g-kara1-20.mp3"
+   },
+   {
+    "jp": "いま彼は自暴自棄になっているから、どんなことでもやれる。",
+    "en": "Now he’s desperate and can do anything.",
+    "romaji": "ima kare wa jiboujiki ni natte iru kara, donna koto demo yareru.",
+    "audio": "https://japanesetest4you.com/media002/n5g-kara1-21.mp3"
+   },
+   {
+    "jp": "ぼくはすきを見つけたから、それを利用しただけです。",
+    "en": "I saw the opening and used it.",
+    "romaji": "boku wa suki o mitsuketa kara, sore o riyou shita dake desu.",
+    "audio": "https://japanesetest4you.com/media002/n5g-kara1-22.mp3"
+   },
+   {
+    "jp": "これは簡単だ。これまでにも実行してきたことだから。",
+    "en": "This will be very easy for me, since I have done it all my life.",
+    "romaji": "kore wa kantan da. kore made ni mo jikkou shite kita koto dakara.",
+    "audio": "https://japanesetest4you.com/media002/n5g-kara1-23.mp3"
+   },
+   {
+    "jp": "運動には緊急性がないから、なかなか実行できない人が多い。",
+    "en": "Most of us don’t exercise because it isn’t urgent.",
+    "romaji": "undou ni wa kinkyuusei ga nai kara, nakanaka jikkou dekinai hito ga ooi.",
+    "audio": "https://japanesetest4you.com/media002/n5g-kara1-24.mp3"
+   },
+   {
+    "jp": "ジェームズと結婚したのは、ただあなたを傷つけたかったからよ。",
+    "en": "I only married James to try to hurt you.",
+    "romaji": "jeemuzu to kekkon shita no wa, tada anata o kizutsuketakatta kara yo.",
+    "audio": "https://japanesetest4you.com/media002/n5g-kara1-25.mp3"
+   },
+   {
+    "jp": "あなたがけがをしたのは、からだを楽にする方法を知らないからだよ。",
+    "en": "The reason you injured yourself was because you don’t know how to relax.",
+    "romaji": "anata ga kega o shita no wa, karada o raku ni suru houhou o shiranai kara da yo.",
+    "audio": "https://japanesetest4you.com/media002/n5g-kara1-26.mp3"
+   },
+   {
+    "jp": "電話をかけてほしい。きみが無事に家へ帰りついたことを知りたいから。",
+    "en": "Call me so I know you got back safe.",
+    "romaji": "denwa o kakete hoshii. kimi ga buji ni ie e kaeritsuita koto o shiritai kara.",
+    "audio": "https://japanesetest4you.com/media002/n5g-kara1-27.mp3"
+   },
+   {
+    "jp": "池上さんは、ああいう金持ちでしたから、多額の生命保険にもはいっていたんですね？",
+    "en": "I suppose, as Ikegami was such a rich man, his life was insured for a big sum?",
+    "romaji": "ikegami-san wa, aa iu kanemochi deshita kara, tagaku no seimei hoken ni mo haitte itan desu ne.",
+    "audio": "https://japanesetest4you.com/media002/n5g-kara1-28.mp3"
+   },
+   {
+    "jp": "短時間の休息にも非常に大きな回復力があるから、五分間の昼寝でも疲労の予防に効果がある。",
+    "en": "There is so much repair power in a short period of rest that even a five-minute nap will help to forestall fatigue!",
+    "romaji": "tanjikan no kyuusoku ni mo hijou ni ooki na kaifukuryoku ga aru kara, gofunkan no hirune demo hirou no yobou ni kouka ga aru.",
+    "audio": "https://japanesetest4you.com/media002/n5g-kara1-29.mp3"
+   },
+   {
+    "jp": "もう、疑いの余地はないようですね。あなたの言う意味は、とてもはっきりしているのですから。",
+    "en": "It is impossible for me to doubt any longer. You have made yourself too clear.",
+    "romaji": "mou, utagai no yochi wa nai you desu ne. anata no iu imi wa, totemo hakkiri shite iru no desu kara.",
+    "audio": "https://japanesetest4you.com/media002/n5g-kara1-30.mp3"
+   },
+   {
+    "jp": "ゲームに加わるのが遅かったから、まわりを見回したら、空いた席がどこにもなかっただけです。",
+    "en": "We were just latecomers to the game so when we looked around we saw that all the chairs were taken.",
+    "romaji": "geemu ni kuwawaru no ga osokatta kara, mawari o mimawashitara, aita seki ga doko ni mo nakatta dake desu.",
+    "audio": "https://japanesetest4you.com/media002/n5g-kara1-31.mp3"
+   },
+   {
+    "jp": "寒いから、窓を閉めてください。",
+    "en": "Since it’s cold, please close the window.",
+    "romaji": "samui kara, mado o shimete kudasai.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-kara1-01.mp3"
+   },
+   {
+    "jp": "宿題がいっぱいあるから、遊べない。",
+    "en": "I can’t play because I have tons of homework to do.",
+    "romaji": "shukudai ga ippai aru kara, asobenai.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-kara1-02.mp3"
+   },
+   {
+    "jp": "天気がいいから、散歩しましょう。",
+    "en": "Since the weather’s nice, let’s take a walk.",
+    "romaji": "tenki ga ii kara, sanpo shimashou.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-kara1-03.mp3"
+   },
+   {
+    "jp": "ここでちょっと待ってね。すぐ戻るから。",
+    "en": "Wait for me here for just a second. I’ll be right back.",
+    "romaji": "koko de chotto matte ne. sugu modoru kara.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-kara1-04.mp3"
+   },
+   {
+    "jp": "財布を忘れたから、電車の切符を買えなかった。",
+    "en": "I forgot my wallet so I couldn’t buy the train ticket.",
+    "romaji": "saifu o wasureta kara, densha no kippu o kaenakatta.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-kara1-05.mp3"
+   },
+   {
+    "jp": "一生懸命勉強したから、大学入学試験に合格した。",
+    "en": "Since I studied hard, I passed the university entrance exam.",
+    "romaji": "isshoukenmei benkyou shita kara, daigaku nyuugaku shiken ni goukaku shita.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-kara1-06.mp3"
+   },
+   {
+    "jp": "今忙しいから、後で電話する。",
+    "en": "I’m busy so I’ll call you back later.",
+    "romaji": "isogashii kara, ato de denwa suru.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-kara1-07.mp3"
+   },
+   {
+    "jp": "来年アメリカへ行くから、英語を勉強している。",
+    "en": "I’m going to America next year so I’m studying English.",
+    "romaji": "rainen amerika e iku kara, eigo o benkyou shite iru.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-kara1-08.mp3"
+   },
+   {
+    "jp": "危ないから気をつけてね。",
+    "en": "Since it’s dangerous, be careful.",
+    "romaji": "abunai kara ki o tsukete ne.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-kara1-09.mp3"
+   },
+   {
+    "jp": "わたしは優れたアドバイスをしたから、彼らも聞き入れてくれた。",
+    "en": "My advice was good advice so they took it.",
+    "romaji": "watashi wa sugureta adobaisu o shita kara, karera mo kikiirete kureta.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-kara1-10.mp3"
+   },
+   {
+    "jp": "水上ではいつも緊張しちゃうんだ、泳ぎがものすごく下手だからね。",
+    "en": "I’m always nervous in water because I’m a terrible swimmer.",
+    "romaji": "suijou dewa itsumo kinchou shichaun da, oyogi ga mono sugoku heta dakara ne.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-kara1-11.mp3"
+   },
+   {
+    "jp": "おばさんの世話をするのは、それが私たちの文化だからです。",
+    "en": "I take care of my aunt because it’s our culture.",
+    "romaji": "obasan no sewa o suru no wa, sore ga watashitachi no bunka dakara desu.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-kara1-12.mp3"
+   },
+   {
+    "jp": "たしかに、気が転倒しておいでだったんですね。ですから、食欲もなかったんでしょう。当然ですよ。",
+    "en": "She was obviously upset, and it had taken her appetite away. That was only natural.",
+    "romaji": "tashika ni, ki ga tentou shite oide dattan desu ne. desu kara, shokuyoku mo nakattan deshou. touzen desu yo.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-kara1-13.mp3"
+   },
+   {
+    "jp": "彼はそれが自分の利益になるからうそをつくのではなく、そういう人間だからうそをつくのだ。",
+    "en": "He lies not because it’s in his interest, he lies because it’s in his nature.",
+    "romaji": "kare wa sore ga jibun no rieki ni naru kara uso o tsuku no dewa naku, sou iu ningen dakara uso o tsuku no da.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-kara1-14.mp3"
+   },
+   {
+    "jp": "失敗したのはただ運が悪かったからだ、と彼女は主張した。",
+    "en": "She claimed her error was the result of simple bad luck.",
+    "romaji": "shippai shita no wa tada un ga warukatta kara da, to kanojo wa shuchou shita.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-kara1-15.mp3"
+   },
+   {
+    "jp": "ちょっとお小遣いを稼ごうと思って、タイプができたから、秘書の仕事をしたのよ。",
+    "en": "I was trying to make a little extra money, and I took some kind of secretarial job because I could type.",
+    "romaji": "chotto okozukai o kasegou to omotte, taipu ga dekita kara, hisho no shigoto o shita no yo.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-kara1-16.mp3"
+   },
+   {
+    "jp": "壁ができても何も変わりませんよ。もっといい生活を手に入れたいと思ったら、人はそのためにできることは何でもしますから。",
+    "en": "A wall isn’t going to change anything because if people want to find a better life, they will do whatever they can to find a better life.",
+    "romaji": "kabe ga dekite mo nani mo kawarimasen yo. motto ii seikatsu o te ni iretai to omottara, hito wa sono tame ni dekiru koto wa nani demo shimasu kara.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-kara1-17.mp3"
+   },
+   {
+    "jp": "自分らしくあれ、ほかの何者にもなることはできない。なぜなら、別の誰かになろうとしても、その誰かはすでに存在しているのだから。",
+    "en": "You have to be yourself, you can’t be anyone else, because being someone else is already taken.",
+    "romaji": "jibun rashiku are, hoka no nani mono ni mo naru koto wa dekinai. naze nara, betsu no dareka ni narou to shite mo, sono dareka wa sude ni sonzai shite iru no dakara.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-kara1-18.mp3"
+   }
+  ],
+  "id": "n5-g16"
+ },
+ {
+  "title": "から (kara)",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-flashcard-5/",
+  "meaning": "from, ever since",
+  "formation": "Noun + から",
+  "examples": [
+   {
+    "jp": "あなたは何時に都心からお帰りです？",
+    "en": "What time do you get back from the city?",
+    "romaji": "anata wa nanji ni toshin kara okaeri desu.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-19.mp3"
+   },
+   {
+    "jp": "はじめから、彼の振舞いは、変でしたよ。",
+    "en": "From the first, his behaviour has been peculiar.",
+    "romaji": "hajime kara, kare no furumai wa, hen deshita yo.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-20.mp3"
+   },
+   {
+    "jp": "きょうは朝からずっと、きみのことを考えていた。",
+    "en": "I’ve been thinking about you all day.",
+    "romaji": "kyou wa asa kara zutto, kimi no koto o kangaete ita.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-21.mp3"
+   },
+   {
+    "jp": "この現象はいつから日本で始まったのですか？",
+    "en": "When did this phenomenon start in Japan?",
+    "romaji": "kono genshou wa itsu kara nihon de hajimatta no desu ka.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-22.mp3"
+   },
+   {
+    "jp": "私はにがい経験から一つの真理を学びました。",
+    "en": "I have learned one thing through bitter experience.",
+    "romaji": "watashi wa nigai keiken kara hitotsu no shinri o manabimashita.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-23.mp3"
+   },
+   {
+    "jp": "それから、彼はポケットからタバコを一本とりだした。",
+    "en": "Then he extracted a cigarette from his pocket.",
+    "romaji": "sore kara, kare wa poketto kara tabako o ippon toridashita.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-24.mp3"
+   },
+   {
+    "jp": "僕は、君のうわさはしじゅう家内から聞いていた。",
+    "en": "I’ve always been hearing about you through my wife.",
+    "romaji": "boku wa, kimi no uwasa wa shijuu kanai kara kiite ita.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-25.mp3"
+   },
+   {
+    "jp": "墓地の外れから、はっきりしない声がきこえてきた。",
+    "en": "A muffled sound of voices floated up from the far end of the graveyard.",
+    "romaji": "bochi no hazure kara, hakkiri shinai koe ga kikoete kita.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-26.mp3"
+   },
+   {
+    "jp": "先生は顔から顔へと罪のしるしをさぐっていった。",
+    "en": "The teacher searched face after face for signs of guilt.",
+    "romaji": "sensei wa kao kara kao e to tsumi no shirushi o sagutte itta.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-27.mp3"
+   },
+   {
+    "jp": "彼らは丘の頂上から、ワクワクする眺めを楽しんだ。",
+    "en": "They enjoyed an exhilarating view from the top of the hill.",
+    "romaji": "karera wa oka no choujou kara, wakuwaku suru nagame o tanoshinda.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-28.mp3"
+   },
+   {
+    "jp": "その二校の統合から、１００年が経過した。",
+    "en": "A hundred years have passed since the integration of those two schools.",
+    "romaji": "sono nikou no tougou kara, hyakunen ga keika shita.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-29.mp3"
+   },
+   {
+    "jp": "あなたは新しい絵の着想をどこから得たのですか？",
+    "en": "Where did you get the inspiration for your new painting?",
+    "romaji": "anata wa atarashii e no chakusou o doko kara eta no desu ka.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-30.mp3"
+   },
+   {
+    "jp": "幸福は内部から生じる。外部のことがらではない。",
+    "en": "Happiness is from within; it is not a matter of externals.",
+    "romaji": "koufuku wa naibu kara shoujiru. gaibu no kotogara dewa nai.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-31.mp3"
+   },
+   {
+    "jp": "あなたの体重が増えてるのを見て、心から安心しました。",
+    "en": "It’s great to see you putting on weight.",
+    "romaji": "anata no taijuu ga fueteru no o mite, kokoro kara anshin shimashita.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-32.mp3"
+   },
+   {
+    "jp": "わたしたちが乗船した時から、わたしはあなたに注目していました。",
+    "en": "I’ve watched you since we all came on board.",
+    "romaji": "watashitachi ga jousen shita toki kara, watashi wa anata ni chuumoku shite imashita.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-33.mp3"
+   },
+   {
+    "jp": "彼は小さな袋からいくつかの道具を出して、仕事にとりかかった。",
+    "en": "He extracted some tools from his little bag and began to work.",
+    "romaji": "kare wa chiisa na fukuro kara ikutsuka no dougu o dashite, shigoto ni torikakatta.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-34.mp3"
+   },
+   {
+    "jp": "彼が事件から手を引いたとあんたが考えたのはなぜ？",
+    "en": "What made you think he’d ceased to take any interest in the case?",
+    "romaji": "kare ga jiken kara te o hiita to anta ga kangaeta no wa naze.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-35.mp3"
+   },
+   {
+    "jp": "彼女はたいへんりっぱな女性で、村の人から尊敬されていた。",
+    "en": "She was a very superior woman and highly thought of in the village.",
+    "romaji": "kanojo wa taihen rippa na josei de, mura no hito kara sonkei sarete ita.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-36.mp3"
+   },
+   {
+    "jp": "その都市の摩天楼は、何マイルも離れたところからでも見える。",
+    "en": "The city’s skyscrapers can be seen many miles away.",
+    "romaji": "sono toshi no matenrou wa, nan mairu mo hanareta tokoro kara demo mieru.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-37.mp3"
+   },
+   {
+    "jp": "わたしは彼から手紙をもらったのですよ、ひどく変った手紙でした。",
+    "en": "I have received a letter from him. It was an unusual letter.",
+    "romaji": "watashi wa kare kara tegami o moratta no desu yo, hidoku kawatta tegami deshita.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-38.mp3"
+   },
+   {
+    "jp": "今日から先、われわれ二カ国は固く結びついた同盟国となる。",
+    "en": "From this day forward, our two countries will be firm allies.",
+    "romaji": "kyou kara saki, wareware nikakoku wa kataku musubitsuita doumeikoku to naru.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-39.mp3"
+   },
+   {
+    "jp": "普通の渋滞じゃありません。さっきからほとんど前に進んでいませんから。",
+    "en": "This is no ordinary traffic jam. We’ve hardly moved for quite a while.",
+    "romaji": "futsuu no juutai ja arimasen. sakki kara hotondo mae ni susunde imasen kara.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-40.mp3"
+   },
+   {
+    "jp": "携帯電話は、大きな箱型の機械から、パワフルな小型コンピューターへと進化している。",
+    "en": "Cellphones have evolved from big box-like devices into powerful little computers.",
+    "romaji": "keitai denwa wa, ooki na hakogata no kikai kara, pawafuru na kogata konpyuutaa e to shinka shite iru.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-41.mp3"
+   },
+   {
+    "jp": "ここから新宿駅まで歩いてどれぐらいかかりますか。",
+    "en": "How long does it take to walk from here to Shinjuku station?",
+    "romaji": "koko kara shinjuku eki made aruite dore gurai kakarimasu ka.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-1.mp3"
+   },
+   {
+    "jp": "生まれた時から東京に住んでいる。",
+    "en": "I’ve been living in Tokyo since I was born.",
+    "romaji": "umareta toki kara toukyou ni sunde iru.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-2.mp3"
+   },
+   {
+    "jp": "この携帯電話は彼氏からもらった。",
+    "en": "I got this cell phone from my boy friend.",
+    "romaji": "kono keitai denwa wa kareshi kara moratta.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-3.mp3"
+   },
+   {
+    "jp": "これからもよろしくお願いします。",
+    "en": "I’ll be counting on you from now on.",
+    "romaji": "kore kara mo yoroshiku onegai shimasu.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-4.mp3"
+   },
+   {
+    "jp": "パパはアイパッドをわたしから取り上げた。",
+    "en": "Dad confiscated my Ipad.",
+    "romaji": "papa wa aipaddo o watashi kara toriageta.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-5.mp3"
+   },
+   {
+    "jp": "彼はやっと地獄から逃げ出した。",
+    "en": "He finally escaped from hell.",
+    "romaji": "kare wa yatto jigoku kara nigedashita.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-6.mp3"
+   },
+   {
+    "jp": "「硫黄島からの手紙」という映画を見たことがありますか？",
+    "en": "Have you watched the movie “Letters from Iwo Jima”?",
+    "romaji": "ioujima kara no tegami to iu eiga o mita koto ga arimasu ka.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-7.mp3"
+   },
+   {
+    "jp": "昨日わたしのところに田中さんから電話があった。",
+    "en": "Yesterday I got a phone call from Tanaka.",
+    "romaji": "kinou watashi no tokoro ni tanakasan kara denwa ga atta.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-8.mp3"
+   },
+   {
+    "jp": "日本の英語レベルは、経済的観点から、弱点だと思われますか？",
+    "en": "Do you think the level of English in Japan is a weakness economically?",
+    "romaji": "nihon no eigo reberu wa, keizaiteki kanten kara, jakuten da to omowaremasu ka.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-9.mp3"
+   },
+   {
+    "jp": "花から離れるのは木ではない、花が木から離れるのだ。",
+    "en": "The tree forsakes not the flower. The flower falls from the tree.",
+    "romaji": "hana kara hanareru no wa ki dewa nai, hana ga ki kara hanareru no da.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-10.mp3"
+   },
+   {
+    "jp": "昨日の朝からなにも食べていないものです。",
+    "en": "I have not eaten since yesterday morning.",
+    "romaji": "kinou no asa kara nanimo tabete inai mono desu.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-11.mp3"
+   },
+   {
+    "jp": "このプロジェクトのどんな点を見て、そんなに初期の段階からかかわることにされたのですか？",
+    "en": "What did you see in the project that made you attach yourself at such an early stage?",
+    "romaji": "kono purojekuto no donna ten o mite, sonna ni shoki no dankai kara kakawaru koto ni sareta no desu ka.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-12.mp3"
+   },
+   {
+    "jp": "彼女の顔からは何も読み取れなかった。",
+    "en": "Her face revealed nothing.",
+    "romaji": "kanojo no kao kara wa nanimo yomitorenakatta.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-13.mp3"
+   },
+   {
+    "jp": "彼は自分の寝室に入り、内側からドアを閉めた。",
+    "en": "He went into his bedroom, and fastened the door inside.",
+    "romaji": "kare wa jibun no shinshitsu ni hairi, uchigawa kara doa o shimeta.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-14.mp3"
+   },
+   {
+    "jp": "私は昔からずっと青い服が好きなの。よく覚えているのね。",
+    "en": "I’ve always liked blue clothes. You have a good memory.",
+    "romaji": "watashi wa mukashi kara zutto aoi fuku ga suki na no. yoku oboete iru no ne.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-15.mp3"
+   },
+   {
+    "jp": "過去の経験からそう判断するよ。",
+    "en": "I judge it from my past experience.",
+    "romaji": "kako no keiken kara sou handan suru yo.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-16.mp3"
+   },
+   {
+    "jp": "小さい頃から知ってたよ。彼女の兄とは親友だったからね…",
+    "en": "I knew her since we were kids. Her elder brother was my best friend…",
+    "romaji": "chiisai koro kara shitteta yo. kanojo no ani to wa shin’yuu datta kara ne.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-17.mp3"
+   },
+   {
+    "jp": "彼は椅子から立ちあがって、帽子をつかんだ。",
+    "en": "He got up from the chair and took up his cap.",
+    "romaji": "kare wa isu kara tachiagatte, boushi o tsukanda.",
+    "audio": "https://japanesetest4you.com/media/005/n5g-kara2-18.mp3"
+   }
+  ],
+  "id": "n5-g17"
+ },
+ {
+  "title": "けれども (keredomo)",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-55-%e3%81%91%e3%82%8c%e3%81%a9%e3%82%82/",
+  "meaning": "but; however; although",
+  "formation": "Sentence + けど/けれど/けれども",
+  "examples": [
+   {
+    "jp": "悪いけど、次の日曜日は仕事で人と会う約束があって…",
+    "en": "Sorry, I have an appointment to meet with someone next Sunday for work…",
+    "romaji": "warui kedo, tsugi no nichiyoubi wa shigoto de hito to au yakusoku ga atte.",
+    "audio": "https://japanesetest4you.com/audio/n5g-kedo-1.mp3"
+   },
+   {
+    "jp": "千葉君は顔は汚いけど、心はとっても清いんです。",
+    "en": "Chiba might look ugly, but he has a pure heart.",
+    "romaji": "chibakun wa kao wa kitanai kedo, kokoro wa tottemo kiyoin desu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-kedo-2.mp3"
+   },
+   {
+    "jp": "先生は大量に出血したけど浅手だとおっしゃっているの。",
+    "en": "The doctor says it’s just a flesh wound, though I did lose a tremendous amount of blood.",
+    "romaji": "sensei wa tairyou ni shukketsu shita kedo asade da to osshatte iru no.",
+    "audio": "https://japanesetest4you.com/audio/n5g-kedo-3.mp3"
+   },
+   {
+    "jp": "僕は熱に浮かされてだれだかわからなかったけど、あれは君だったのか？",
+    "en": "Was it you I did not recognize when I was delirious?",
+    "romaji": "boku wa netsu ni ukasarete dare da ka wakaranakatta kedo, are wa kimi datta no ka.",
+    "audio": "https://japanesetest4you.com/audio/n5g-kedo-4.mp3"
+   },
+   {
+    "jp": "こちらがわれわれの情報収集者！おしまいにはとうとうつかまってしまったけど、実にたくさん収集してくれたんですよ。",
+    "en": "Here’s our collector of information! And he collected a lot, before he was finally caught.",
+    "romaji": "kochira ga wareware no jouhou shuushuusha. oshimai ni wa toutou tsukamatte shimatta kedo, jitsu ni takusan shuushuu shite kuretan desu yo.",
+    "audio": "https://japanesetest4you.com/audio/n5g-kedo-5.mp3"
+   },
+   {
+    "jp": "セルフプロデュースは簡単じゃなかったです。ただアルバムを作るだけなら難しくないし誰でも作れちゃうと思うけど、いいアルバム、満足するアルバムを作ろうと思うと、それはとても難しかったです。",
+    "en": "Self-producing is not easy. Just making an album is not hard, anyone can do it. But making a good album, one that makes you feel satisfied, is really really hard.",
+    "romaji": "serufu porudyuusu wa kantan janakatta desu. tada arubamu o tsukuru dake nara muzukashikunai shi, dare demo tsukurechau to omou kedo, ii arubamu, manzoku suru arubamu o tsukurou to omou to, sore wa totemo muzukashikatta desu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-kedo-6.mp3"
+   },
+   {
+    "jp": "ずっと待っていたんだけど、我慢できなくなって夕ごはんは先に食べちゃったわ。",
+    "en": "I waited for a long time. I couldn’t wait any longer so I went ahead and ate dinner.",
+    "romaji": "zutto matte itan da kedo, gaman dekinakunatte yuugohan wa saki ni tabechatta wa.",
+    "audio": "https://japanesetest4you.com/audio/n5g-kedo-7.mp3"
+   },
+   {
+    "jp": "最初の２年間は、楽しかったですけど、順調だったとは言えないです。",
+    "en": "The first two years were fun, but not exactly a smooth ride.",
+    "romaji": "saisho no ni nenkan wa, tanoshikatta desu kedo, junchou datta to wa ienai desu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-kedo-8.mp3"
+   },
+   {
+    "jp": "さて、楽しい話題なので残念だけど、今日はもう終わりの時間です。",
+    "en": "Well, unfortunately, as fun as this is to talk about, our time is up for today.",
+    "romaji": "sate, tanoshii wadai na node zannen da kedo, kyou wa mou owari no jikan desu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-kedo-9.mp3"
+   },
+   {
+    "jp": "高木はとても口が固くてね、だけどもうそろそろ口を開いてもらいたい時だな。",
+    "en": "Takagi has been very close, but the time has come for him to open out.",
+    "romaji": "takagi wa totemo kuchi ga katakute ne, da kedo mou sorosoro kuchi o hiraite moraitai toki da na.",
+    "audio": "https://japanesetest4you.com/audio/n5g-kedo-10.mp3"
+   },
+   {
+    "jp": "いつもスマホを見てるけど、何をチェックしてるの？",
+    "en": "You’re always using your smartphone. What are you checking?",
+    "romaji": "itsumo sumaho o miteru kedo, nani o chekku shiteru no.",
+    "audio": "https://japanesetest4you.com/audio/n5g-kedo-11.mp3"
+   },
+   {
+    "jp": "厳しいしつけが、彼女を強いけれども心優しい大人にした。",
+    "en": "Her difficult upbringing made her into a tough yet kind adult.",
+    "romaji": "kibishii shitsuke ga, kanojo o tsuyoi keredomo kokoroyasashii otona ni shita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-kedo-12.mp3"
+   },
+   {
+    "jp": "のに (noni): although, in spite of",
+    "en": "ても (temo): even if, even though",
+    "romaji": "くせに (kuse ni): even though, and yet ながらも (nagara mo): but, although"
+   }
+  ],
+  "id": "n5-g18"
+ },
+ {
+  "title": "くらい (kurai)",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-53-%e3%81%8f%e3%82%89%e3%81%84/",
+  "meaning": "",
+  "formation": "Noun + くらい/ぐらい",
+  "examples": [
+   {
+    "jp": "子供じゃないんだから、自分のことぐらい自分で決めなさい。",
+    "en": "You’re not a kid anymore. Decide things by yourself.",
+    "romaji": "kodomo janain dakara, jibun no koto gurai jibun de kimenasai.",
+    "audio": "https://japanesetest4you.com/audio2/n4g-kurai-3.mp3"
+   },
+   {
+    "jp": "自分の服ぐらい自分で洗ってよ。",
+    "en": "Wash your own clothes.",
+    "romaji": "jibun no fuku gurai jibun de aratte yo.",
+    "audio": "https://japanesetest4you.com/audio2/n4g-kurai-5.mp3"
+   },
+   {
+    "jp": "せめてネクタイぐらいちゃんと締めてよね！",
+    "en": "At least do your necktie properly!",
+    "romaji": "semete nekutai gurai chanto shimete yo ne.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-gurai-1.mp3"
+   },
+   {
+    "jp": "街の人々がどんな噂をしているかぐらいは百も承知だ。",
+    "en": "I know all the things the town is saying about me.",
+    "romaji": "machi no hitobito ga donna uwasa o shite iru ka gurai wa hyakumo shouchi da.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-gurai-2.mp3"
+   },
+   {
+    "jp": "宿屋には必ず馬の一頭ぐらいはいる。",
+    "en": "An inn always has a horse.",
+    "romaji": "yadoya ni wa kanarazu uma no ittou gurai wa iru.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-gurai-3.mp3"
+   },
+   {
+    "jp": "本当に必要ならいくらでも名前くらい返しますよ。",
+    "en": "If it will help you, you can use my name as many times as you want.",
+    "romaji": "hontou ni hitsuyou nara ikura demo namae kurai kaeshimasu yo.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-gurai-4.mp3"
+   },
+   {
+    "jp": "ごめんなさい。何か連絡くらいするべきだったのね。",
+    "en": "I ‘m sorry. I should have got in touch with you.",
+    "romaji": "gomen nasai. nanika renraku kurai suru beki datta no ne.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-gurai-5.mp3"
+   },
+   {
+    "jp": "この子の望んだことをせめて最後ぐらいかなえてあげたいのよ。",
+    "en": "I want to grant this child his final wish.",
+    "romaji": "kono ko no nozonda koto o semete saigo gurai kanaete agetai no yo.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-gurai-6.mp3"
+   },
+   {
+    "jp": "だけどこれだけは言ってくれるでしょ、彼の推測が正しいか、違うかぐらいは？",
+    "en": "But you can at least tell us whether you think his guess good or bad.",
+    "romaji": "da kedo kore dake wa itte kureru desho, kare no suisoku ga tadashii ka, chigau ka gurai wa.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-gurai-7.mp3"
+   },
+   {
+    "jp": "金太郎を起こしなさい！あいつにもせめて朝起きて私たちを見送るぐらいのことはさせなくちゃ。",
+    "en": "Wake Kintaro up! At least he must get up and see us off.",
+    "romaji": "kintarou o okoshinasai. aitsu ni mo semete asa okite watashitachi o miokuru gurai no koto wa sasenakucha.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-gurai-8.mp3"
+   },
+   {
+    "jp": "写真を見るかぎり、せいぜい五歳くらいの幼い女の子で、金髪をポニーテールにしている。",
+    "en": "The photo shows a young girl who could not have been more than five, her blond hair in a ponytail.",
+    "romaji": "shashin o miru kagiri, seizei gosai kurai no osanai onna no ko de, kinpatsu o poniiteeru ni shite iru.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-gurai-9.mp3"
+   },
+   {
+    "jp": "遅いからずっと心配してたのよ。電話くらいしてくれてもいいでしょう。",
+    "en": "You had me worried. At least you could have called.",
+    "romaji": "osoi kara zutto shinpai shiteta no yo. denwa kurai shite kurete mo ii deshou.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-gurai-10.mp3"
+   },
+   {
+    "jp": "５０メートルぐらいならわたしも泳げるよ。",
+    "en": "If it’s only 50 meters than I can also swim that far.",
+    "romaji": "gojuu meetoru gurai nara watashi mo oyogeru yo.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-gurai-11.mp3"
+   },
+   {
+    "jp": "くらい (kurai): to the extent that",
+    "en": "まで (made): even, until",
+    "romaji": "ばかり (bakari) – 2: about, approximately"
+   }
+  ],
+  "id": "n5-g19"
+ },
+ {
+  "title": "まだ (mada)",
+  "url": "https://japanesetest4you.com/flashcard/jlpt-n5-grammar-%e3%81%be%e3%81%a0-mada/",
+  "meaning": "still; not yet",
+  "formation": "まだ + Verb",
+  "examples": [
+   {
+    "jp": "わたしはまだ死んでないよ！",
+    "en": "I’m not dead yet!",
+    "romaji": "watashi wa mada shindenai yo.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-22.mp3"
+   },
+   {
+    "jp": "ぼくはまだあきらめてないんだぞ。",
+    "en": "I have not given up yet.",
+    "romaji": "boku wa mada akirametenain da zo.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-23.mp3"
+   },
+   {
+    "jp": "発車の予定時刻までにまだ十分はあった。",
+    "en": "There was still ten minutes before the train was due to start.",
+    "romaji": "hassha no yotei jikoku made ni mada juppun wa atta.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-24.mp3"
+   },
+   {
+    "jp": "一番奇妙な部分を、まだ話していませんね。",
+    "en": "I haven’t told you the most curious part yet.",
+    "romaji": "ichiban kimyou na bubun o, mada hanashite imasen ne.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-25.mp3"
+   },
+   {
+    "jp": "僕はまだその事業をいいことだと認めていませんよ。",
+    "en": "I still do not admit this movement to be just.",
+    "romaji": "boku wa mada sono jigyou o ii koto da to mitomete imasen yo.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-26.mp3"
+   },
+   {
+    "jp": "疑っていたあいだは、まだ希望がありました。",
+    "en": "When I doubted, I still had hope.",
+    "romaji": "utagatte ita aida wa, mada kibou ga arimashita.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-27.mp3"
+   },
+   {
+    "jp": "あなたの妹はまだ何ヵ月もしなければ生まれないわ。",
+    "en": "Your sister won’t be born for many months yet.",
+    "romaji": "anata no imouto wa mada nankagetsu mo shinakereba umarenai wa.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-28.mp3"
+   },
+   {
+    "jp": "彼はじっと身動きもせず、まだ聞き耳を立てていた。",
+    "en": "He lay motionless, still listening.",
+    "romaji": "kare wa jitto miugoki mo sezu, mada kikimimi o tatete ita.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-29.mp3"
+   },
+   {
+    "jp": "お手紙はさしあげましたが、まだ着かないようですね。",
+    "en": "I wrote to you. You must not have received my letter.",
+    "romaji": "otegami wa sashiagemashita ga, mada tsukanai you desu ne.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-30.mp3"
+   },
+   {
+    "jp": "日曜日の朝がすぎても、まだ、彼は、姿を見せなかった。",
+    "en": "Sunday morning wore away, and still he did not reappear.",
+    "romaji": "nichiyoubi no asa ga sugite mo, mada, kare wa, sugata o misenakatta.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-31.mp3"
+   },
+   {
+    "jp": "奴をご存じなんですか？まだ生きてますか、釈放されましたか？",
+    "en": "Do you know him? Is he alive and at liberty?",
+    "romaji": "yatsu o gozonji nan desu ka. mada ikitemasu ka, shakuhou saremashita ka.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-32.mp3"
+   },
+   {
+    "jp": "ここらへんの生徒は、まだみんな行儀をわきまえてるんだ。",
+    "en": "Out here kids still mind their manners.",
+    "romaji": "kokora hen no seito wa, mada minna gyougi o wakimaeterun da.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-33.mp3"
+   },
+   {
+    "jp": "そんなにすたすた行くんじゃない。話はまだおわってないんだから！",
+    "en": "Don’t walk so fast, I’m not done with you!",
+    "romaji": "sonna ni sutasuta ikun janai. hanashi wa mada owattenain dakara.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-34.mp3"
+   },
+   {
+    "jp": "あなたのご存じないこと、まだ、あなたに話してないことがありますわ。",
+    "en": "There’s something you don’t know—that I haven’t told you.",
+    "romaji": "anata no gozonji nai koto, mada, anata ni hanashitenai koto ga arimasu wa.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-35.mp3"
+   },
+   {
+    "jp": "また腕時計をこっそり見たわたしは、まだ多少の時間の余裕があると判断した。",
+    "en": "I took another peek at my watch and saw I still had some time to spare.",
+    "romaji": "mata udedokei o kossori mita watashi wa, mada tashou no jikan no yoyuu ga aru to handan shita.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-36.mp3"
+   },
+   {
+    "jp": "まだ、なんの情報もありません。出動できる人間はすべて、警戒についています。",
+    "en": "No news as yet. All men available are on the lookout.",
+    "romaji": "mada, nan no jouhou mo arimasen. shutsudou dekiru ningen wa subete, keikai ni tsuite imasu.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-37.mp3"
+   },
+   {
+    "jp": "自分がこんなみじめな通りにある、こんなみじめなあばら家に住むことがまだ信じられなかった。",
+    "en": "I couldn’t believe I was going to live in this desperate shack and on this desperate street.",
+    "romaji": "jibun ga konna mijime na toori ni aru, konna mijime na abaraya ni sumu koto ga mada shinjirarenakatta.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-38.mp3"
+   },
+   {
+    "jp": "子供はまだ３歳です。",
+    "en": "My child’s only three years old.",
+    "romaji": "kodomo wa mada sansai desu.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-1.mp3"
+   },
+   {
+    "jp": "わたしはまだ結婚していません。",
+    "en": "I’m still single. (I’m not married yet.)",
+    "romaji": "watashi wa mada kekkon shite imasen.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-2.mp3"
+   },
+   {
+    "jp": "まだ一時間もあるわよ。",
+    "en": "We still have one hour.",
+    "romaji": "mada ichijikan mo aru wa yo.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-3.mp3"
+   },
+   {
+    "jp": "まだ、わたしには意見が述べられない。",
+    "en": "At the moment I’m not prepared to give an opinion.",
+    "romaji": "mada, watashi niwa iken ga noberarenai.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-4.mp3"
+   },
+   {
+    "jp": "あなたが最後ではありませんよ。中田がまだ来ていません。",
+    "en": "You’re not the last one. Nakada hasn’t come yet.",
+    "romaji": "anata ga saigo dewa arimasen yo. nakada ga mada kite imasen.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-6.mp3"
+   },
+   {
+    "jp": "まだ決まってないの？",
+    "en": "You haven’t decided yet?",
+    "romaji": "mada kimattenai no.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-7.mp3"
+   },
+   {
+    "jp": "まだ、バスが来る様子がない。",
+    "en": "No sign of that bus yet.",
+    "romaji": "mada, basu ga kuru yousu ga nai.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-8.mp3"
+   },
+   {
+    "jp": "海はまだ荒れていますよ。",
+    "en": "The sea is as high as ever.",
+    "romaji": "umi wa mada arete imasu yo.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-9.mp3"
+   },
+   {
+    "jp": "まだ郵便局は開いています。早く行きましょう。",
+    "en": "The post office is still open. Let’s hurry up!",
+    "romaji": "mada yuubinkyoku wa aite imasu. hayaku ikimashou.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-10.mp3"
+   },
+   {
+    "jp": "私にはまだ一つ疑問が残っているんだ。",
+    "en": "I still have one doubt.",
+    "romaji": "watashi ni wa mada hitotsu gimon ga nokotte irun da.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-11.mp3"
+   },
+   {
+    "jp": "隠してはいるが、彼の左膝はまだ完治していない…",
+    "en": "He’s hiding it, but his left knee isn’t entirely healed yet…",
+    "romaji": "kakushite wa iru ga, kare no hidari hiza wa mada kanchi shite inai.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-12.mp3"
+   },
+   {
+    "jp": "結論を出すのはまだ早い。",
+    "en": "It’s too early to jump to conclusions.",
+    "romaji": "ketsuron o dasu no wa mada hayai.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-13.mp3"
+   },
+   {
+    "jp": "だからまだ決定ではないと何度も言っただろう。",
+    "en": "I told you many times already, it hasn’t been decided yet.",
+    "romaji": "dakara mada kettei de wa nai to nando mo itta darou.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-14.mp3"
+   },
+   {
+    "jp": "あの時、私の心には影がさした。そのときはまだ何を恐れているのかわからなかったのだが。",
+    "en": "A shadow fell on my heart then, though I did not know yet what I feared.",
+    "romaji": "ano toki, watashi no kokoro ni wa kage ga sashita. sono toki wa mada nani o osorete iru no ka wakaranakatta no da ga.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-15.mp3"
+   },
+   {
+    "jp": "母は、まだ多少の希望は持っていた。",
+    "en": "My mother had still some hope.",
+    "romaji": "haha wa, mada tashou no kibou wa motte ita.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-16.mp3"
+   },
+   {
+    "jp": "まだこんなやつかばうのか？",
+    "en": "You’re still protecting him?",
+    "romaji": "mada konna yatsu kabau no ka.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-17.mp3"
+   },
+   {
+    "jp": "あなたはまだ、長旅に出る支度ができていないな。",
+    "en": "You are not ready for that long road yet.",
+    "romaji": "anata wa mada, nagatabi ni deru shitaku ga dekite inai na.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-18.mp3"
+   },
+   {
+    "jp": "夕べの件でまだお話していないことがあるんです…あなたの身に起こったことで。",
+    "en": "There are some things I haven’t told you about last night, about what happened to you.",
+    "romaji": "yuube no ken de mada ohanashi shite inai koto ga arun desu. anata no mi ni okotta koto de.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-19.mp3"
+   },
+   {
+    "jp": "うちはまだほんの小さな会社だけど、こんな最新鋭の商品があるんだから、可能性は無限大だ。",
+    "en": "We’re only a small company now, but with such a cutting-edge product, the sky’s the limit.",
+    "romaji": "uchi wa mada hon no chiisa na kaisha da kedo, konna saishin’ei no shouhin ga arun dakara, kanousei wa mugendai da.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-20.mp3"
+   },
+   {
+    "jp": "その一切を語って聞かせることにしたら、春が過ぎ去り冬になっても、まだここにすわっていなければならないだろう。",
+    "en": "If I were to tell you all that tale, we should still be sitting here when spring had passed into winter.",
+    "romaji": "sono issai o katatte kikaseru koto ni shitara, haru ga sugisari fuyu ni natte mo, mada koko ni suwatte inakereba naranai darou.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-mada-21.mp3"
+   }
+  ],
+  "id": "n5-g20"
+ },
+ {
+  "title": "まで (made)",
+  "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n5-grammar-%e3%81%be%e3%81%a7-made/",
+  "meaning": "until; till; to; as far as; to (an extent); even",
+  "formation": "Noun + まで",
+  "examples": [
+   {
+    "jp": "新宿から渋谷まで、タクシーでどのくらいかかりますか？",
+    "en": "How long does it take to go from Shinjiku to Shibuya by taxi?",
+    "romaji": "shinjuku kara shibuya made, takushii de dono kurai kakarimasu ka.",
+    "audio": "https://japanesetest4you.com/audio/n5g-made-1.mp3"
+   },
+   {
+    "jp": "では、今からその時までの間に、何が起こるのでしょうか？",
+    "en": "So, what happens between now and then?",
+    "romaji": "de wa, ima kara sono toki made no aida ni, nani ga okoru no deshou ka.",
+    "audio": "https://japanesetest4you.com/audio/n5g-made-2.mp3"
+   },
+   {
+    "jp": "トモヤが、顔を耳まで真っ赤に染めて立ち上がった。",
+    "en": "Tomoya stood up with a face scarlet up to the ears.",
+    "romaji": "tomoya ga, kao o mimi made makka ni somete tachiagatta.",
+    "audio": "https://japanesetest4you.com/audio/n5g-made-3.mp3"
+   },
+   {
+    "jp": "傘を忘れちゃったから、止むまで雨宿りしてるの。",
+    "en": "I forgot to bring my umbrella, so I’m waiting here for the rain to stop.",
+    "romaji": "kasa o wasurechatta kara, yamu made amayadori shiteru no.",
+    "audio": "https://japanesetest4you.com/audio/n5g-made-4.mp3"
+   },
+   {
+    "jp": "汽船が私を待っている。港まで送ってくれるかね。",
+    "en": "The steamer awaits me. Will you accompany me to the harbor?",
+    "romaji": "kisen ga watashi o matte iru. minato made okutte kureru ka ne.",
+    "audio": "https://japanesetest4you.com/audio/n5g-made-5.mp3"
+   },
+   {
+    "jp": "ハルトには、年下のいとこたちが大きくなるまでは、特別な親友はいませんでした。",
+    "en": "Haruto had no close friends, until some of his younger cousins began to grow up.",
+    "romaji": "haruto ni wa, toshishita no itokotachi ga ookiku naru made wa, tokubetsu na shin’yuu wa imasen deshita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-made-6.mp3"
+   },
+   {
+    "jp": "実際、服のデザインはこれまでと同じスケジュールで行っています。販売準備が整うまで、新作を公にしないだけです。",
+    "en": "In fact, the clothes are designed on the same schedule as before, they’re just not shown publicly until they’re ready to go on sale.",
+    "romaji": "jissai, fuku no dezain wa kore made to onaji sukejuuru de okonatte imasu. hanbai junbi ga totonou made, shinsaku o ooyake ni shinai dake desu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-made-7.mp3"
+   },
+   {
+    "jp": "温泉がすごく好きなので、新幹線で北から南まで温泉巡りするのもいいと思います。",
+    "en": "I really like hot springs, so it’d be cool to hop on bullet trains and visit hot springs from the North to the South.",
+    "romaji": "onsen ga sugoku suki na node, shinkansen de kita kara minami made onsen meguri suru no mo ii to omoimasu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-made-8.mp3"
+   },
+   {
+    "jp": "日本の舞台で日本語で演技するのが目標なので、すごく嬉しかったです。今までの人生で自分がした一番いい選択だったと思っています。",
+    "en": "I was so happy because my goal is to play on Japan’s stage in Japanese. I think it’s the best choice I’ve ever made in my life.",
+    "romaji": "nihon no butai de nihongo de engi suru no ga mokuhyou na node, sugoku ureshikatta desu. ima made no jinsei de jibun ga shita ichiban ii sentaku datta to omotte imasu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-made-9.mp3"
+   },
+   {
+    "jp": "このドラマは、最終回まで予測できない展開で視聴者を熱狂させた。",
+    "en": "The viewers were obsessed with this drama until the very last episode because of its unpredictable development.",
+    "romaji": "kono dorama wa, saishuukai made yosoku dekinai tenkai de shichousha o nekkyou saseta.",
+    "audio": "https://japanesetest4you.com/audio/n5g-made-10.mp3"
+   },
+   {
+    "jp": "出口を探しながら、彼は下へ下へと下り、山の根まで下りて、これ以上は進めないというところまで来た。",
+    "en": "Trying to find his way out, he went on down to the roots of the mountains, until he could go no further.",
+    "romaji": "deguchi o sagashinagara, kare wa shita e shita e to ori, yama no ne made orite, kore ijou wa susumenai to iu tokoro made kita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-made-11.mp3"
+   },
+   {
+    "jp": "父は皆さんのために闘います、常に、最後まで、いかなる時も。",
+    "en": "My father will fight for you all the time, all the way, every time.",
+    "romaji": "chichi wa minasan no tame ni tatakaimasu, tsune ni, saigo made, ikanaru toki mo.",
+    "audio": "https://japanesetest4you.com/audio/n5g-made-12.mp3"
+   },
+   {
+    "jp": "夏子の家の小道から橋までは五マイルほどありました。",
+    "en": "It was five miles or more from Natsuko’s lane to the bridge.",
+    "romaji": "natsuko no ie no komichi kara hashi made wa go mairu hodo arimashita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-made-13.mp3"
+   },
+   {
+    "jp": "あの別荘は隅から隅まで調べた。",
+    "en": "I checked every inch of that villa.",
+    "romaji": "ano bessou wa sumi kara sumi made shirabeta.",
+    "audio": "https://japanesetest4you.com/audio/n5g-made-14.mp3"
+   },
+   {
+    "jp": "この話に結着がつくまでお待ちになってください。",
+    "en": "Please at least wait until the story has a conclusion.",
+    "romaji": "kono hanashi wa kecchaku ga tsuku made omachi ni natte kudasai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-made-15.mp3"
+   },
+   {
+    "jp": "くらい (kurai): about, at least",
+    "en": "ほど (hodo): to the extent that",
+    "romaji": "から (kara): from, since"
+   }
+  ],
+  "id": "n5-g21"
+ },
+ {
+  "title": "まえに (mae ni)",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-flashcard-19/",
+  "meaning": "before, in front of",
+  "formation": "Verb-dictionary form + 前に\nNoun + の前に",
+  "examples": [
+   {
+    "jp": "警察が来る前にここを離れなくちゃ。",
+    "en": "We must get out of here before the police come.",
+    "romaji": "keisatsu ga kuru mae ni koko o hanarenakucha.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-maeni-21.mp3"
+   },
+   {
+    "jp": "判断を下す前に両者の言い分をきこう。",
+    "en": "Let’s hear both sides before judging.",
+    "romaji": "handan o kudasu mae ni ryousha no iibun o kikou.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-maeni-22.mp3"
+   },
+   {
+    "jp": "おうちに帰ってください。ここで凍える前に。",
+    "en": "Please go inside. Before you freeze.",
+    "romaji": "ouchi ni kaette kudasai. koko de kogoeru mae ni.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-maeni-23.mp3"
+   },
+   {
+    "jp": "よい生徒は、応用する前に理解する。",
+    "en": "A good student will understand before he applies.",
+    "romaji": "yoi seito wa, ouyou suru mae ni rikai suru.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-maeni-24.mp3"
+   },
+   {
+    "jp": "早く私を見つけ出して。誰かが私を見つけ出す前に。",
+    "en": "Find me now. Before someone else does.",
+    "romaji": "hayaku watashi o mitsukedashite. dareka ga watashi o mitsukedasu mae ni.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-maeni-25.mp3"
+   },
+   {
+    "jp": "競走の前には、気をしずめておくことが第一ですよ。",
+    "en": "The great thing’s to keep quiet before a race.",
+    "romaji": "kyousou no mae ni wa, ki o shizumete oku koto ga daiichi desu yo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-maeni-26.mp3"
+   },
+   {
+    "jp": "わたしが呼び鈴を鳴らす前に、ドアがあいた。",
+    "en": "The door opened before I could ring the bell.",
+    "romaji": "watashi ga yobirin o narasu mae ni, doa ga aita.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-maeni-27.mp3"
+   },
+   {
+    "jp": "きみを帰す前に、あとひとことだけいっておく。",
+    "en": "One more thing before you go.",
+    "romaji": "kimi o kaesu mae ni, ato hitokoto dake itte oku.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-maeni-28.mp3"
+   },
+   {
+    "jp": "出ていく前に、あなたへの贈り物があります。",
+    "en": "Before I go, I have a gift for you.",
+    "romaji": "dete iku mae ni, anata e no okurimono ga arimasu.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-maeni-29.mp3"
+   },
+   {
+    "jp": "この書類を送る前に、上司に見せるべきだ。",
+    "en": "You should show this paper to a superior co-worker before sending it.",
+    "romaji": "kono shorui o okuru mae ni, joushi ni miseru beki da.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-maeni-30.mp3"
+   },
+   {
+    "jp": "彼はドアを閉める前に、ちょっと手を休めた。",
+    "en": "He did pause, with a moment’s irresolution, before he shut the door.",
+    "romaji": "kare wa doa o shimeru mae ni, chotto te o yasumeta.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-maeni-31.mp3"
+   },
+   {
+    "jp": "その飛行機はＬＡに行く前にある場所に寄る。",
+    "en": "Before that plane reaches L.A., it’s going to make a pit stop.",
+    "romaji": "sono hikouki wa eruee ni iku mae ni aru basho ni yoru.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-maeni-32.mp3"
+   },
+   {
+    "jp": "話を進める前に、ここでひとつの経験をしていただきたい。",
+    "en": "Before going any further, I invite you to have an experience.",
+    "romaji": "hanashi o susumeru mae ni, koko de hitotsu no keiken o shite itadakitai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-maeni-33.mp3"
+   },
+   {
+    "jp": "わたしは顧客に会う前に、いつも精神的な準備をする。",
+    "en": "Before I meet my customers, I always prepare myself mentally.",
+    "romaji": "watashi wa kokyaku ni au mae ni, itsumo seishinteki na junbi o suru.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-maeni-34.mp3"
+   },
+   {
+    "jp": "わたしは、彼がそれ以上の質問を口にする前に電話を切った。",
+    "en": "I hung up before he could ask any more questions.",
+    "romaji": "watashi wa, kare ga sore ijou no shitsumon o kuchi ni suru mae ni denwa o kitta.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-maeni-35.mp3"
+   },
+   {
+    "jp": "読み続ける前に、あなたの感じたことを書きとめてみてほしい。",
+    "en": "Before you read further, take a few minutes to jot down your impressions.",
+    "romaji": "yomi tsuzukeru mae ni, anata no kanjita koto o kakitomete mite hoshii.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-maeni-36.mp3"
+   },
+   {
+    "jp": "おいおい全部話す。でもその前に家へ帰って、ひと眠りさせてもらうよ。",
+    "en": "I’ll tell you everything, but first I’m going home to bed.",
+    "romaji": "oioi zenbu hanasu. demo sono mae ni ie e kaette, hito nemuri sasete morau yo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-maeni-37.mp3"
+   },
+   {
+    "jp": "どうして子供は言われる前に自分から進んで手伝おうとしないのか。",
+    "en": "Why can’t children do their work cheerfully and without being reminded?",
+    "romaji": "dou shite kodomo wa iwareru mae ni jibun kara susunde tetsudaou to shinai no ka.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-maeni-38.mp3"
+   },
+   {
+    "jp": "スパイとして処刑される前に何か話したいことはないか？",
+    "en": "Have you anything to say before you are put to death as a spy?",
+    "romaji": "supai toshite shokei sareru mae ni nanika hanashitai koto wa nai ka.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-maeni-39.mp3"
+   },
+   {
+    "jp": "毎晩わたしたちが寝る前に、母はバイブルの一章を朗読した。",
+    "en": "Every night before we went to bed, Mother would read a chapter from the Bible.",
+    "romaji": "maiban watashitachi ga neru mae ni, haha wa baiburu no isshou o roudoku shita.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-maeni-40.mp3"
+   },
+   {
+    "jp": "彼は毎朝出かける前に鏡をのぞいて、自分にハッパをかけた。",
+    "en": "Every morning before he started out, he looked into the mirror and gave himself a pep talk.",
+    "romaji": "kare wa maiasa dekakeru mae ni kagami o nozoite, jibun ni happa o kaketa.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-maeni-41.mp3"
+   },
+   {
+    "jp": "その手紙を投函する前に、さらに各種の情報を書き加えることができた。",
+    "en": "I was able to add various further items of information before I posted the letter.",
+    "romaji": "sono tegami o toukan suru mae ni, sara ni kakushu no jouhou o kakikuwaeru koto ga dekita.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-maeni-42.mp3"
+   },
+   {
+    "jp": "皆でこのプロジェクトに着手する前に、お互いに自己紹介しましょう。",
+    "en": "Before we undertake this project together, let’s each introduce ourselves.",
+    "romaji": "mina de kono purojekuto ni chakushu suru mae ni, otagai ni jiko shoukai shimashou.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-maeni-43.mp3"
+   },
+   {
+    "jp": "汚染された川は、魚が戻ってくる前に、復元されなければならない。",
+    "en": "The poisoned river must be rehabilitated before fish can return to it.",
+    "romaji": "osen sareta kawa wa, sakana ga modotte kuru mae ni, fukugen sarenakereba naranai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-maeni-44.mp3"
+   },
+   {
+    "jp": "またあっちの席に腰を落ち着ける前に、ぜひ見てほしいものがある。",
+    "en": "I want you to see something before we sit down again.",
+    "romaji": "mata acchi no seki ni koshi o ochitsukeru mae ni, zehi mite hoshii mono ga aru.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-maeni-45.mp3"
+   },
+   {
+    "jp": "私は実際にその仕事を息子に任せる前に、徹底した訓練を行うことにした。",
+    "en": "Before I actually gave my son that job, I began a thorough training process.",
+    "romaji": "watashi wa jissai ni sono shigoto o musuko ni makaseru mae ni, tettei shita kunren o okonau koto ni shita.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-maeni-46.mp3"
+   },
+   {
+    "jp": "難題に取り込む前に、簡単な疑問について話し合おう。",
+    "en": "Let’s discuss the easy questions before we tackle the tougher ones.",
+    "romaji": "nandai ni torikomu mae ni, kantan na gimon ni tsuite hanashiaou.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-maeni-47.mp3"
+   },
+   {
+    "jp": "わたしがその訳を聞こうとする前に、彼はまた床に身をかがめた。",
+    "en": "Before I could ask for an explanation, he had made another dive onto the floor.",
+    "romaji": "watashi ga sono wake o kikou to suru mae ni, kare wa mata yuka ni mi o kagameta.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-maeni-48.mp3"
+   },
+   {
+    "jp": "旅行に出かける前には、目的地を定めて、最適なルートを計画するだろう。",
+    "en": "Before you go on a trip, you determine your destination and plan out the best route.",
+    "romaji": "ryokou ni dekakeru mae ni wa, mokutekichi o sadamete, saiteki na ruuto o keikaku suru darou.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-maeni-49.mp3"
+   },
+   {
+    "jp": "彼は、食事の前に、妻の袖をひいて、何事かをささやいた。",
+    "en": "Before the meal was served, he had caught his wife by the sleeve and murmured something to her.",
+    "romaji": "kare wa, shokuji no mae ni, tsuma no sode o hiite, nanigoto ka o sasayaita.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-maeni-50.mp3"
+   },
+   {
+    "jp": "彼は、上着を着る前に、丹念にブラシをかけていて、すっかりそれに気を取られているようだった。",
+    "en": "He was carefully engaged in brushing his coat before putting it on, and seemed wholly engrossed in the task.",
+    "romaji": "kare wa, uwagi o kiru mae ni, tannen ni burashi o kakete ite, sukkari sore ni ki o torarete iru you datta.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-maeni-51.mp3"
+   },
+   {
+    "jp": "優秀なエンジニアは、橋を設計する前に、まずその場所に加わる力などを理解しようとする。",
+    "en": "A good engineer will understand the forces, the stresses at work, before designing the bridge.",
+    "romaji": "yuushuu na enjinia wa, hashi o sekkei suru mae ni, mazu sono basho ni kuwawaru chikara nado o rikai shiyou to suru.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-maeni-52.mp3"
+   },
+   {
+    "jp": "ここを引き揚げる前に、食器棚のスナック類を残らずさらっていってもいいかもしれない、と思っていた。",
+    "en": "I thought I might even clean out the snack cupboard before I left.",
+    "romaji": "koko o hikiageru mae ni, shokkita na no sunakku rui o nokorazu saratte itte mo ii kamoshirenai, to omotte ita.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-maeni-53.mp3"
+   },
+   {
+    "jp": "戦争という選択肢を選ぶ前に、可能性のある解決策をすべてしっかり検討しなければならない。",
+    "en": "We must exhaustively explore other possible solutions before we make the choice for war.",
+    "romaji": "sensou to iu sentakushi o erabu mae ni, kanousei no aru kaiketsusaku o subete shikkari kentou shinakereba naranai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-maeni-54.mp3"
+   },
+   {
+    "jp": "テストの前に一生懸命勉強しました。",
+    "en": "I studied very hard before the test.",
+    "romaji": "tesuto no mae ni isshoukenmei benkyou shimashita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-maeni-1.mp3"
+   },
+   {
+    "jp": "彼の目の前に不機嫌な顔の男が立っていた。",
+    "en": "A man with a sullen face stood in front of him.",
+    "romaji": "kare no me no mae ni fukigen na kao no otoko ga tatte ita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-maeni-2.mp3"
+   },
+   {
+    "jp": "食事の前に手を洗ってください。",
+    "en": "Wash your hands before eating.",
+    "romaji": "shokuji no mae ni te o aratte kudasai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-maeni-3.mp3"
+   },
+   {
+    "jp": "男の子がケージの前に来て、じっと獅子を見つめた。",
+    "en": "The boy walked towards the glass and stared at the lion.",
+    "romaji": "otoko no ko ga keeji no mae ni kite, jitto shishi o mitsumeta.",
+    "audio": "https://japanesetest4you.com/audio/n5g-maeni-4.mp3"
+   },
+   {
+    "jp": "日本へ行く前に日本語を勉強しました。",
+    "en": "I studied Japanese before coming to Japan.",
+    "romaji": "nihon e iku mae ni nihongo o benkyou shimashita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-maeni-5.mp3"
+   },
+   {
+    "jp": "学校に行く前に朝ごはんを食べなさい。",
+    "en": "Eat your breakfast before going to school.",
+    "romaji": "gakkou ni iku mae ni asagohan o tabenasai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-maeni-6.mp3"
+   },
+   {
+    "jp": "おれの家の前に車が止まっている。",
+    "en": "There’s a car parked in front of my house.",
+    "romaji": "ore no ie no mae ni kuruma ga tomatte iru.",
+    "audio": "https://japanesetest4you.com/audio/n5g-maeni-7.mp3"
+   },
+   {
+    "jp": "私の目の前に彼が突然現れた。",
+    "en": "He suddenly appeared in front of me out of nowhere.",
+    "romaji": "watashi no me no mae ni kare ga totsuzen arawareta.",
+    "audio": "https://japanesetest4you.com/audio/n5g-maeni-8.mp3"
+   },
+   {
+    "jp": "ドアを開ける前にノックぐらいしろよ。",
+    "en": "You should at least knock before opening the door.",
+    "romaji": "doa o akeru mae ni nokku gurai shiro yo.",
+    "audio": "https://japanesetest4you.com/audio/n5g-maeni-9.mp3"
+   },
+   {
+    "jp": "私は、この国に市民権を申請する前に２０年住んだ。",
+    "en": "I lived in this country for 20 years before applying for citizenship.",
+    "romaji": "watashi wa, kono kuni ni shiminken o shinsei suru mae ni nijuu nen sunda.",
+    "audio": "https://japanesetest4you.com/audio/n5g-maeni-10.mp3"
+   },
+   {
+    "jp": "人の英語を直す前にあんたの日本語なんとかしろよ。",
+    "en": "You should fix your Japanese before fixing people’s English.",
+    "romaji": "hito no eigo o naosu mae ni anta no nihongo nan toka shiro yo.",
+    "audio": "https://japanesetest4you.com/audio/n5g-maeni-11.mp3"
+   },
+   {
+    "jp": "君はこれをすっかり抜き取ってしまうんだぞ。食べるものにありつく前にね。",
+    "en": "You ought to mop all that up before you get anything to eat.",
+    "romaji": "kimi wa kore o sukkari nukitotte shimaun da zo. taberu mono ni aritsuku mae ni ne.",
+    "audio": "https://japanesetest4you.com/audio/n5g-maeni-12.mp3"
+   },
+   {
+    "jp": "僕が発つ前にまたお目にかかれますか。",
+    "en": "Shall I see you again before my departure?",
+    "romaji": "boku ga tatsu mae ni mata ome ni kakaremasu ka.",
+    "audio": "https://japanesetest4you.com/audio/n5g-maeni-13.mp3"
+   },
+   {
+    "jp": "わたしは寝る前にワインを飲みながらスナックを食べています。",
+    "en": "Before going to bed, I usually drink wine while eating some snack.",
+    "romaji": "watashi wa neru mae ni wain o nominagara sunakku o tabete imasu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-maeni-14.mp3"
+   },
+   {
+    "jp": "子どもにかっさらわれる前に、ケーキの最後の一切れをもらっちゃおうっと。",
+    "en": "I think I’ll have that last piece of cake before the kids swoop on it.",
+    "romaji": "kodomo ni kassarawareru mae ni, keeki no saigo no hitokire o moracchaou tto.",
+    "audio": "https://japanesetest4you.com/audio/n5g-maeni-15.mp3"
+   },
+   {
+    "jp": "そういうことになると、寝る前にたくさんしておくことがあるな。",
+    "en": "But in that case there are a lot of things to do before we go to bed.",
+    "romaji": "sou iu koto ni naru to, neru mae ni takusan shite oku koto ga aru na.",
+    "audio": "https://japanesetest4you.com/audio/n5g-maeni-16.mp3"
+   },
+   {
+    "jp": "私の人生の目標は、死ぬ前に人生を見詰め直したとき、「後悔はない」と自分に言えることです。",
+    "en": "My objective in life is to be able to look at it, upon it when I die, and say to myself, “I have no regrets.”",
+    "romaji": "watashi no jinsei no mokuhyou wa, shinu mae ni jinsei o mitsumenaoshita toki, koukai wa nai to jibun ni ieru koto desu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-maeni-17.mp3"
+   },
+   {
+    "jp": "私は実は、日本に来る前に、アメリカで、ラテンアメリカからの難民に英語を教えたわ。",
+    "en": "I taught English, actually, to Latin American refugees in the States before I came to Japan.",
+    "romaji": "watashi wa jitsu wa, nihon ni kuru mae ni, amerika de, raten amerika kara no nanmin ni eigo o oshieta wa.",
+    "audio": "https://japanesetest4you.com/audio/n5g-maeni-18.mp3"
+   },
+   {
+    "jp": "私は死ぬ前にもう一度荒れ地が見たい。山々が見たい。",
+    "en": "I want to see the wild country again before I die, and the mountains.",
+    "romaji": "watashi wa shinu mae ni mou ichido arachi ga mitai. yamayama ga mitai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-maeni-19.mp3"
+   },
+   {
+    "jp": "お風呂に入る前に、まだ片付けものもあるし、荷造りの総仕上げもある。",
+    "en": "We have still got to tidy up and put the finishing touches to the packing before we take a bath.",
+    "romaji": "ofuro ni hairu mae ni, mada katadzukemono mo aru shi, nidzukuri no soushiage mo aru.",
+    "audio": "https://japanesetest4you.com/audio/n5g-maeni-20.mp3"
+   }
+  ],
+  "id": "n5-g22"
+ },
+ {
+  "title": "ませんか (masen ka)",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-flashcard-6/",
+  "meaning": "let’s, won’t you, wouldn’t you",
+  "formation": "Verb-polite negative form + ませんか",
+  "examples": [],
+  "id": "n5-g23"
+ },
+ {
+  "title": "ましょう (mashou)",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-flashcard-11/",
+  "meaning": "let’s, shall we",
+  "formation": "Verb-ますstem + ましょう / ましょうか",
+  "examples": [
+   {
+    "jp": "もっとよく調べてみましょう。",
+    "en": "Let’s look at it deeper.",
+    "romaji": "motto yoku shirabete mimashou.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-mashou-25.mp3"
+   },
+   {
+    "jp": "もっとデータを収集しましょう。",
+    "en": "Let’s get some more data.",
+    "romaji": "motto deeta o shuushuu shimashou.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-mashou-26.mp3"
+   },
+   {
+    "jp": "あなたの病気を診断しましょうか？",
+    "en": "Shall we diagnose your case?",
+    "romaji": "anata no byouki o shindan shimashou ka.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-mashou-27.mp3"
+   },
+   {
+    "jp": "成功を祈って乾杯しましょうよ！",
+    "en": "Let’s drink to success!",
+    "romaji": "seikou o inotte kanpai shimashou yo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-mashou-28.mp3"
+   },
+   {
+    "jp": "この前の話の続きをしましょう。",
+    "en": "Let’s pick up where we left off last time.",
+    "romaji": "kono mae no hanashi no tsuzuki o shimashou.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-mashou-29.mp3"
+   },
+   {
+    "jp": "いまはもう考えるのはやめましょう。",
+    "en": "Stop thinking about it now.",
+    "romaji": "ima wa mou kangaeru no wa yamemashou.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-mashou-30.mp3"
+   },
+   {
+    "jp": "それはまた別のときに話し合いましょう。",
+    "en": "We’ll discuss this another time.",
+    "romaji": "sore wa mata betsu no toki ni hanashiaimashou.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-mashou-31.mp3"
+   },
+   {
+    "jp": "この恐ろしい場所から逃げましょうよ。",
+    "en": "Let’s get away from this dreadful place.",
+    "romaji": "kono osoroshii basho kara nigemashou yo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-mashou-32.mp3"
+   },
+   {
+    "jp": "今のあなたの話を繰り返してみましょう。",
+    "en": "Let’s go over what you just told me again.",
+    "romaji": "ima no anata no hanashi o kurikaeshite mimashou.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-mashou-33.mp3"
+   },
+   {
+    "jp": "もう一つ、題名を提案しましょう。",
+    "en": "I will give you yet another suggestion for a title.",
+    "romaji": "mou hitotsu, daimei o teian shimashou.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-mashou-34.mp3"
+   },
+   {
+    "jp": "みんなで五分間考えて、それから話すことにしましょうよ。",
+    "en": "Let’s all think for five minutes and then speak.",
+    "romaji": "minna de go funkan kangaete, sore kara hanasu koto ni shimashou yo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-mashou-35.mp3"
+   },
+   {
+    "jp": "本当にお気の毒だけど、このへんで誤解を解きましょう。",
+    "en": "I am exceedingly sorry, but it is well that the mistake ends where it does.",
+    "romaji": "hontou ni o ki no doku da kedo, kono hen de gokai o tokimashou.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-mashou-36.mp3"
+   },
+   {
+    "jp": "なるべくかんたんに、前後のもようを話してみましょう。",
+    "en": "I will give you the facts as briefly as possible.",
+    "romaji": "narubeku kantan ni, zengo no moyou o hanashite mimashou.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-mashou-37.mp3"
+   },
+   {
+    "jp": "この男の言いたいことを、ふたりで聞いてやりましょう。",
+    "en": "I think we’ll listen to what he has to say.",
+    "romaji": "kono otoko no iitai koto o, futari de kiite yarimashou.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-mashou-38.mp3"
+   },
+   {
+    "jp": "夫にも打ち明けていないことをお話しましょう。",
+    "en": "I am going to tell you something that I have never confessed to anyone before, not even to my husband.",
+    "romaji": "otto ni mo uchiakete inai koto o ohanashi shimashou.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-mashou-39.mp3"
+   },
+   {
+    "jp": "今日はもう遅いけど、あしたはふたりでドライブにいきましょう。",
+    "en": "It’s too late today, but tomorrow we’re going for a drive.",
+    "romaji": "kyou wa mou osoi kedo, ashita wa futari de doraibu ni ikimashou.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-mashou-40.mp3"
+   },
+   {
+    "jp": "これは最後のお別れではなく、「ではまた会いましょう」というものだ。",
+    "en": "This isn’t a final farewarell, but rather a “Goodbye for now.”",
+    "romaji": "kore wa saigo no o wakare dewa naku, dewa mata aimashou to iu mono da.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-mashou-41.mp3"
+   },
+   {
+    "jp": "このことは秘密ですよ。あなただけに打ち明けましょう。じつは私立探偵なのです。",
+    "en": "It is a secret, but I will tell you, I am a private detective.",
+    "romaji": "kono koto wa himitsu desu yo. anata dake ni uchiakemashou. jitsu wa shiritsu tantei na no desu.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-mashou-42.mp3"
+   },
+   {
+    "jp": "私もますますやる気が出てきました。どんなことをしてもキラを捕まえましょう！",
+    "en": "I’m really motivated too. Let’s catch Kira no matter what!",
+    "romaji": "watashi mo masumasu yaru ki ga dete kimashita. donna koto o shite mo kira o tsukamaemashou.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-mashou-43.mp3"
+   },
+   {
+    "jp": "その点は、わたしどもがよく判断します。とにかく事実をうかがいましょう、橋本さん。",
+    "en": "We’re the best judge of that. Let’s have the facts, Mr. Hashimoto.",
+    "romaji": "sono ten wa, watashi domo ga yoku handan shimasu. tonikaku jijitsu o ukagaimashou, hashimoto-san.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-mashou-44.mp3"
+   },
+   {
+    "jp": "さっきのコニャックのせいで、頭が大分変ですから、では、コーヒーをいただきましょう。",
+    "en": "That cognac’s made my head feel mighty funny. I think I would like some coffee.",
+    "romaji": "sakki no konyakku no sei de, atama ga daibu hen desu kara,de wa, koohii o itadakimashou.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-mashou-45.mp3"
+   },
+   {
+    "jp": "その独立ふきの精神は、ごりっぱなことです。ですが、実際面を考えてみましょう。",
+    "en": "I congratulate you on your independent spirit, but let us be practical.",
+    "romaji": "sono dokuritsu fuki no seishin wa, gorippa na koto desu. desu ga, jissai men o kangaete mimashou.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-mashou-46.mp3"
+   },
+   {
+    "jp": "まず食事をしましょう。食事をしながら、衆知を集めて、どういう手が打てるか考えてみましょう。",
+    "en": "Let us lunch, and over lunch we will put our heads together and see what can be done.",
+    "romaji": "mazu shokuji o shimashou. shokuji o shinagara, shuuchi o atsumete, dou iu te ga uteru ka kangaete mimashou.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-mashou-47.mp3"
+   },
+   {
+    "jp": "さあ、お茶でも飲みましょう。その食器棚には、あらゆる種類の秘密の貯蔵品がはいってるのよ。",
+    "en": "Come on, let’s have tea. We’ve got all sorts of secret stories in that cupboard.",
+    "romaji": "saa, ocha demo nomimashou. sono shokkitana ni wa, arayuru shurui no himitsu no chozouhin ga haitteru no yo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-mashou-48.mp3"
+   },
+   {
+    "jp": "焼肉を食べましょう！",
+    "en": "Let’s eat grilled meat!",
+    "romaji": "yakiniku o tabemashou!",
+    "audio": "https://japanesetest4you.com/audio3/n5g-mashou-1.mp3"
+   },
+   {
+    "jp": "ここで遊びましょうか？",
+    "en": "Shall we play here?",
+    "romaji": "koko de asobimashou ka?",
+    "audio": "https://japanesetest4you.com/audio3/n5g-mashou-2.mp3"
+   },
+   {
+    "jp": "一緒に日本語を勉強しましょう！",
+    "en": "Let’s study Japanese together!",
+    "romaji": "issho ni nihongo o benkyou shimashou!",
+    "audio": "https://japanesetest4you.com/audio3/n5g-mashou-3.mp3"
+   },
+   {
+    "jp": "テストを始めましょうか？",
+    "en": "Shall we begin the test?",
+    "romaji": "tesuto o hajimemashou ka?",
+    "audio": "https://japanesetest4you.com/audio3/n5g-mashou-4.mp3"
+   },
+   {
+    "jp": "学校で会いましょう！",
+    "en": "Let’s meet at school!",
+    "romaji": "gakkou de aimashou!",
+    "audio": "https://japanesetest4you.com/audio3/n5g-mashou-5.mp3"
+   },
+   {
+    "jp": "寒いから、熱いコーヒーを飲みましょうか？",
+    "en": "Since it’s cold, shall we drink some hot coffee?",
+    "romaji": "samui kara, atsui koohii o nomimashou ka?",
+    "audio": "https://japanesetest4you.com/audio3/n5g-mashou-6.mp3"
+   },
+   {
+    "jp": "行きましょう！",
+    "en": "Let’s go!",
+    "romaji": "ikimashou!",
+    "audio": "https://japanesetest4you.com/audio3/n5g-mashou-7.mp3"
+   },
+   {
+    "jp": "校歌を歌いましょう！",
+    "en": "Let’s sing the school song!",
+    "romaji": "kouka o utaimashou!",
+    "audio": "https://japanesetest4you.com/audio3/n5g-mashou-8.mp3"
+   },
+   {
+    "jp": "もう暗くなったから、帰りましょうか？",
+    "en": "Since it’s already dark, shall we go home?",
+    "romaji": "mou kuraku natta kara, kaerimashou ka?",
+    "audio": "https://japanesetest4you.com/audio3/n5g-mashou-9.mp3"
+   },
+   {
+    "jp": "マラソン大会に参加しましょう！",
+    "en": "Let’s enter the marathon race!",
+    "romaji": "marason taikai ni sanka shimashou!",
+    "audio": "https://japanesetest4you.com/audio3/n5g-mashou-10.mp3"
+   },
+   {
+    "jp": "では皆さん、聞いてくださってありがとう。次回またお会いしましょう。",
+    "en": "Thank you very much for listening in, and we’ll see you again next time.",
+    "romaji": "dewa minasa, kiite kudasatte arigatou. jikai mata oai shimashou.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-mashou-11.mp3"
+   },
+   {
+    "jp": "それが、私の率いる政府の使命です。ですから、共に、よりよいイギリスを築き上げていきましょう。",
+    "en": "That will be the mission of the government I lead, and together, we will build a better Britain.",
+    "romaji": "sore ga, watashi no hikiiru seifu no shimei desu. desu kara, tomo ni, yori yoi igirisu o kizukiagete ikimashou.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-mashou-12.mp3"
+   },
+   {
+    "jp": "ちょっと遅いけど朝のお茶もわるくないわね、ラウンジへ行って飲みましょうよ。",
+    "en": "It’s not too late for morning tea. We’ll have it in the lounge.",
+    "romaji": "chotto osoi kedo asa no ocha mo warukunai wa ne, raunji e itte nomimashou yo.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-mashou-13.mp3"
+   },
+   {
+    "jp": "ここでお待ちしています。ご用がすんだら、まっすぐ空港へ向かいましょう。",
+    "en": "I’ll wait for you here. Let’s go straight to the airport when you’re ready.",
+    "romaji": "koko de omachi shite imasu. goyou ga sundara, massugu kuukou e muikashou.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-mashou-14.mp3"
+   },
+   {
+    "jp": "この件について詳しいことを知りたいというわけですな。よろしい、事の次第を正確にお話ししましょう。",
+    "en": "Naturally you want to know all about it. Well, I’ll tell you exactly how the matter stands.",
+    "romaji": "kono ken ni tsuite kuwashii koto o shiritai to iu wake desu na. yoroshii, koto no shidai o seikaku ni ohanashi shimashou. ***事の次第 (koto no shidai): circumstances",
+    "audio": "https://japanesetest4you.com/audio3/n5g-mashou-15.mp3"
+   },
+   {
+    "jp": "私からおかみさんに話して、この男に気をつけていてくれるように頼んでおきましょう。",
+    "en": "I’ll have a word with my landlord, and tell him to keep an eye on this man.",
+    "romaji": "watashi kara okamisan ni hanashite, kono otoko ni ki o tsukete ite kureru you ni tanonde okimashou.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-mashou-16.mp3"
+   },
+   {
+    "jp": "何をお望みなのですか？私の力でできることなら、何なりとして差し上げましょう。",
+    "en": "What do you wish? If it lies in my power, I will do it.",
+    "romaji": "nani o onozomi na no desu ka. watashi no chikara de dekiru koto nara, nani nari toshite sashiagemashou.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-mashou-17.mp3"
+   },
+   {
+    "jp": "われわれは不動産の管理や、お子さんたちのために何をしておけばよいかを相談しましょう。",
+    "en": "Now let’s talk about how we can manage your estate and what you are going to do for your children.",
+    "romaji": "wareware wa fudousan no kanri ya, okosantachi no tame ni nani o shite okeba yoi ka o soudan shimashou.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-mashou-18.mp3"
+   },
+   {
+    "jp": "その男が二度と生き返らないことを祈りましょう。",
+    "en": "Let us hope that that man will not come to life again.",
+    "romaji": "sono otoko ga nido to ikikaeranai koto o inorimashou.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-mashou-19.mp3"
+   },
+   {
+    "jp": "とにかく北海道行きの電車を調べてみることにしましょう。",
+    "en": "We’ll inquire about trains to Hokkaido anyway.",
+    "romaji": "tonikaku hokkaidou yuki no densha o shirabete miru koto ni shimashou.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-mashou-20.mp3"
+   },
+   {
+    "jp": "それじゃ大事な話にうつりましょう。",
+    "en": "Now let’s get down to business.",
+    "romaji": "soreja daiji na hanashi ni utsurimashou.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-mashou-21.mp3"
+   },
+   {
+    "jp": "さア、彼がこれでどうするか見ていましょう。",
+    "en": "Let’s see what he’ll do with that.",
+    "romaji": "saa, kare ga kore de dou suru ka mite imashou.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-mashou-22.mp3"
+   },
+   {
+    "jp": "なにか探してみましょう、あなたに合いそうな仕事をね。",
+    "en": "We’ll look for some job suitable for you.",
+    "romaji": "nanika sagashite mimashou, anata ni aisou na shigoto o ne.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-mashou-23.mp3"
+   },
+   {
+    "jp": "じゃ、ランチでもいっしょに食べましょう。",
+    "en": "Let’s have lunch together then.",
+    "romaji": "ja, ranchi demo issho ni tabemashou.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-mashou-24.mp3"
+   },
+   {
+    "jp": "Volitional Form of Verbs",
+    "en": "ませんか (masen ka): let’s, won’t you",
+    "romaji": "ていただけませんか (te itadakemasen ka): can you please"
+   }
+  ],
+  "id": "n5-g24"
+ },
+ {
+  "title": "も (mo)",
+  "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%82%82-mo-1/",
+  "meaning": "also, too, as well",
+  "formation": "Noun + も",
+  "examples": [
+   {
+    "jp": "あいつも結構かわいいところがある…",
+    "en": "He can be kind of cute sometimes…",
+    "romaji": "aitsu mo kekkou kawaii tokoro ga aru.",
+    "audio": "https://japanesetest4you.com/audio/n5g-mo-1.mp3"
+   },
+   {
+    "jp": "僕も昨日徹夜で勉強しました。",
+    "en": "I was also up all night studying.",
+    "romaji": "boku mo kinou tetsuya de benkyou shimashita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-mo-2.mp3"
+   },
+   {
+    "jp": "約２０００万人いるタイの高齢者たちには、貯金も個人年金もないのです。",
+    "en": "Around 20 million elderly Thais do not have savings or private pensions.",
+    "romaji": "yaku nisen mannin iru tai no koureishatachi ni wa, chokin mo kojin nenkin mo nai no desu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-mo-3.mp3"
+   },
+   {
+    "jp": "どちらの候補者も、さまざまな感情を掻き立てるのです。",
+    "en": "Both candidates stir up a lot of emotion.",
+    "romaji": "dochira no kouhosha mo, samazama na kanjou o kakitateru no desu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-mo-4.mp3"
+   },
+   {
+    "jp": "カーターはやがて、素晴らしい人権擁護者となり、またノーベル平和賞も受賞しました。",
+    "en": "Carter turned out to be a great advocate for human rights as well as a Nobel Peace Prize winner.",
+    "romaji": "kaataa wa yagate, subarashii jinken yougosha to nari, mata nooberu heiwashou mo jushou shimashita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-mo-5.mp3"
+   },
+   {
+    "jp": "収蔵品についてのトークもしますし、重要作品について、毎日１０分のトークもしています。",
+    "en": "I also do collection talks and the daily 10-minute talks on key works in the actual gallery.",
+    "romaji": "shuuzouhin ni tsuite no tooku mo shimasu shi, juuyou sakuhin ni tsuite, mainichi juppun no tooku mo shite imasu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-mo-6.mp3"
+   },
+   {
+    "jp": "私は接客マネジャーですが、屋敷内のガイドもします。",
+    "en": "I’m the visitor engagement manager, but I also do guiding in the house.",
+    "romaji": "watashi wa sekkyaku manejaa desu ga, yashikinai no gaido mo shimasu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-mo-7.mp3"
+   },
+   {
+    "jp": "彼の名前も知らないし、どの部屋に住んでいるのかもわからない。",
+    "en": "I don’t know his name or where his room is.",
+    "romaji": "kare no namae mo shiranai shi, dono heya ni sunde iru no ka mo wakaranai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-mo-9.mp3"
+   },
+   {
+    "jp": "日本は空気がきれいで空も高く、気持ちいい場所でした。ファンの皆さんも優しかったし。",
+    "en": "The air in Japan is clean, the sky is tall, it felt like a really good place. The fans were also kind.",
+    "romaji": "nihon wa kuuki ga kirei de sora mo takaku, kimochi ii basho deshita. fan no minasan mo yasashikatta shi.",
+    "audio": "https://japanesetest4you.com/audio/n5g-mo-10.mp3"
+   },
+   {
+    "jp": "会社というところは僕には向いていない。きっと君にも向いていない。",
+    "en": "Me and companies just don’t get along. I don’t think you’d find it any different.",
+    "romaji": "kaisha to iu tokoro wa boku ni wa muite inai. kitto kimi ni mo muite inai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-mo-11.mp3"
+   },
+   {
+    "jp": "他人を愛することも大事だけれど、自分も愛せなくてはいけないんです。",
+    "en": "You need to be able to love other people, but you need to be able to love yourself, too.",
+    "romaji": "ta’nin o ai suru koto mo daiji da keredo, jibun mo aisenakute wa ikenain desu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-mo-12.mp3"
+   },
+   {
+    "jp": "スタッフは男性も女性もいる状態で、肌色のパンツだけははいて撮影をしました。",
+    "en": "I wore only skin-colored pants and acted in front of both male and female staff.",
+    "romaji": "sutaffu wa dansei mo josei mo iru joutai de, hadairo no pantsu dake wa haite satsuei o shimashita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-mo-13.mp3"
+   },
+   {
+    "jp": "愛しているだなんて露骨に打ち明けようとは夢にも思わない。",
+    "en": "I can’t even dream of saying to him boldly that I love him.",
+    "romaji": "aishite iru da nante rokotsu ni uchiakeyou to wa yume ni mo omowanai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-mo-14.mp3"
+   }
+  ],
+  "id": "n5-g25"
+ },
+ {
+  "title": "もう (mo)",
+  "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n4-grammar-%e3%82%82%e3%81%86-mou/",
+  "meaning": "",
+  "formation": "",
+  "examples": [
+   {
+    "jp": "もう彼の話はしないわ。",
+    "en": "I will say no more about him.",
+    "romaji": "mou kare no hanashi wa shinai wa.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-mou-22.mp3"
+   },
+   {
+    "jp": "トシヒコはもう十六歳だったね。",
+    "en": "Toshihiko’s already sixteen.",
+    "romaji": "toshihiko wa mou juuroku sai datta ne.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-mou-24.mp3"
+   },
+   {
+    "jp": "父さん、学校なんてもういやだよ。",
+    "en": "Dad, I don’t wanna go to school anymore.",
+    "romaji": "tousan, gakkou nante mou iya da yo.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-mou-25.mp3"
+   },
+   {
+    "jp": "もうもとのような顔にはなれないの。",
+    "en": "My face will never be the way it was.",
+    "romaji": "mou moto no you na kao ni wa narenai no.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-mou-26.mp3"
+   },
+   {
+    "jp": "ぼくは今のところ、冒険はもうたくさん。",
+    "en": "I’ve had quite enough adventures for the present.",
+    "romaji": "boku wa ima no tokoro, bouken wa mou takusan.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-mou-27.mp3"
+   },
+   {
+    "jp": "健康がある。もう一度出直すのだ。",
+    "en": "I still have my health. I will start again.",
+    "romaji": "kenkou ga aru. mou ichido denaosu no da.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-mou-28.mp3"
+   },
+   {
+    "jp": "もう事件の話はしたくない。おわったことだ。",
+    "en": "I don’t want to talk about it, it’s over.",
+    "romaji": "mou jiken no hanashi wa shitakunai. owatta koto da.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-mou-29.mp3"
+   },
+   {
+    "jp": "今はもう二十世紀も終わりに近いんだ。",
+    "en": "We’re drawing close to the end of the twentieth century.",
+    "romaji": "ima wa mou nijusseiki mo owari ni chikain da.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-mou-30.mp3"
+   },
+   {
+    "jp": "もう一生、君とは口をきかないぞ！",
+    "en": "I’ll never speak to you again as long as I live.",
+    "romaji": "mou isshou, kimi to wa kuchi o kikanai zo.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-mou-31.mp3"
+   },
+   {
+    "jp": "ふたたび顔をあげたとき、ハルカの姿はもうなかった。",
+    "en": "When I looked up again, Haruka was gone.",
+    "romaji": "futatabi kao o ageta toki, haruka no sugata wa mou nakatta.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-mou-32.mp3"
+   },
+   {
+    "jp": "食事までにはもう何を話す時間もなかった。",
+    "en": "There was no time to talk about anything before dinner.",
+    "romaji": "shokuji made ni wa mou nani o hanasu jikan mo nakatta.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-mou-33.mp3"
+   },
+   {
+    "jp": "私はもうだめです。私の力は尽き果てました。",
+    "en": "I am done for. I have reached the end of my resources.",
+    "romaji": "watashi wa mou dame desu. watashi no chikara wa tsukihatemashita.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-mou-34.mp3"
+   },
+   {
+    "jp": "怒りはもうすっかり消えていたが、衝撃はなおもあとを引いていた。",
+    "en": "I was no longer angry, but I was still stunned.",
+    "romaji": "ikari wa mou sukkari kiete ita ga, shougeki wa naomo ato o hiite ita.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-mou-35.mp3"
+   },
+   {
+    "jp": "ふりかえればこの瞬間だったと思う、もう二度と帰らないと心に決めたのは。",
+    "en": "I think that’s when I decided I was never going back.",
+    "romaji": "furikaereba kono shunkan datta to omou, mou nido to kaeranai to kokoro ni kimeta no wa.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-mou-36.mp3"
+   },
+   {
+    "jp": "私は卵をもう一つに、ベーコンをもう一、二枚、食べられそうな気がしますね。",
+    "en": "I believe I could manage another egg, and perhaps a rasher or two of bacon.",
+    "romaji": "watashi wa tamago o mou hitotsu ni, beekon o mou ichi, ni-mai, taberaresou na ki ga shimasu ne.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-mou-37.mp3"
+   },
+   {
+    "jp": "僕はもう彼女のことなんかどうでもいい。僕にとっては、彼女はもう存在しないものなのだ。",
+    "en": "I have nothing to do with her. She does not exist for me.",
+    "romaji": "boku wa mou kanojo no koto nanka dou demo ii. boku ni totte wa, kanojo wa mou sonzai shinai mono na no da.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-mou-38.mp3"
+   },
+   {
+    "jp": "私、そんなことはもう、わたしの生活になんの影響ももたないだろうと決めたのよ。",
+    "en": "I have made up my mind it shall not have any more influence on my life.",
+    "romaji": "watashi, sonna koto wa mou, watashi no seikatsu ni nan no eikyou mo motanai darou to kimeta no yo.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-mou-39.mp3"
+   },
+   {
+    "jp": "もうすでに、両方の棟をつなぐ回廊に、足音が響いているじゃありませんか。",
+    "en": "Already footsteps are echoing along the gallery which connects the two wings.",
+    "romaji": "mou sude ni, ryouhou no mune o tsunagu kairou ni, ashioto ga hibiite iru ja arimasen ka.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-mou-40.mp3"
+   },
+   {
+    "jp": "もうほとんど言うことはありません。僕は、昼間眠り、夜になると起きて見張りをしていました。",
+    "en": "There’s very little to tell. I got my sleep in the daytime and stayed awake on the watch at night.",
+    "romaji": "mou hotondo iu koto wa arimasen. boku wa, hiruma nemuri, yoru ni naru to okite mihari o shite imashita.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-mou-41.mp3"
+   },
+   {
+    "jp": "みんながたくさん飲みましたから、もうお酒はありません。",
+    "en": "Since everyone drank a lot, there’s no alcohol left.",
+    "romaji": "minna ga takusan nomimashita kara, mou osake wa arimasen.",
+    "audio": "https://japanesetest4you.com/media/001/n4g-mou-1.mp3"
+   },
+   {
+    "jp": "アルコールはもう飲まないことにした。",
+    "en": "I’ve decided not to drink anymore.",
+    "romaji": "arukooru wa mou nomanai koto ni shita.",
+    "audio": "https://japanesetest4you.com/media/001/n4g-mou-2.mp3"
+   },
+   {
+    "jp": "もう我慢できない。",
+    "en": "I can’t take it anymore.",
+    "romaji": "mou gaman dekinai.",
+    "audio": "https://japanesetest4you.com/media/001/n4g-mou-3.mp3"
+   },
+   {
+    "jp": "もうすこし小さいボールを貸してください。",
+    "en": "Please lend me a smaller ball.",
+    "romaji": "mou sukoshi chiisai booru o kashite kudasai.",
+    "audio": "https://japanesetest4you.com/media/001/n4g-mou-4.mp3"
+   },
+   {
+    "jp": "僕たち、もう知ってた。",
+    "en": "We already knew.",
+    "romaji": "bokutachi, mou shitteta.",
+    "audio": "https://japanesetest4you.com/media/001/n4g-mou-5.mp3"
+   },
+   {
+    "jp": "もう行っていいよ。",
+    "en": "You can go now.",
+    "romaji": "mou itte ii yo.",
+    "audio": "https://japanesetest4you.com/media/001/n4g-mou-6.mp3"
+   },
+   {
+    "jp": "牛乳は全部飲みました。もうありません。",
+    "en": "I drank all the milk. There’s none left.",
+    "romaji": "gyuunyuu wa zenbu nomimashita. mou arimasen.",
+    "audio": "https://japanesetest4you.com/media/001/n4g-mou-7.mp3"
+   },
+   {
+    "jp": "どの高校に入るかもう決めましたか。",
+    "en": "Have you decided on which high school you’ll enter?",
+    "romaji": "dono koukou ni hairu ka mou kimemashita ka.",
+    "audio": "https://japanesetest4you.com/media/001/n4g-mou-8.mp3"
+   },
+   {
+    "jp": "夏ももう終わりだな…夜になるとけっこう涼しいし…",
+    "en": "Summer is coming to an end… The nights are cooling down…",
+    "romaji": "natsu mo mou owari da na. yoru ni naru to kekkou suzushii shi.",
+    "audio": "https://japanesetest4you.com/media/001/n4g-mou-9.mp3"
+   },
+   {
+    "jp": "もうここでの用事は皆済んだのですか？",
+    "en": "Have you nothing more to do here?",
+    "romaji": "mou koko de no youji wa minna sunda no desu ka.",
+    "audio": "https://japanesetest4you.com/media/001/n4g-mou-10.mp3"
+   },
+   {
+    "jp": "マコトは黙って腰を下ろしたまま、もう口を利かなかった。考えることがたくさんあった。",
+    "en": "Makoto sat silent and said no more. He had a good deal to think about.",
+    "romaji": "makoto wa damatte koshi o oroshita mama, mou kuchi o kikanakatta. kangaeru koto ga takusan atta.",
+    "audio": "https://japanesetest4you.com/media/001/n4g-mou-11.mp3"
+   },
+   {
+    "jp": "もう永遠にわかってもらえないのかと思ってたわ。",
+    "en": "I thought maybe you’d never notice.",
+    "romaji": "mou eien ni wakatte moraenai no ka to omotteta wa.",
+    "audio": "https://japanesetest4you.com/media/001/n4g-mou-12.mp3"
+   },
+   {
+    "jp": "わたしとの食事をおことわりになるのはこれでもう二度目ですよ。",
+    "en": "This is the second time you have refused to dine with me.",
+    "romaji": "watashi to no shokuji o okotowari ni naru no wa kore de mou nidome desu yo.",
+    "audio": "https://japanesetest4you.com/media/001/n4g-mou-13.mp3"
+   },
+   {
+    "jp": "片方の手で税制優遇措置を受け取り、もう片方の手で解雇通知を配るのは間違っています。",
+    "en": "It’s wrong to take tax breaks with one hand and give out pink slips with the other.",
+    "romaji": "katahou no te de seizei yuuguu sochi o uketori, mou katahou no te de kaiko tsuuchi o kubaru no wa machigatte imasu.",
+    "audio": "https://japanesetest4you.com/media/001/n4g-mou-14.mp3"
+   },
+   {
+    "jp": "心を決めたのはもう何ヶ月も前ですが、気は変わってません。",
+    "en": "I made up my mind months ago, and I haven’t changed it.",
+    "romaji": "kokoro o kimeta no wa mou nankagetsu mo mae desu ga, ki wa kawattemasen.",
+    "audio": "https://japanesetest4you.com/media/001/n4g-mou-15.mp3"
+   },
+   {
+    "jp": "何を考えているのかな？どうするかもう決めたかな？",
+    "en": "What are you thinking about? Have you decided what to do?",
+    "romaji": "nani o kangaete iru no kana. dou suru ka mou kimeta kana.",
+    "audio": "https://japanesetest4you.com/media/001/n4g-mou-16.mp3"
+   },
+   {
+    "jp": "新作「２５」を発表した時点では、もう数年間、アデルのアルバムは出ていませんでした。",
+    "en": "When you launched this new album, 25, there was nothing from Adele for years.",
+    "romaji": "shinsaku nijuugo o happyou shita jiten de wa, mou suu nenkan, aderu no arubamu wa dete imasen deshita.",
+    "audio": "https://japanesetest4you.com/media/001/n4g-mou-17.mp3"
+   },
+   {
+    "jp": "友明がろうそくを片手に、もう一方の手でドアをドンドン叩きながら立っていた。",
+    "en": "Tomoaki was standing there with a candle in one hand, and banging on the door with the other.",
+    "romaji": "tomoaki ga rousoku o katate ni, mou ippou no te de doa o dondon tatakinagara tatte ita.",
+    "audio": "https://japanesetest4you.com/media/001/n4g-mou-18.mp3"
+   },
+   {
+    "jp": "もう二度と来ないのかと思ったよ。",
+    "en": "I thought you’d never come here again.",
+    "romaji": "mou nido to konai no ka to omotta yo.",
+    "audio": "https://japanesetest4you.com/media/001/n4g-mou-19.mp3"
+   },
+   {
+    "jp": "春美はもう一杯、グラスに注いだ。",
+    "en": "Harumi poured another drink.",
+    "romaji": "harumi wa mou ippai, gurasu ni sosoida.",
+    "audio": "https://japanesetest4you.com/media/001/n4g-mou-20.mp3"
+   },
+   {
+    "jp": "もう一度お詫びを申し上げます。",
+    "en": "Allow me to repeat my apologies.",
+    "romaji": "mou ichido owabi o moushiagemasu.",
+    "audio": "https://japanesetest4you.com/media/001/n4g-mou-21.mp3"
+   }
+  ],
+  "id": "n5-g26"
+ },
+ {
+  "title": "な (na)",
+  "url": "https://japanesetest4you.com/flashcard/jlpt-n4-grammar-%e3%81%aa-na/",
+  "meaning": "don’t ~ (order somebody not to do something)",
+  "formation": "Verb-dictionary form + な",
+  "examples": [
+   {
+    "jp": "大きな声を出すな。",
+    "en": "Keep your voice down.",
+    "romaji": "ooki na koe o dasu na.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-11.mp3"
+   },
+   {
+    "jp": "たずねるな。話すな。",
+    "en": "Don’t ask, don’t tell.",
+    "romaji": "tazuneru na. hanasu na.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-12.mp3"
+   },
+   {
+    "jp": "顔は出すな。声も出すな。",
+    "en": "Don’t show your face, or speak.",
+    "romaji": "kao wa dasu na. koe mo dasu na.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-13.mp3"
+   },
+   {
+    "jp": "そいつを決してなくすな。",
+    "en": "Do not lose it.",
+    "romaji": "soitsu o kesshite nakusu na.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-14.mp3"
+   },
+   {
+    "jp": "彼女をこれに引き込むな。",
+    "en": "Leave her out of this.",
+    "romaji": "kanojo o kore ni hikikomu na.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-15.mp3"
+   },
+   {
+    "jp": "二度とそんなことをいうな。",
+    "en": "Don’t you ever say that.",
+    "romaji": "nido to sonna koto o iu na.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-16.mp3"
+   },
+   {
+    "jp": "運転手には話しかけるな。",
+    "en": "Don’t talk to the driver.",
+    "romaji": "untenshu ni wa hanashikakeru na.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-17.mp3"
+   },
+   {
+    "jp": "いまは黴菌のことは気にするな。",
+    "en": "Never mind the bacteria just now.",
+    "romaji": "ima wa baikin no koto wa ki ni suru na.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-18.mp3"
+   },
+   {
+    "jp": "チャンスは一回だけだ。逃がすなよ。",
+    "en": "You have one chance. Take it.",
+    "romaji": "chansu wa ikkai dake da. nigasu na yo.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-19.mp3"
+   },
+   {
+    "jp": "どのドアにも背をむけて坐るなよ。",
+    "en": "Don’t sit with your back to any doors.",
+    "romaji": "dono doa ni mo se o mukete suwaru na yo.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-20.mp3"
+   },
+   {
+    "jp": "したくないことは決してするな。",
+    "en": "Never do anything you don’t like.",
+    "romaji": "shitakunai koto wa kesshite suru na.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-21.mp3"
+   },
+   {
+    "jp": "敵に対して、弱さやもろさを決して見せるな。",
+    "en": "Never show weakness or fragility to the enemy.",
+    "romaji": "teki ni tai shite, yowasa ya morosa o kesshite miseru na.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-22.mp3"
+   },
+   {
+    "jp": "気にかけてはダメだ。ふりかえるな。",
+    "en": "Pay no attention. Don’t look back.",
+    "romaji": "ki ni kakete wa dame da. furikaeru na.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-23.mp3"
+   },
+   {
+    "jp": "わたしたちの学校では酒を飲むな。",
+    "en": "Don’t drink at our school.",
+    "romaji": "watashitachi no gakkou dewa sake o nomu na.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-24.mp3"
+   },
+   {
+    "jp": "池袋駅に着くまで足をとめるなよ！",
+    "en": "Don’t stop till you get to Ikebukuro station!",
+    "romaji": "ikebukuro eki ni tsuku made ashi o tomeru na yo.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-25.mp3"
+   },
+   {
+    "jp": "相手の白目が見えるまで発砲するな。",
+    "en": "Don’t fire until you see the whites of their eyes.",
+    "romaji": "aite no shirome ga mieru made happou suru na.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-26.mp3"
+   },
+   {
+    "jp": "だから僕は頼んだのだ。行くなって頼んだのだ。",
+    "en": "That’s why I begged, I implored you not to go.",
+    "romaji": "dakara boku wa tanonda no da. iku na tte tanonda no da.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-27.mp3"
+   },
+   {
+    "jp": "急げ。踏みつぶされる前に。ぜったいにぼくから手を離すな。",
+    "en": "Quick. Before we get trampled. Don’t let go of me.",
+    "romaji": "isoge. fumitsubusareru mae ni. zettai ni boku kara te o hanasu na.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-28.mp3"
+   },
+   {
+    "jp": "けちなことをいうなよ。金ならずいぶん稼いでるじゃないか。",
+    "en": "Don’t be mean. You know you’re coining money.",
+    "romaji": "kechi na koto o iu na yo. kane nara zuibun kaseideru janai ka.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-29.mp3"
+   },
+   {
+    "jp": "もう気に悩むな。きみにはやるべきことがあるんだぞ。",
+    "en": "Just let it go. You’ve got a lot to do.",
+    "romaji": "mou ki ni nayamu na. kimi ni hayaru beki koto ga arun da zo.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-30.mp3"
+   },
+   {
+    "jp": "他人のまねをするな。自己を発見し、自己に徹しよう。",
+    "en": "Let’s not imitate others. Let’s find ourselves and be ourselves.",
+    "romaji": "ta’nin no mane o suru na. jiko o hakken shi, jiko ni tesshiyou.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-31.mp3"
+   },
+   {
+    "jp": "助けがこっちへむかっているのは確実だよ。うしろをふりかえるな。",
+    "en": "I’m sure help’s on the way. Don’t look back.",
+    "romaji": "tasuke ga kocchi e mukatte iru no wa kakujitsu da yo. ushiro o furikaeru na.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-32.mp3"
+   },
+   {
+    "jp": "心配するな。たしかに年はとったが、脳味噌はまだまだちゃんと動くぞ。",
+    "en": "Don’t worry. I may be old, but my brains still work pretty well.",
+    "romaji": "shinpai suru na. tashika ni toshi wa totta ga, noumiso wa madamada chanto ugoku zo.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-33.mp3"
+   },
+   {
+    "jp": "あすのことを考えるな。あすのことはあす自身が考えるだろう。",
+    "en": "Take no thought for the morrow; for the morrow shall take thought for the things of itself.",
+    "romaji": "asu no koto o kangaeru na. asu no koto wa asu jishin ga kangaeru darou.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-34.mp3"
+   },
+   {
+    "jp": "待てよ。そう早合点するなよ。ぼくは、きみの思ってるような意味で言ってるんじゃない。",
+    "en": "Say now, don’t be hasty. I don’t mean what you mean.",
+    "romaji": "mate yo. sou hayagatten suru na yo. boku wa, kimi no omotteru you na imi de itterun janai. ***早合点する (hayagatten suru): jump to a hasty conclusion",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-35.mp3"
+   },
+   {
+    "jp": "きみはまだ若い。わたしの年になったら『敵を絶対にみくびるな』という教訓が身にしみてくるだろう。",
+    "en": "You are still young. At my age you will probably have learnt one lesson: “Never underestimate your adversary.”",
+    "romaji": "kimi wa mada wakai. watashi no toshi ni nattara teki o zettai ni mikubiru na to iu kyoukun ga mi ni shimite kuru darou.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-36.mp3"
+   },
+   {
+    "jp": "もう一度いわせてもらおう。銃を使うな！",
+    "en": "Let me remind you once more: don’t use the gun!",
+    "romaji": "mou ichido iwasete moraou. juu o tsukau na.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-1.mp3"
+   },
+   {
+    "jp": "馬鹿なことをいっちゃいかん！私はなにも、あんたが郵便局に新住所を置いて行くなと言ってるんじゃない！",
+    "en": "Don’t be absurd! I am not warning you against leaving an address at the post-office!",
+    "romaji": "baka na koto o iccha ikan. watashi wa nanimo, anta ga yuubinkyoku ni shinjuusho o oite iku na to itterun janai.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-2.mp3"
+   },
+   {
+    "jp": "一歩でも近寄るな！お前はなんの用があるんだ？そしてどこへ行く？",
+    "en": "Don’t you come a step nearer! What do you want, and where are you going?",
+    "romaji": "ippo demo chikayoru na. omae wa nan no you ga arun da. soshite doko e iku.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-3.mp3"
+   },
+   {
+    "jp": "不動産取引についてまず覚えておくべきなのは、仮合意書には決してサインするなということだ。",
+    "en": "One of the first things that anyone should learn about real estate is never to sign a letter of intent.",
+    "romaji": "fudousan torihiki ni tsuite mazu oboete oku beki na no wa, karigouisho ni wa kesshite sain suru na to iu koto da.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-4.mp3"
+   },
+   {
+    "jp": "私が全所有物を失ったからといって、持てる力のすべてを失ったとは思うな！",
+    "en": "Do not think that when I lost all my goods I lost all my power!",
+    "romaji": "watashi ga zenshoyuubutsu o ushinatta kara to itte, moteru chikara no subete o ushinatta to wa omou na.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-5.mp3"
+   },
+   {
+    "jp": "安全に事を運びたければ自ら手をくだすな！",
+    "en": "If you want a thing done safely, do not do it yourself!",
+    "romaji": "anzen ni koto o hakobitakereba mizukara te o kudasu na. ***事を運ぶ (koto o hakobu): to go ahead, to carry on ***手をくだす (te o kudasu): to do by oneself",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-6.mp3"
+   },
+   {
+    "jp": "友達は励ますつもりだったのだろう。完全な人間など一人もいない、とか、自分をあまり責めるな、とか。",
+    "en": "I supposed my friends had said it to make me feel better, to reassure me that no one was perfect, that I shouldn’t be so hard on myself.",
+    "romaji": "tomodachi wa hagemasu tsumori datta no darou. kanzen na ningen nado hitori mo inai, toka, jibun o amari semeru na, toka.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-7.mp3"
+   },
+   {
+    "jp": "君は最高の友だちでノキアは君の会社だ。君が望むなら私はなんでもしてあげる。それを忘れるな。",
+    "en": "You’re my best friend, and Nokia is your company. I’ll do whatever you want. Don’t forget that.",
+    "romaji": "kimi wa saikou no tomodachi de nokia wa kimi no kaisha da. kimi ga nozomu nara watashi wa nan demo shite ageru. sore o wasureru na.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-8.mp3"
+   },
+   {
+    "jp": "ここに戻って来るなと警告したはずだ。",
+    "en": "I warned you not to come back here.",
+    "romaji": "koko ni modotte kuru na to keikoku shita hazu da.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-9.mp3"
+   },
+   {
+    "jp": "そう心配するな。きみをここに呼び出したのにはわけがある。",
+    "en": "Don’t be alarmed. You have been summoned here for a reason.",
+    "romaji": "sou shinpai suru na. kimi o koko ni yobidashita no ni wa wake ga aru.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-na-10.mp3"
+   },
+   {
+    "jp": "ないで (naide): without doing, don’t",
+    "en": "ないでください (naide kudasai): please don’t",
+    "romaji": "なさい (nasai): do… (command)"
+   }
+  ],
+  "id": "n5-g27"
+ },
+ {
+  "title": "ないでください (naidekudasai)",
+  "url": "https://japanesetest4you.com/flashcard/japanese-language-lesson-1-dont-ruin-peoples-sleep/",
+  "meaning": "",
+  "formation": "Verb-command negative form + ないでください",
+  "examples": [
+   {
+    "jp": "他人事みたいに言わないでください。",
+    "en": "Don’t act like this doesn’t concern you.",
+    "romaji": "hitogoto mitai ni iwanaide kudasai.",
+    "audio": "https://japanesetest4you.com/media001/n5g-naidekudasai-01.mp3"
+   },
+   {
+    "jp": "わたしを許そうなどと思わないでください。",
+    "en": "Please do not try to forgive me.",
+    "romaji": "watashi o yurusou nado to omowanaide kudasai.",
+    "audio": "https://japanesetest4you.com/media001/n5g-naidekudasai-02.mp3"
+   },
+   {
+    "jp": "そんな恐ろしいことは話さないでください。",
+    "en": "Please don’t talk about that horror.",
+    "romaji": "sonna osoroshii koto wa hanasanaide kudasai.",
+    "audio": "https://japanesetest4you.com/media001/n5g-naidekudasai-03.mp3"
+   },
+   {
+    "jp": "まあまあ、そう感情的にならないでください。",
+    "en": "Now, now, please don’t get worked up over this.",
+    "romaji": "maamaa, sou kanjouteki ni naranaide kudasai.",
+    "audio": "https://japanesetest4you.com/media001/n5g-naidekudasai-04.mp3"
+   },
+   {
+    "jp": "機嫌が悪かったなんて言わないでください。疲れていたんです。",
+    "en": "Please don’t say I was cross. I was just tired.",
+    "romaji": "kigen ga warukatta nante iwanaide kudasai. tsukarete itan desu.",
+    "audio": "https://japanesetest4you.com/media001/n5g-naidekudasai-05.mp3"
+   },
+   {
+    "jp": "そう腹を立てないでください。どうか明日食事に来てくださいね。",
+    "en": "Don’t be angry. Come! Dine with us tomorrow.",
+    "romaji": "sou hara o tatenaide kudasai. douka ashita shokuji ni kite kudasai ne.",
+    "audio": "https://japanesetest4you.com/media001/n5g-naidekudasai-06.mp3"
+   },
+   {
+    "jp": "わたしがあなたを若いと言ったからって、怒らないでくださいよ。",
+    "en": "Don’t be offended because I think you’re young.",
+    "romaji": "watashi ga anata o wakai to itta kara tte, okoranaide kudasai yo.",
+    "audio": "https://japanesetest4you.com/media001/n5g-naidekudasai-07.mp3"
+   },
+   {
+    "jp": "これから申しあげることで、どうか気をわるくなさらないでください。",
+    "en": "Please don’t be offended by what I’m going to say.",
+    "romaji": "kore kara moushiageru koto de, douka ki o waruku nasaranaide kudasai.",
+    "audio": "https://japanesetest4you.com/media001/n5g-naidekudasai-08.mp3"
+   },
+   {
+    "jp": "まだ何があるかわかりません。どちらもレーダーから放さないでください。",
+    "en": "We have no clue as to what may happen next, so keep both on your radars.",
+    "romaji": "mada nani ga aru ka wakarimasen. dochira mo reedaa kara hanasanaide kudasai.",
+    "audio": "https://japanesetest4you.com/media001/n5g-naidekudasai-09.mp3"
+   },
+   {
+    "jp": "昨晩の騒ぎがあなただってことすぐわかりました。今晩は行かないでください。",
+    "en": "I knew it was you who made a fuss last night. Don’t go this evening.",
+    "romaji": "sakuban no sawagi ga anata datte koto sugu wakarimashita. konban wa ikanaide kudasai.",
+    "audio": "https://japanesetest4you.com/media001/n5g-naidekudasai-10.mp3"
+   },
+   {
+    "jp": "ぼくについて話すときには、アキラという名前をつかうのを忘れないでください。",
+    "en": "Remember to call me Akira when you talk about me, okay?",
+    "romaji": "boku ni tsuite hanasu toki ni wa, akira to iu namae o tsukau no o wasurenaide kudasai.",
+    "audio": "https://japanesetest4you.com/media001/n5g-naidekudasai-11.mp3"
+   },
+   {
+    "jp": "わたしになにを尋ねても結構です。わたしが気を落しているのではないかなどと気にしないでください。",
+    "en": "Please ask me anything you like, and don’t worry about distressing me.",
+    "romaji": "watashi ni nani o tazunete mo kekkou desu. watashi ga ki o otoshite iru no dewa nai ka nado to ki ni shinaide kudasai.",
+    "audio": "https://japanesetest4you.com/media001/n5g-naidekudasai-12.mp3"
+   },
+   {
+    "jp": "私に腹をたてないでくださいね。そして、私には罪はないということを、よく考えてちょうだいね。",
+    "en": "Don’t be angry with me. Please understand that I’m not to blame.",
+    "romaji": "watashi ni hara o tatenaide kudasai ne. soshite, watashi ni wa tsumi wa nai to iu koto o, yoku kangaete choudai ne.",
+    "audio": "https://japanesetest4you.com/media001/n5g-naidekudasai-13.mp3"
+   },
+   {
+    "jp": "わたしのことは心配しないでください。",
+    "en": "Please don’t worry about me.",
+    "romaji": "watashi no koto wa shinpai shinaide kudasai.",
+    "audio": "https://japanesetest4you.com/media001/n5g-naidekudasai-14.mp3"
+   },
+   {
+    "jp": "宿題をするのを忘れないでください。",
+    "en": "Please don’t forget to do your homework.",
+    "romaji": "shukudai o suru no o wasurenaide kudasai.",
+    "audio": "https://japanesetest4you.com/media001/n5g-naidekudasai-15.mp3"
+   },
+   {
+    "jp": "ここに靴を置かないでください。",
+    "en": "Please don’t put your shoes here.",
+    "romaji": "koko ni kutsu o okanaide kudasai.",
+    "audio": "https://japanesetest4you.com/media001/n5g-naidekudasai-16.mp3"
+   },
+   {
+    "jp": "誤解しないでください。",
+    "en": "Please don’t misunderstand me.",
+    "romaji": "gokai shinaide kudasai.",
+    "audio": "https://japanesetest4you.com/media001/n5g-naidekudasai-17.mp3"
+   },
+   {
+    "jp": "このボタンを押さないでください。",
+    "en": "Please don’t press this button.",
+    "romaji": "kono botan o osanaide kudasai.",
+    "audio": "https://japanesetest4you.com/media001/n5g-naidekudasai-18.mp3"
+   },
+   {
+    "jp": "電車の中で携帯電話を使わないでください。",
+    "en": "Please don’t use your cell phones in the train.",
+    "romaji": "densha no naka de keitaidenwa o tsukawanaide kudasai.",
+    "audio": "https://japanesetest4you.com/media001/n5g-naidekudasai-19.mp3"
+   },
+   {
+    "jp": "集合時間は8時です。遅刻しないでください。",
+    "en": "The meeting time is eight o’clock. Please don’t be late.",
+    "romaji": "shuugou jikan wa hachiji desu. chikoku shinaide kudasai.",
+    "audio": "https://japanesetest4you.com/media001/n5g-naidekudasai-20.mp3"
+   },
+   {
+    "jp": "僕の家の前に車を止めないでください。",
+    "en": "Please don’t park your car in front of my house.",
+    "romaji": "boku no ie no mae ni kuruma o tomenaide kudasai.",
+    "audio": "https://japanesetest4you.com/media001/n5g-naidekudasai-21.mp3"
+   },
+   {
+    "jp": "保険証を他人に貸さないでください。",
+    "en": "Please don’t lend others your insurance card.",
+    "romaji": "hokenshou o tanin ni kasanaide kudasai.",
+    "audio": "https://japanesetest4you.com/media001/n5g-naidekudasai-22.mp3"
+   },
+   {
+    "jp": "邪魔しないでください。",
+    "en": "Please don’t bother me.",
+    "romaji": "jama shinaide kudasai.",
+    "audio": "https://japanesetest4you.com/media001/n5g-naidekudasai-23.mp3"
+   },
+   {
+    "jp": "てください (tekudasai)",
+    "en": "お～ください (o~kudasai)",
+    "romaji": ""
+   }
+  ],
+  "id": "n5-g28"
+ },
+ {
+  "title": "なる (naru)",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-flashcard-21/",
+  "meaning": "to become",
+  "formation": "Noun + になる\nなadjective + になる\nいadjective (remove い) + くなる",
+  "examples": [
+   {
+    "jp": "最近うちの娘が頑固になってきた。",
+    "en": "My daughter’s becoming stubborn lately.",
+    "romaji": "saikin uchi no musume ga ganko ni natte kita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-naru-1.mp3"
+   },
+   {
+    "jp": "孫悟空のように強くなりたい。",
+    "en": "I want to become strong like Son Goku.",
+    "romaji": "songokuu no you ni tsuyoku naritai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-naru-2.mp3"
+   },
+   {
+    "jp": "１５時間も寝たので、頭が痛くなった。",
+    "en": "I slept for 15 hours so I have a headache.",
+    "romaji": "juugo jikan mo neta node, atama ga itakunatta.",
+    "audio": "https://japanesetest4you.com/audio/n5g-naru-3.mp3"
+   },
+   {
+    "jp": "彼女が美しくなりましたね。",
+    "en": "She has become so beautiful.",
+    "romaji": "kanojo ga utsukushiku narimashita ne.",
+    "audio": "https://japanesetest4you.com/audio/n5g-naru-4.mp3"
+   },
+   {
+    "jp": "病気にならないように毎日運動する。",
+    "en": "I’m exercising every day in order not to get sick.",
+    "romaji": "byouki ni naranai you ni mainichi undou suru.",
+    "audio": "https://japanesetest4you.com/audio/n5g-naru-5.mp3"
+   },
+   {
+    "jp": "暗くなる前に家に帰りたい。",
+    "en": "I want to go home before it gets dark.",
+    "romaji": "kurakunaru mae ni ie ni kaeritai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-naru-6.mp3"
+   },
+   {
+    "jp": "家族のみんなが健康になれるように祈っています。",
+    "en": "I’m praying for my family to be healthy.",
+    "romaji": "kazoku no minna ga kenkou ni nareru you ni inotte imasu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-naru-7.mp3"
+   },
+   {
+    "jp": "今日は寒くなるようだ。",
+    "en": "It looks like it’s getting cold today.",
+    "romaji": "kyou wa samuku naru you da.",
+    "audio": "https://japanesetest4you.com/audio/n5g-naru-8.mp3"
+   },
+   {
+    "jp": "彼の顔は真っ赤になった。",
+    "en": "His face’s turning red.",
+    "romaji": "kare no kao wa makka ni natta.",
+    "audio": "https://japanesetest4you.com/audio/n5g-naru-9.mp3"
+   },
+   {
+    "jp": "どうしてそうなったのか、わたしにはわかりません。",
+    "en": "I don’t understand why things have turned out like that.",
+    "romaji": "doushite sou natta no ka, watashi ni wa wakarimasen.",
+    "audio": "https://japanesetest4you.com/audio/n5g-naru-10.mp3"
+   },
+   {
+    "jp": "会議は中止になったと山田は言った。",
+    "en": "Yamada said the meeting had been cancelled.",
+    "romaji": "kaigi wa chuushi ni natta to yamada wa itta.",
+    "audio": "https://japanesetest4you.com/audio/n5g-naru-11.mp3"
+   },
+   {
+    "jp": "ハリーポッターは、小説から映画になり、そして今度は舞台作品になりました。",
+    "en": "Harry Potter has moved from the page to the big screen and now to the stage.",
+    "romaji": "harii pottaa wa, shousetesu kara eiga ni nari, soshite kondo wa butai sakuhin ni narimashita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-naru-12.mp3"
+   },
+   {
+    "jp": "怖かったです。その壇上に上がり、みんなの反応がどういうものになるのかわかりませんでしたから。",
+    "en": "It was scary. I stood up there and I didn’t know what their reactions were going to be.",
+    "romaji": "kowakatta desu. sono danjou ni agari, minna no hannou ga dou iu mono ni naru no ka wakarimasen deshita kara.",
+    "audio": "https://japanesetest4you.com/audio/n5g-naru-13.mp3"
+   },
+   {
+    "jp": "二人は、見事な果物がいっぱいなっている温室に着いた。",
+    "en": "They reached the greenhouse, ornamented with magnificent fruits.",
+    "romaji": "futari wa, migoto na kudamono ga ippai natte iru onshitsu ni tsuita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-naru-14.mp3"
+   },
+   {
+    "jp": "私は、あの男がどうなったのかをお尋ねしに参ったのです。",
+    "en": "I came to ask what has become of that man?",
+    "romaji": "watashi wa, ano otoko ga dou natta no ka otazuneshi ni maitta no desu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-naru-15.mp3"
+   },
+   {
+    "jp": "家内はあなたの永遠の友となってしまいました。",
+    "en": "You have made an eternal friend of my wife.",
+    "romaji": "kanai wa anata no eien no tomo to natte shimaimashita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-naru-16.mp3"
+   },
+   {
+    "jp": "午後のあの恐ろしい瞬間から、時間の感覚がなくなっている。",
+    "en": "Since the awful moment that afternoon, life has seemed timeless.",
+    "romaji": "gogo no ano osoroshii shunkan kara, jikan no kankaku ga nakunatte iru.",
+    "audio": "https://japanesetest4you.com/audio/n5g-naru-18.mp3"
+   },
+   {
+    "jp": "ここには歌手になるために必要なものが詰まってる。",
+    "en": "Everything you need to become a singer should be here.",
+    "romaji": "koko niwa kashu ni naru tame ni hitsuyou na mono ga tsumatteru.",
+    "audio": "https://japanesetest4you.com/audio/n5g-naru-19.mp3"
+   },
+   {
+    "jp": "そんな深刻になっておかしいわ。",
+    "en": "You take it so seriously you’re funny.",
+    "romaji": "sonna shinkoku ni natte okashii wa.",
+    "audio": "https://japanesetest4you.com/audio/n5g-naru-20.mp3"
+   },
+   {
+    "jp": "ほんとに素敵な男の子になっちゃったわね。",
+    "en": "You’ve become a splendid young man.",
+    "romaji": "honto ni suteki na otoko no ko ni nacchatta wa ne.",
+    "audio": "https://japanesetest4you.com/audio/n5g-naru-21.mp3"
+   },
+   {
+    "jp": "まあ、あなたと友達付き合いができなくなると嫌だなと思って…",
+    "en": "Well, I should hate to lose your friendship…",
+    "romaji": "maa, anata to tomodachi dzukiai ga dekinakunaru to iya da na to omotte.",
+    "audio": "https://japanesetest4you.com/audio/n5g-naru-22.mp3"
+   },
+   {
+    "jp": "前の日に雨が降って地面はしめってやわらかになっていた。",
+    "en": "It had rained on the preceding night so the soil was soaked.",
+    "romaji": "mae no hi ni ame ga futte jimen wa shimette yawaraka ni natte ita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-naru-23.mp3"
+   }
+  ],
+  "id": "n5-g29"
+ },
+ {
+  "title": "に (ni)",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-31/",
+  "meaning": "in, at, on, to",
+  "formation": "Noun + に",
+  "examples": [
+   {
+    "jp": "大学院に入ろうと思っています。",
+    "en": "I’m thinking of going to graduate school.",
+    "romaji": "daigakuin ni hairou to motte imasu.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-ni1-1.mp3"
+   },
+   {
+    "jp": "どうやって学校に通っていますか？",
+    "en": "How do you go to school?",
+    "romaji": "dou yatte gakkou ni kayotte imasu ka?",
+    "audio": "https://japanesetest4you.com/audio3/n5g-ni1-2.mp3"
+   },
+   {
+    "jp": "ここに名前を書いてください。",
+    "en": "Please write your name here.",
+    "romaji": "koko ni namae o kaite kudasai.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-ni1-3.mp3"
+   },
+   {
+    "jp": "かぞくと一緒に東京に住んでいます。",
+    "en": "I’m living in Tokyo with my family.",
+    "romaji": "kazoku to issho ni toukyou ni sunde imasu.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-ni1-4.mp3"
+   },
+   {
+    "jp": "もっと勉強してくださいと先生に言われた。",
+    "en": "My teacher told me to study harder.",
+    "romaji": "motto benkyou shite kudasai to sensei ni iwareta.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-ni1-5.mp3"
+   },
+   {
+    "jp": "明日の朝、九時に待っているぜ。",
+    "en": "I expect you tomorrow morning at nine o’clock.",
+    "romaji": "ashita no asa, kuji ni matte iru ze.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-ni1-6.mp3"
+   },
+   {
+    "jp": "彼がちょうどよいときに現れた。",
+    "en": "He appeared at the best moment.",
+    "romaji": "kare ga choudo yoi toki ni arawareta.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-ni1-7.mp3"
+   },
+   {
+    "jp": "中田は三十分ほど前に出かけた。",
+    "en": "Nakada went out about half an hour ago.",
+    "romaji": "nakada wa sanjuppun hodo mae ni dekaketa.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-ni1-8.mp3"
+   },
+   {
+    "jp": "日本での物を捨てる過程には、とても驚いたよ。",
+    "en": "The process of throwing away garbage in Japan was quite surprising for me.",
+    "romaji": "nihon de no mono o suteru katei ni wa, totemo odoroita yo.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-ni1-9.mp3"
+   },
+   {
+    "jp": "チームプレイの必要なスポーツがどうしても好きになれなかった。",
+    "en": "I disliked team sports of any kind.",
+    "romaji": "chiimu purei no hitsuyou na supootsu ga dou shite mo suki ni narenakatta.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-ni1-10.mp3"
+   },
+   {
+    "jp": "どうしてこんな場所、デートに選んだのよ！",
+    "en": "Why did you choose this place for a date!",
+    "romaji": "dou shite konna basho, deeto ni eranda no yo.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-ni1-11.mp3"
+   },
+   {
+    "jp": "彼は人間と自然、文化の関係を私たちに示しています。",
+    "en": "He’s showing us the relationship between human beings, nature and culture.",
+    "romaji": "kare wa ningen to shizen, bunka no kankei o watashitachi ni shimeshite imasu.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-ni1-12.mp3"
+   },
+   {
+    "jp": "ボートが細かい砂の上に乗り上げた。",
+    "en": "The boat grounded on the fine sand.",
+    "romaji": "booto ga komakai suna no ue ni noriageta.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-ni1-13.mp3"
+   },
+   {
+    "jp": "国民投票を受けて、国の重大な転換期に直面しています。",
+    "en": "Following the referendum, we face a time of great national change.",
+    "romaji": "kokumin touhyou o ukete, kuni no juudai na tenkanki ni chokumen shite imasu.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-ni1-14.mp3"
+   },
+   {
+    "jp": "たったいま北島は、ここまで話したことがかならずしも正しくないことに気づいた。",
+    "en": "Kitajima realized that what he was saying might not be entirely true.",
+    "romaji": "tatta ima kitajima wa, koko made hanatashita koto ga kanarazu shimo tadakushikunai koto ni kizuita.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-ni1-15.mp3"
+   },
+   {
+    "jp": "数学のノートを学校に忘れた。",
+    "en": "I left my Math notes at school.",
+    "romaji": "suugaku no nooto o gakkou ni wasureta.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-ni1-16.mp3"
+   },
+   {
+    "jp": "みんなほんとに何も知っちゃいないんだ。少しわかって来たころにはもう間に合わない。",
+    "en": "One knows so little. When one knows more, it is too late.",
+    "romaji": "minna honto ni nanimo shiccha inain da. sukoshi wakatte kita koro ni wa mou maniawanai.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-ni1-17.mp3"
+   },
+   {
+    "jp": "その秘密は私たちから敵に伝わることはない。",
+    "en": "The secret will not reach the enemy from us.",
+    "romaji": "sono himitsu wa watashitachi kara teki ni tsutawaru koto wa nai.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-ni1-18.mp3"
+   },
+   {
+    "jp": "じっと火をみつめて立っている彼女の唇には、満足そうな意地の悪い微笑が浮かんでいた。",
+    "en": "She was gazing at the fire, and on her lips was a smile of satisfied malice.",
+    "romaji": "jitto hi o mitsumete tatte iru kanojo no kuchibiru ni wa, manzoku sou na iji no warui bishou ga ukande ita.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-ni1-19.mp3"
+   },
+   {
+    "jp": "イギリス人がインドに、立派な教育制度を構築しました。",
+    "en": "The British built a fantastic educational system in India.",
+    "romaji": "igirisujin ga indo ni, rippa na kyouiku seido o kouchiku shimashita.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-ni1-20.mp3"
+   },
+   {
+    "jp": "あなた、皆さんにも私と同じような返事の仕方をしたの？",
+    "en": "Have you replied to everyone as you have to me?",
+    "romaji": "anata, minasan ni mo watashi to onaji you na henji no shikata o shita no.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-ni1-21.mp3"
+   },
+   {
+    "jp": "に/へ (ni/e): to",
+    "en": "にいく (ni iku): to go to do something",
+    "romaji": "にする (nisuru): to decide on"
+   }
+  ],
+  "id": "n5-g30"
+ },
+ {
+  "title": "に/へ (ni/e)",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-32/",
+  "meaning": "to (indicates direction / destination)",
+  "formation": "Noun + に/へ",
+  "examples": [
+   {
+    "jp": "アフリカに行ったことがありますか？",
+    "en": "Have you ever been to Africa?",
+    "romaji": "afurika ni itta koto ga arimasu ka.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-nie-01.mp3"
+   },
+   {
+    "jp": "家へ向かっているところです。",
+    "en": "I’m heading home.",
+    "romaji": "ie e mukatte iru tokoro desu.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-nie-02.mp3"
+   },
+   {
+    "jp": "ベッドに戻りたい。",
+    "en": "I want to go back to bed.",
+    "romaji": "beddo ni modoritai.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-nie-03.mp3"
+   },
+   {
+    "jp": "一時にここに来てください。",
+    "en": "Please come here at one o’clock.",
+    "romaji": "ichiji ni koko ni kite kudasai.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-nie-04.mp3"
+   },
+   {
+    "jp": "あの喫茶店に入りましょう。",
+    "en": "Let’s go to that coffee shop.",
+    "romaji": "ano kissaten ni hairimashou.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-nie-05.mp3"
+   },
+   {
+    "jp": "靴を履いたまま部屋に入ってしまった。",
+    "en": "I went into the room with my shoes on.",
+    "romaji": "kutsu o haita mama heya ni haitte shimatta.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-nie-06.mp3"
+   },
+   {
+    "jp": "毎週友達と一緒にカラオケに行く。",
+    "en": "I go to the karaoke bar with my friends every week.",
+    "romaji": "maishuu tomodachi to issho ni karaoke ni iku.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-nie-07.mp3"
+   },
+   {
+    "jp": "駅を出て、右に曲がってください。",
+    "en": "Please get out of the station and turn right.",
+    "romaji": "eki o dete, migi ni magatte kudasai.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-nie-08.mp3"
+   },
+   {
+    "jp": "危ないので、池に近づかないでください。",
+    "en": "Please don’t come near the pond. It’s dangerous.",
+    "romaji": "abunai node, ike ni chikazukanaide kudasai.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-nie-09.mp3"
+   },
+   {
+    "jp": "アキラの住まいへ行く階段は門のすぐ右手にあった。",
+    "en": "The staircase leading to Akira’s room was near the entrance.",
+    "romaji": "akira no sumai e iku kaidan wa mon no sugu migite ni atta.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-nie-10.mp3"
+   },
+   {
+    "jp": "多くの人が彼の所へ来て握手をした。",
+    "en": "Many people came forward to shake hands with him.",
+    "romaji": "ooku no hito ga kare no tokoro e kite akushu o shita.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-nie-11.mp3"
+   },
+   {
+    "jp": "二人は裏庭からはいって、四階へのぼっていった。",
+    "en": "They went in from the yard and up to the fourth story.",
+    "romaji": "futari wa uraniwa kara haitte, yonkai e nobotte itta.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-nie-12.mp3"
+   },
+   {
+    "jp": "彼らはどこへ行ったんです？集会の場所はあるんですか？",
+    "en": "Where did they go? Have they a meeting place?",
+    "romaji": "karera wa doko e ittan desu. shuukai no basho wa arun desu ka.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-nie-13.mp3"
+   },
+   {
+    "jp": "今朝朝ごはんを食べずに学校に行きました。",
+    "en": "I went to school without having breakfast this morning.",
+    "romaji": "kesa asa gohan o tabezu ni gakkou ni ikimashita.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-nie-14.mp3"
+   },
+   {
+    "jp": "彼が車で街に入ると、住民は彼の車を花で覆った。",
+    "en": "As he drove into the city, residents covered his car with flowers.",
+    "romaji": "kare ga kuruma de machi ni hairu to, juumin wa kare no kuruma o hana de ootta.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-nie-15.mp3"
+   },
+   {
+    "jp": "私のレシピ箱は、私が日本に暮らしていたときには一緒に日本へ渡り、そしてテキサスへ一緒に戻ってきました。",
+    "en": "My recipe box even travelled with me to Japan when I lived there and back to Texas.",
+    "romaji": "watashi no reshipibako wa, watashi ga nihon ni kurashite ita toki ni wa issho ni nihon e watari, soshite tekisasu e issho ni modotte kimashita.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-nie-16.mp3"
+   },
+   {
+    "jp": "残された道はただ一つ、だれもがまったく予期しないほうに向けて出かけるのだ。",
+    "en": "The only thing to do is to go off in a quite unexpected direction.",
+    "romaji": "nokosareta michi wa tada hitotsu, daremo ga mattaku yoki shinai hou ni mukete dekakeru no da.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-nie-17.mp3"
+   },
+   {
+    "jp": "角を曲がって短い通路に出たところですぐ、彼はくるりとこっちに振り向いた。",
+    "en": "As soon as we turned the corner into a short hallway, he spun around to face me.",
+    "romaji": "kado o magatte mijikai tsuuro ni deta tokoro de sugu, kare wa kururi to kocchi ni furimuita.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-nie-18.mp3"
+   },
+   {
+    "jp": "ホテルに近づいたとき、ジェイソンは通りの真中に立っている一人の男を見た。",
+    "en": "As he came near the hotel, Jason saw a man in the middle of the street.",
+    "romaji": "hoteru ni chikazuita toki, jeison wa toori no mannaka ni tatte iru hitori no otoko o mita.",
+    "audio": "https://japanesetest4you.com/audio6/n5g-nie-19.mp3"
+   }
+  ],
+  "id": "n5-g31"
+ },
+ {
+  "title": "にいく (ni iku)",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-flashcard-26/",
+  "meaning": "to go in order to do something",
+  "formation": "Verb-ますstem + にいく",
+  "examples": [
+   {
+    "jp": "橋本が試合を見に行った。",
+    "en": "Hashimoto went to see the fight.",
+    "romaji": "hashimoto ga shiai o mi ni itta.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-20.mp3"
+   },
+   {
+    "jp": "映画はよく見に行くの？",
+    "en": "Do you go to the movies very often?",
+    "romaji": "eiga wa yoku mi ni iku no.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-21.mp3"
+   },
+   {
+    "jp": "アユミの部屋へあやまりに行った。",
+    "en": "I went to Ayumi’s room to apologize.",
+    "romaji": "ayumi no heya e ayamari ni itta.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-22.mp3"
+   },
+   {
+    "jp": "彼女は、外の空気を吸いに行ったみたいだ。",
+    "en": "I think she went out for some air.",
+    "romaji": "kanojo wa, soto no kuuki o sui ni itta mitai da.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-23.mp3"
+   },
+   {
+    "jp": "彼女はキッチンへコーヒーをいれにいった。",
+    "en": "She went into the kitchen to make coffee.",
+    "romaji": "kanojo wa kicchin e koohii o ire ni itta.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-24.mp3"
+   },
+   {
+    "jp": "ここへ自分で様子を探りに行ったのですね？",
+    "en": "You came here to study the situation for yourself?",
+    "romaji": "koko e jibun de yousu o saguri ni itta no desu ne.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-25.mp3"
+   },
+   {
+    "jp": "あなたはまた後で彼に会いに行く機会もあるだろう。",
+    "en": "There may be a time later for you to go and see him.",
+    "romaji": "anata wa mata ato de kare ni ai ni iku kikai mo aru darou.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-26.mp3"
+   },
+   {
+    "jp": "今はわたし、着替えに行かなくちゃなりませんの。",
+    "en": "Now I must go and dress.",
+    "romaji": "ima wa watashi, kigae ni ikanakucha narimasen no.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-27.mp3"
+   },
+   {
+    "jp": "彼は夏休みによくわたしたちと一緒に釣りに行った。",
+    "en": "He used to go fishing with us during the summer.",
+    "romaji": "kare wa natsuyasumi ni yoku watashitachi to issho ni tsuri ni itta.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-28.mp3"
+   },
+   {
+    "jp": "悪夢を見ました。それで外の新鮮な空気を吸いに行きました。",
+    "en": "I had a bad dream and went out for some air.",
+    "romaji": "akumu o mimashita. sore de soto no shinsen na kuuki o sui ni ikimashita.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-29.mp3"
+   },
+   {
+    "jp": "映画に行きたいなら行けばいい、遊びに行きたいなら行けばいいさ。",
+    "en": "If you want to go to the theatre or to out to play, do it.",
+    "romaji": "eiga ni ikitai nara ikeba ii, asobi ni ikitai nara ikeba ii sa.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-30.mp3"
+   },
+   {
+    "jp": "わたしは、よその家に泊りにいくのが、あまり好きじゃありません。",
+    "en": "I am not very fond of staying in other people’s houses.",
+    "romaji": "watashi wa, yoso no ie ni tomari ni iku no ga, amari suki ja arimasen.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-31.mp3"
+   },
+   {
+    "jp": "今度の金曜にぼくとフットボールの試合を見に行ってくれるかい？",
+    "en": "Do you want to go to the football game with me on Friday?",
+    "romaji": "kondo no kin’you ni boku to futtobooru no shiai o mi ni itte kureru kai.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-32.mp3"
+   },
+   {
+    "jp": "その前に僕につきあってハンバーガーとフライドポテトでも食べに行かないか？",
+    "en": "Would you like to have a burger and some fries with me first?",
+    "romaji": "sono mae ni boku ni tsukiatte hanbaagaa to furaido poteto demo tabe ni ikanai ka.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-33.mp3"
+   },
+   {
+    "jp": "井出さんはちょっと困惑したようでしたが、すぐに客に会いに行きました。",
+    "en": "Ide seemed rather annoyed, but went off to see the guest at once.",
+    "romaji": "ide-san wa chotto konwaku shita you deshita ga, sugu ni kyaku ni ai ni ikimashita.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-34.mp3"
+   },
+   {
+    "jp": "それ以上は取りに行く時間がなかったからです。これはギャングの抗争ですからね。",
+    "en": "I didn’t have time to go get the rest of them. This is a gang fight.",
+    "romaji": "sore ijou wa tori ni iku jikan ga nakatta kara desu. kore wa gyangu no kousou desu kara ne.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-35.mp3"
+   },
+   {
+    "jp": "あの人たちはもう発つ支度をしてるから、私、荷造りなんかの手伝いにいく約束がしてあるのよ。",
+    "en": "They’re getting ready to go away, so I promised to help them pack.",
+    "romaji": "ano hitotachi wa mou tatsu shitaku o shiteru kara, watashi, nizukuri nanka no tetsudai ni iku yakusoku ga shite aru no yo.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-36.mp3"
+   },
+   {
+    "jp": "軍のために革を買い付けに行くと彼女は偽り、帰りにブランデーを買ってくると約束した。",
+    "en": "She said she was buying leather for the army and promised a bottle of brandy on her return.",
+    "romaji": "gun no tame ni kawa o kaitsuke ni iku to kanojo wa itsuwari, kaeri ni burandee o katte kuru to yakusoku shita.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-37.mp3"
+   },
+   {
+    "jp": "彼らは、夏には魚釣りやきのこ狩りに出かけ、秋には町はずれまで馬車を駆って野ウサギを撃ちに行った。",
+    "en": "In summer they went fishing and gathering mushrooms, and in the autumn they drove out to the edge of town to shoot hares.",
+    "romaji": "karera wa, natsu ni wa sakanatsuri ya kinokokari ni dekake, aki ni wa machihazure made basha o katte nousagi o uchi ni itta.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-38.mp3"
+   },
+   {
+    "jp": "わたしはホーラー映画をぜったい見に行かない。なぜなら１９９８年のハロウィンの夜、わたしはホーラー映画をじっさいに体験したからだ。",
+    "en": "I never go see horror movies because on Halloween night in 1998 I lived through one.",
+    "romaji": "watashi wa hooraa eiga o zettai mi ni ikanai. naze nara sen kyuuhyaku kyuujuu hachi nen no harouin no yoru, watashi wa hooraa eiga o jissai ni taiken shita kara da.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-39.mp3"
+   },
+   {
+    "jp": "ビールを飲みに行きましょう！",
+    "en": "Let’s go drink some beer!",
+    "romaji": "biiru o nomi ni ikimashou!",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-1.mp3"
+   },
+   {
+    "jp": "私は彼を起こしに行く。",
+    "en": "I’ll go wake him up.",
+    "romaji": "watashi wa kare o okoshi ni iku.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-2.mp3"
+   },
+   {
+    "jp": "薪を集めに行こう!",
+    "en": "Let’s go pick up firewood!",
+    "romaji": "maki o atsume ni ikou!",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-3.mp3"
+   },
+   {
+    "jp": "父が新しいパソコンを買いに行った。",
+    "en": "My Dad went to buy a new computer.",
+    "romaji": "chichi ga atarashii pasokon o kai ni itta.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-4.mp3"
+   },
+   {
+    "jp": "ごみを捨てに行きます。",
+    "en": "I’ll go throw the garbage.",
+    "romaji": "gomi o sute ni ikimasu.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-5.mp3"
+   },
+   {
+    "jp": "お寿司を食べに行こう！",
+    "en": "Let’s go eat sushi!",
+    "romaji": "osushi o tabe ni ikou!",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-6.mp3"
+   },
+   {
+    "jp": "駅の前にいるから、迎えに行ってくれる？",
+    "en": "I’m in front of the station, can you come here to pick me up?",
+    "romaji": "eki no mae ni iru kara, mukae ni itte kureru?",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-7.mp3"
+   },
+   {
+    "jp": "眠くなったから、顔を洗いに行った。",
+    "en": "I felt sleepy so I went to wash my face.",
+    "romaji": "nemukunatta kara, kao o arai ni itta.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-8.mp3"
+   },
+   {
+    "jp": "昨日桜学園に入学願書を出しに行った。",
+    "en": "Yesterday I went to Sakura academy to submit my application.",
+    "romaji": "kinou sakura gakuen ni nyuugaku gansho o dashi ni itta. ***入学願書 (nyuugaku gansho): application for admittance to a school",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-9.mp3"
+   },
+   {
+    "jp": "大家さんは時々自分で家賃をとりたてに行くことがある。",
+    "en": "Sometimes, the landlord will go out and collect the rent himself.",
+    "romaji": "ooyasan wa tokidoki jibun de yachin o toritate ni iku koto ga aru.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-10.mp3"
+   },
+   {
+    "jp": "まず車で彼女を向かえに行って、お昼においしいものを食べて、散歩しながら夕食に何を食べようかなって考えて、ディナーを食べて、ドライブをして家まで送ります。",
+    "en": "First I’ll come pick her up by my car, have something delicious for lunch, think about what we should have for dinner while going for a walk, eat dinner, go for a drive then I’ll send her home.",
+    "romaji": "mazu kuruma de kanojo o mukae ni itte, ohiru ni oishii mono o tabete, sanpo shinagara yuushoku ni nani o tabeyou kana tte kangaete, dinaa o tabete, doraibu o shite ie made okurimasu.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-11.mp3"
+   },
+   {
+    "jp": "それはどうしても今夜のうちに、みんなが寝に行く前に話しておかなければならないことだ。",
+    "en": "That has to be done this very night, before they all go to bed.",
+    "romaji": "sore wa dou shite mo kon’ya no uchi ni, minna ga ne ni iku mae ni hanashite okanakereba naranai koto da.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-12.mp3"
+   },
+   {
+    "jp": "彼はやっと元気を出して立ち上がると、ふらふらする足取りで、馬たちがどうなったか見に行った。",
+    "en": "He pulled himself to his feet, and staggered off to see what had become of the ponies.",
+    "romaji": "kare wa yatto genki o dashite tachiagaru to, furafura suru ashidori de, umatachi ga dou natta ka mi ni itta.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-13.mp3"
+   },
+   {
+    "jp": "私はこれから小馬に鞍をつけに行くからね、それから荷物を運ぶ駄馬を連れてくる。",
+    "en": "I am just going to saddle the ponies, and fetch the one that is to be the baggage-carrier.",
+    "romaji": "watashi wa kore kara kouma ni kura o tsuke ni iku kara ne, sore kara nimotsu o hakobu daba o tsurete kuru.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-14.mp3"
+   },
+   {
+    "jp": "食事をしに外へ行くことはめったにない。時間がもったいないというのが主な理由だ。",
+    "en": "I rarely go out to eat, because mostly, it’s a waste of time.",
+    "romaji": "shokuji o shi ni soto e iku koto wa metta ni nai. jikan ga mottai nai to iu no ga omo na riyuu da.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-15.mp3"
+   },
+   {
+    "jp": "私は困惑し、なんとなく落ち着かない気分で、その場を辞して旅行鞄を取りに行った。",
+    "en": "Puzzled and a bit unnerved, I excused myself and collected my traveling bag.",
+    "romaji": "watashi wa konwaku shi, nan to naku ochitsukanai kibun de, sono ba o jishite ryokou kaban o tori ni itta.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-16.mp3"
+   },
+   {
+    "jp": "一緒に彫刻を見に行かないか。少なくとも何か提案できるかもしれない。",
+    "en": "Would you like to walk over together and take a look at the sculpture? Perhaps I can at least make some suggestions.",
+    "romaji": "issho ni choukoku o mi ni ikanai ka. sukunakutomo nanika teian dekiru kamoshirenai.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-17.mp3"
+   },
+   {
+    "jp": "私たちはまたあなたが水を探しに行ったのかと思った。",
+    "en": "We thought you had gone to find some water.",
+    "romaji": "watashitachi wa mata anata ga mizu o sagashi ni itta no ka to omotta.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-18.mp3"
+   },
+   {
+    "jp": "私は空港まで迎えに行くと申し出た。",
+    "en": "I offered to pick her up at the airport.",
+    "romaji": "watashi wa kuukou made mukae ni iku to moushideta.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-niiku-19.mp3"
+   },
+   {
+    "jp": "に/へ (ni/e): to",
+    "en": "に (ni): in, at, on, to",
+    "romaji": "にする (nisuru): to decide on"
+   }
+  ],
+  "id": "n5-g32"
+ },
+ {
+  "title": "にする (nisuru)",
+  "url": "https://japanesetest4you.com/flashcard/jlpt-n5-grammar-%e3%81%ab%e3%81%99%e3%82%8b-nisuru/",
+  "meaning": "to decide on",
+  "formation": "Noun + にする",
+  "examples": [
+   {
+    "jp": "今日は何にする？",
+    "en": "What do you want to eat today?",
+    "romaji": "kyou wa nani ni suru.",
+    "audio": "https://japanesetest4you.com/audio7/n5g-nisuru-01.mp3"
+   },
+   {
+    "jp": "僕はウドンにします。",
+    "en": "I’ll eat udon.",
+    "romaji": "boku wa udon ni shimasu.",
+    "audio": "https://japanesetest4you.com/audio7/n5g-nisuru-02.mp3"
+   },
+   {
+    "jp": "田舎へは行かないことにしましょうよ。",
+    "en": "Let’s not go to the countryside.",
+    "romaji": "inaka e wa ikanai koto ni shimashou yo.",
+    "audio": "https://japanesetest4you.com/audio7/n5g-nisuru-03.mp3"
+   },
+   {
+    "jp": "しかしまあ、こんな話はあとのことにしましょう。",
+    "en": "But we’ll talk later on.",
+    "romaji": "shikashi maa, konna hanashi wa ato no koto ni shimashou.",
+    "audio": "https://japanesetest4you.com/audio7/n5g-nisuru-04.mp3"
+   },
+   {
+    "jp": "Ａ：きみ自分で選びたまえ、何か飲むものを。",
+    "en": "Ｂ：ワインにしましょう。",
+    "romaji": "A: You choose what we’re to drink. B: Wine, please. A: kimi jibun de erabi tamae, nanika nomu mono o. B: wain ni shimashou.",
+    "audio": "https://japanesetest4you.com/audio7/n5g-nisuru-05.mp3"
+   },
+   {
+    "jp": "あなたがそんなに望まれるなら、あがることにしましょう。",
+    "en": "If you so much wish it, I will come.",
+    "romaji": "anata ga sonna ni nozomareru nara, agaru koto ni shimashou.",
+    "audio": "https://japanesetest4you.com/audio7/n5g-nisuru-06.mp3"
+   },
+   {
+    "jp": "さっそく急いで家へ帰って手紙を書くことにしますわ。",
+    "en": "I will go home at once to write the letter.",
+    "romaji": "sassoku isoide ie e kaette tegami o kaku koto ni shimasu wa.",
+    "audio": "https://japanesetest4you.com/audio7/n5g-nisuru-07.mp3"
+   },
+   {
+    "jp": "わたくしの決心は、書面でお知らせすることにしましょう。",
+    "en": "I will communicate my decision to you by letter.",
+    "romaji": "watakushi no kesshin wa, shomen de oshirase suru koto ni shimashou.",
+    "audio": "https://japanesetest4you.com/audio7/n5g-nisuru-08.mp3"
+   },
+   {
+    "jp": "ただの風邪ですもの。お茶でも作って飲むことにしますわ。",
+    "en": "It is the cold only. I make now myself a cup of tea.",
+    "romaji": "tada no kaze desu mono. ocha demo tsukutte nomu koto ni shimasu wa.",
+    "audio": "https://japanesetest4you.com/audio7/n5g-nisuru-09.mp3"
+   },
+   {
+    "jp": "帰ります、お言葉に従って帰ることにします。",
+    "en": "I will go, at your word.",
+    "romaji": "kaerimasu, okotoba ni shitagatte kaeru koto ni shimasu.",
+    "audio": "https://japanesetest4you.com/audio7/n5g-nisuru-10.mp3"
+   },
+   {
+    "jp": "ねえ、わたし、接吻はしないことにしますわ。",
+    "en": "Do you know, I think I won’t kiss you?",
+    "romaji": "nee, watashi, seppun wa shinai koto ni shimasu wa.",
+    "audio": "https://japanesetest4you.com/audio7/n5g-nisuru-11.mp3"
+   },
+   {
+    "jp": "いつにしましょうね？明日はまにあいませんわ。明後日にしましょうか。",
+    "en": "When? By tomorrow we shan’t be ready. How about the day after tomorrow?",
+    "romaji": "itsu ni shimashou ne. ashita wa maniaimasen wa. asatte ni shimashou ka.",
+    "audio": "https://japanesetest4you.com/audio7/n5g-nisuru-12.mp3"
+   },
+   {
+    "jp": "服のことなど僕はまだ考えていなかったけどね。あなたの好きな服を着ることにしますよ。",
+    "en": "I haven’t thought about the suit, but I’ll wear whatever you like.",
+    "romaji": "fuku no koto nado boku wa mada kangaete inakatta kedo ne. anata no suki na fuku o kiru koto ni shimasu yo.",
+    "audio": "https://japanesetest4you.com/audio7/n5g-nisuru-13.mp3"
+   },
+   {
+    "jp": "山田さんが不可能だと言うんでしたら、わたしも不可能です。わたしも帰ることにしましょう。",
+    "en": "Well, if it is impossible for Yamada, it is impossible for me, and I will leave.",
+    "romaji": "yamadasan ga fukanou da to iun deshitara, watashi mo fukanou desu. watashi mo kaeru koto ni shimashou.",
+    "audio": "https://japanesetest4you.com/audio7/n5g-nisuru-14.mp3"
+   },
+   {
+    "jp": "これは私には不思議な、説明のつかない事実に思われました。で、これは保留して、後で考えることにしました。",
+    "en": "That seemed to me a rather curious and inexplicable fact, and I put it aside to think over.",
+    "romaji": "kore wa watashi ni wa fushigi na, setsumei no tsukanai jijitsu ni omowaremashita. de, kore wa horyuu shite, ato de kangaeru koto ni shimashita.",
+    "audio": "https://japanesetest4you.com/audio7/n5g-nisuru-15.mp3"
+   },
+   {
+    "jp": "では、別の角度から近付いてみることにしましょう。犯罪の現場で見つけたハンカチーフに話を戻しましょう。",
+    "en": "I am going to approach it from another angle. Let us go back to the handkerchief found at the scene of the crime.",
+    "romaji": "dewa, betsu no kakudo kara chikazuite miru koto ni shimashou. hanzai no genba de mitsuketa hankachiifu ni hanashi o modoshimashou.",
+    "audio": "https://japanesetest4you.com/audio7/n5g-nisuru-16.mp3"
+   },
+   {
+    "jp": "神さまのおきめになるとおりにお任せして、おたがいに取り決めとか約束とかいったようなことは抜きということにしましょうよ。",
+    "en": "Let it be as God wills, without any agreements and promises.",
+    "romaji": "kamisama no okime ni naru toori ni o makase shite, otagai ni torikime toka yakusoku toka itta you na koto wa nuki to iu koto ni shimashou yo.",
+    "audio": "https://japanesetest4you.com/audio7/n5g-nisuru-17.mp3"
+   },
+   {
+    "jp": "とはいっても、あの人をつけまわしたり、しょっちゅうあの人の目にふれるようにしたりしてあの人をなやまそうというのではありません、そんなことをするもんですか、わたしはどこへでもお望みの別の町へ行って、一生涯、一生涯うまずたゆまずあの人のことを見まもることにしますわ。",
+    "en": "Not that I would run after him continually, get in his way and worry him. Oh, no! I will go away to another town and I will watch over him all my life — I will watch over him all my life unceasingly.",
+    "romaji": "towa itte mo, ano hito o tsukemawashitari, shochuu ano hito no me ni fureru you ni shitari shite ano hito o nayamasou to iu no dewa arimasen, sonna koto o suru mon desu ka, watashi wa doko e demo o nozomi no betsu no machi e itte, isshougai, isshougai umazu tayumazu ano hito no koto o mimamoru koto ni shimasu wa.",
+    "audio": "https://japanesetest4you.com/audio7/n5g-nisuru-18.mp3"
+   }
+  ],
+  "id": "n5-g33"
+ },
+ {
+  "title": "の (no) – 1",
+  "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n5-grammar-%e3%81%ae-no-1/",
+  "meaning": "of (indicates possessive)",
+  "formation": "Noun 1 + の + Noun 2",
+  "examples": [
+   {
+    "jp": "私は、ここ３年のインドの台頭をとても意識していました。",
+    "en": "I have been very conscious of the emergence of India the last three years.",
+    "romaji": "watashi wa, koko sannen no indo no taitou o totemo ishiki shite imashita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no1-1.mp3"
+   },
+   {
+    "jp": "きみの誕生日になにもあげなかった。ごめんね。",
+    "en": "I’m sorry for not giving you anything for your birthday.",
+    "romaji": "kimi no tanjoubi ni nanimo agenakatta. gomen ne.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no1-2.mp3"
+   },
+   {
+    "jp": "僕は昼の雨、夜の雪にかなりよく耐えた。",
+    "en": "I endured the rain during the day, and the snow during the night.",
+    "romaji": "boku wa hiru no ame, yoru no yuki ni kanari yoku taeta.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no1-3.mp3"
+   },
+   {
+    "jp": "彼はただ一人さ迷い歩き、この世の無常に涙を流した。",
+    "en": "He wandered in loneliness, weeping for the hardness of the world.",
+    "romaji": "kare wa tada hitori samayoiaruki, kono yo no mujou ni namida o nagashita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no1-4.mp3"
+   },
+   {
+    "jp": "イギリスの輸出全体の４５％が対EUである。",
+    "en": "45 percent of all British exports go to the EU.",
+    "romaji": "igirisu no yushutsu zentai no yonjuu go paasento ga tai iiyuu de aru.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no1-5.mp3"
+   },
+   {
+    "jp": "彼女の表情には、何かしら人の心を引くものがあった。",
+    "en": "Something about her expression pulled people in.",
+    "romaji": "kanojo no hyoujou ni wa, nani kashira hito no kokoro o hiku mono ga atta.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no1-6.mp3"
+   },
+   {
+    "jp": "幾つかの大型船は、動く都市のようなものだ。",
+    "en": "Some large ships are like movable cities.",
+    "romaji": "ikutsuka no oogatasen wa, ugoku toshi no you na mono da.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no1-7.mp3"
+   },
+   {
+    "jp": "今この瞬間、ある現地隊員からの連絡を待っている。",
+    "en": "At the moment I’m waiting to hear from one field agent in particular.",
+    "romaji": "ima kono shunkan, aru genchi tai’in kara no renraku o matte iru.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no1-8.mp3"
+   },
+   {
+    "jp": "新しい職場環境の目玉はこんな感じです。",
+    "en": "Here are some highlights of the new work environment.",
+    "romaji": "atarashii shokuba kankyou no medama wa konna kanji desu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no1-9.mp3"
+   },
+   {
+    "jp": "昨年１１月、このスラム街に新しい学校が開かれ、４７人の生徒が入学しました。",
+    "en": "Last November, a new school opened in the slum and enrolled 47 students.",
+    "romaji": "sakunen juuichi gatsu, kono suramugai ni atarashii gakkou ga hirakare, yonjuu shichi nin no seito ga nyuugaku shimashita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no1-10.mp3"
+   },
+   {
+    "jp": "彼は私の過去の本を読んだことがあるとは思えなかった。",
+    "en": "I had no reason to believe he’d ever read any of my books.",
+    "romaji": "kare wa watashi no kako no hon o yonda koto ga aru to wa omoenakatta.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no1-11.mp3"
+   },
+   {
+    "jp": "その女優は、メディアの注目を避けるため、離婚したことを数ヶ月間、公表しなかった。",
+    "en": "The actress kept her divorce under wraps for months to avoid media attention.",
+    "romaji": "sono haiyuu wa, media no chuumoku o sakeru tame, rikon shita koto o suukagetsu kan, kouhyou shinakatta.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no1-12.mp3"
+   },
+   {
+    "jp": "今回は、警察と犯罪組織、または犯罪者との関係を描いたサスペンス映画をご紹介します。",
+    "en": "This time, I’d like to introduce to you a suspense movie about the relationship between the police and criminal organizations or criminals.",
+    "romaji": "konkai wa, keisatsu to hanzai soshiki, mata wa hanzaisha to no kankei o egaita sasupensu eiga o goshoukai shimasu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no1-13.mp3"
+   },
+   {
+    "jp": "多くのビジネス環境と異なり、図書館は、変化を前向きに受け入れます。",
+    "en": "Libraries, unlike many business environments, embrace change.",
+    "romaji": "ooku no bijinesu kankyou to kotonari, toshokan wa, henka o maemuki ni ukeiremasu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no1-14.mp3"
+   },
+   {
+    "jp": "トンネルの一番底には、日の目を見ることのない冷たい湖がある。",
+    "en": "At the bottom of the tunnel lay a cold lake far from the light.",
+    "romaji": "tonneru no ichiban soko ni wa, hi no me o miru koto no nai tsumetai mizuumi ga aru.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no1-15.mp3"
+   },
+   {
+    "jp": "その緑色のバッグはわたしの部屋に持ってって！",
+    "en": "Take that green bag to my room!",
+    "romaji": "sono midori iro no baggu wa watashi ni heya ni motte tte.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no1-16.mp3"
+   },
+   {
+    "jp": "うちの息子は、いつも謙虚なんだ。",
+    "en": "My son is always modest.",
+    "romaji": "uchi no musuko wa, itsumo kenkyo nan da.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no1-17.mp3"
+   },
+   {
+    "jp": "通常、事件が起きたあとに犯人を検挙するのが刑事の仕事ですよね。",
+    "en": "Normally, a police detective’s job is to arrest the culprit after a case occurs, right?",
+    "romaji": "tsuujou, jiken ga okita ato ni hannin o kenkyo suru no ga keiji no shigoto desu yo ne.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no1-18.mp3"
+   },
+   {
+    "jp": "予定の計画にはなんら変更はありません。",
+    "en": "There is no change in our original plans.",
+    "romaji": "yotei no keikaku ni wa nanra henkou wa arimasen.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no1-19.mp3"
+   },
+   {
+    "jp": "新経営陣は、会社の立て直しをうまくやってのけた。",
+    "en": "The new management team has done a good job of turning the business around.",
+    "romaji": "shinkeieijin wa, kaisha no tatenaoshi o umaku yattenoketa.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no1-20.mp3"
+   },
+   {
+    "jp": "今日の友は、明日の敵です。",
+    "en": "Friends of today are the enemies of tomorrow.",
+    "romaji": "kyou no tomo wa, ashita no teki desu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no1-21.mp3"
+   },
+   {
+    "jp": "急いで上に行って、髪の毛を整えてこなくちゃ。",
+    "en": "I must run upstairs and smooth my hair.",
+    "romaji": "isoide ue ni itte, kami no ke o totonoete konakucha.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no1-22.mp3"
+   },
+   {
+    "jp": "誰もが第二のキャリアとして小説家になりたいのよ、イギリスでは。",
+    "en": "Everyone wants to have a second career as a novelist, in Britain.",
+    "romaji": "daremo ga daini no kyaria toshite shousetsuka ni naritai no yo, igirisu de wa.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no1-23.mp3"
+   },
+   {
+    "jp": "僕も一つ、面白いアルバイトをしたよ。空港にある、外貨両替所の仕事だったんだ。",
+    "en": "I did have one interesting job, where I worked in an airport at the foreign money exchange.",
+    "romaji": "boku mo hitotsu, omoshiroi arubaito o shita yo. kuukou ni aru, gaika ryougaejo no shigoto dattan da.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no1-24.mp3"
+   },
+   {
+    "jp": "彼は、俳優になることを母親に反対され、初めての家出を決行したこともあった。",
+    "en": "His mother didn’t want him to become an actor, so he ran away from home for the first time.",
+    "romaji": "kare wa, haiyuu ni naru koto o hahaoya ni hantai sare, hajimete no iede o kekkou shita koto mo atta.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no1-25.mp3"
+   },
+   {
+    "jp": "食糧を作り出して、それを食べることに時間の大半が占められた。",
+    "en": "Growing food and eating it occupied most of our time.",
+    "romaji": "shokuryou o tsukuridashite, sore o taberu koto ni jikan no taihan ga shimerareta.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no1-26.mp3"
+   },
+   {
+    "jp": "僕自身も、これが最後の公式イベントだと思ったら、自然と、自分の正直な気持ちが言葉になってできてたようです。",
+    "en": "Because I know this was my last official event, I was able to express my true feelings naturally.",
+    "romaji": "boku jishin mo, kore ga saigo no koushiki ibento da to omottara, shizen to, jibun no shoujiki na kimochi ga kotoba ni natte dekiteta you desu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no1-27.mp3"
+   }
+  ],
+  "id": "n5-g34"
+ },
+ {
+  "title": "の (no) – 2",
+  "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n5-grammar-%e3%81%ae-no-2/",
+  "meaning": "Verb nominalizer",
+  "formation": "Verb-casual + の\nYou use の to turn a Verb into a Noun.",
+  "examples": [
+   {
+    "jp": "居合わせた者の中でなにも言わなかったのは、ミツヒコだけだった。",
+    "en": "Mitsuhiko was the only one present who had said nothing.",
+    "romaji": "iawaseta mono no naka de nanimo iwanakatta no wa, mitsuhiko dake datta.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no2-1.mp3"
+   },
+   {
+    "jp": "本当に軌道に乗ったのは、１９７１年の春、その女性に出会い、恋に落ちたときでした。",
+    "en": "It really took off when I met and fell in love with that girl in the spring of 1971.",
+    "romaji": "hontou ni kidou ni notta no wa, sen kyuuhyaku nanajuu ichinen no haru, sono josei ni deai, koi ni ochita toki deshita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no2-2.mp3"
+   },
+   {
+    "jp": "彼女たちの成長を見るのは私にとってはひとつの大きな幸福だった。",
+    "en": "Watching them grow up made me happier than anything.",
+    "romaji": "kanojotachi no seichou o miru no wa watashi ni totte wa hitotsu no ooki na koufuku datta.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no2-3.mp3"
+   },
+   {
+    "jp": "仕事が続いているのはありがたいことです。今度の作品では一人で５役をやります。",
+    "en": "I’m grateful I can continue to work. I’ll play five roles in this project.",
+    "romaji": "shigoto ga tsudzuite iru no wa arigatai koto desu. kondo no sakuhin de wa hitori de goyaku o yarimasu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no2-4.mp3"
+   },
+   {
+    "jp": "いったい何があったのかと、私は心配してるんです。彼が来るのを待つべきでしょうか？",
+    "en": "Now I am wondering what can have happened. Should I wait for him?",
+    "romaji": "ittai nani ga atta no ka to, watashi wa shinpai shiterun desu. kare ga kuru no o matsu beki deshou ka.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no2-5.mp3"
+   },
+   {
+    "jp": "私が意見を言うのはすごく難しいですね。正直言って、この話題について話すのに、私は適任じゃないと思うので。",
+    "en": "It’s very difficult for me to say, because, honestly, I don’t think I’m qualified to speak on this subject.",
+    "romaji": "watashi ga iken o iu no wa sugoku muzukashii desu ne. shoujiki itte, kono wadai ni tsuite hanasu noni, watashi wa tekinin janai to omou node.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no2-6.mp3"
+   },
+   {
+    "jp": "後ろの方から、小馬だか、馬だかが駆けてくるのが聞こえます。",
+    "en": "I can hear a pony or a horse coming along the road behind.",
+    "romaji": "ushiro no hou kara, kouma da ka, uma da ka ga kakete kuru no ga kikoemasu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no2-7.mp3"
+   },
+   {
+    "jp": "これほどたくさんの警察や軍隊の人がそこら中にいるのを見て、何か、正直なところちょっと安心しました。",
+    "en": "Seeing how many police and army people are around everywhere, it made me feel a bit easier, to be honest.",
+    "romaji": "kore hodo takusan no keisatsu ya guntai no hito ga sokorajuu ni iru no o mite, nanika, shoujiki na tokoro chotto anshin shimashita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no2-8.mp3"
+   },
+   {
+    "jp": "彼らは単純に主人公をサポートするために登場するのではなく、それぞれのストーリーを持つ人物としてドラマの楽しみさを増幅させたのです。",
+    "en": "They don’t just appear on screen to support the main characters. They each has their own story to make the drama more interesting.",
+    "romaji": "karera wa tanjun ni shujinkou o sapooto suru tame ni toujou suru no de wa naku, sorezore no sutoorii o motsu jinbutsu toshite dorama no tanoshimisa o zoufuku saseta no desu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no2-9.mp3"
+   },
+   {
+    "jp": "ヒデキは、ゴボゴボッと音をたてて水がゆっくり流れすぎて行くのを見て、不思議な感じを味わった。",
+    "en": "Hideki had a strange feeling as the slow gurgling stream slipped by.",
+    "romaji": "hideki wa, gobogobotto oto o tatete mizu ga yukkuri nagaresugite iku no o mite, fushigi na kanji o ajiwatta.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no2-10.mp3"
+   },
+   {
+    "jp": "草はどんどん伸びていく。しかし私の心にかかるのは、庭仕事のほかにある。",
+    "en": "The grass is growing fast, but I have more on my mind than gardening.",
+    "romaji": "kusa wa dondon nobite iku. shikashi watashi no kokoro ni kakaru no wa, niwashigoto no hoka ni aru.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no2-11.mp3"
+   },
+   {
+    "jp": "僕らは全力をあげて、あなたがわれらの敵と戦うのを助けるよ。",
+    "en": "We are going to do our best to help you fight our enemy.",
+    "romaji": "bokura wa zenryoku o agete, anata ga warera no teki to tatakau no o tasukeru yo.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no2-12.mp3"
+   },
+   {
+    "jp": "自己満足というわなに陥るのはとても簡単です。",
+    "en": "I think it’s quite easy to fall into that trap of becoming complacent.",
+    "romaji": "jiko manzoku to iu wana ni ochiiru no wa totemo kantan desu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no2-13.mp3"
+   },
+   {
+    "jp": "わたしたちが捕まるのも時間の問題だわ！",
+    "en": "It’s only a matter of time before we’re caught!",
+    "romaji": "watashitachi ga tsukamaru no mo jikan no mondai da wa.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no2-14.mp3"
+   },
+   {
+    "jp": "泣きながら家に駆け込んだのを覚えている。",
+    "en": "I remember running into the house, crying.",
+    "romaji": "nakinagara ie ni kakekonda no o oboete iru.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no2-15.mp3"
+   },
+   {
+    "jp": "カフェインの薬が効き始め、ようやく霧が晴れていくのを感じた。",
+    "en": "The caffeine pills were kicking in, and I finally felt the fog beginning to lift.",
+    "romaji": "kafein no kusuri ga kikihajime, youyaku kiri ga harete iku no o kanjita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no2-16.mp3"
+   },
+   {
+    "jp": "ヒトシは力強い手で引き起こされるのを感じた。",
+    "en": "Hitoshi felt firm hands lifting him.",
+    "romaji": "hitoshi wa chikaradzuyoi te de hikiokosareru no o kanjita.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no2-17.mp3"
+   },
+   {
+    "jp": "脚が痛んだ。翌朝は馬に乗って行けるのを喜んだ。",
+    "en": "My legs ached. I was glad that I was riding in the morning.",
+    "romaji": "ashi ga itanda. yokuasa wa uma ni notte ikeru no o yorokonda.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no2-18.mp3"
+   },
+   {
+    "jp": "あなたを止めるのが今のわたしの仕事です。",
+    "en": "It’s my job to stop you.",
+    "romaji": "anata o tomeru no ga ima no watashi no shigoto desu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-no2-19.mp3"
+   }
+  ],
+  "id": "n5-g35"
+ },
+ {
+  "title": "ので (node)",
+  "url": "https://japanesetest4you.com/flashcard/learn-jlpt-n5-grammar-%e3%81%ae%e3%81%a7-node/",
+  "meaning": "because of; the reason is that; given that",
+  "formation": "Verb + ので\nNoun + なので\nいadj + ので\nなadj + なので",
+  "examples": [
+   {
+    "jp": "頭痛がひどくなったので、家に帰りましたよ。",
+    "en": "I had a bad headache so I went directly home.",
+    "romaji": "zutsuu ga hidoku natta node, ie ni kaerimashita yo.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-19.mp3"
+   },
+   {
+    "jp": "雨が降っていたので、出て行くこともできなかった。",
+    "en": "I could not go away because of the rain.",
+    "romaji": "ame ga futte ita node, dete iku koto mo dekinakatta.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-20.mp3"
+   },
+   {
+    "jp": "彼女はずっと考え事をしていたので気づかなかったのだ。",
+    "en": "She had been too absorbed in her own thoughts to notice.",
+    "romaji": "kanojo wa zutto kangaegoto o shite ita node kizukanakatta no da.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-21.mp3"
+   },
+   {
+    "jp": "わたしは引退生活に飽きたので、自分でビジネスを始めた。",
+    "en": "I was bored with retirement, so I started my own business.",
+    "romaji": "watashi wa intai seikatsu ni akita node, jibun de bijinesu o hajimeta.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-22.mp3"
+   },
+   {
+    "jp": "ミナコはかわいらしい話し方をするので人気がある。",
+    "en": "Minako has an endearing way of talking that makes her popular.",
+    "romaji": "minako wa kawairashii hanashikata o suru node ninki ga aru.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-23.mp3"
+   },
+   {
+    "jp": "わたしの写真がぼやけていたので、カメラのレンズを掃除した。",
+    "en": "My photos looked blurry, so I cleaned the camera lens.",
+    "romaji": "watashi no shashin ga boyakete ita node, kamera no renzu o souji shita.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-24.mp3"
+   },
+   {
+    "jp": "彼女の挨拶はとても陽気だったので、不真面目に見えた。",
+    "en": "Her greeting was so cheerful that it seemed insincere.",
+    "romaji": "kanojo no aisatsu wa totemo youki datta node, fumajime ni mieta.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-25.mp3"
+   },
+   {
+    "jp": "柔らかな、涼しい風が吹いていたので、窓を二つ開けていた。",
+    "en": "There was a soft breeze blowing, and so I had opened two windows.",
+    "romaji": "yawaraka na, suzushii kaze ga fuite ita node, mado o futatsu akete ita.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-26.mp3"
+   },
+   {
+    "jp": "机の上の電話が、用心深い音をたてたので、彼女は、受話器を取りあげた。",
+    "en": "The telephone on her desk gave a discreet buzz so she picked it up.",
+    "romaji": "tsukue no ue no denwa ga, youjin bukai oto o tateta node, kanojo wa, juwaki o toriageta.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-27.mp3"
+   },
+   {
+    "jp": "これから仮眠をとるので、七時に目覚ましの電話をかけてほしい。",
+    "en": "I’m going to lie down, so please give me a wake-up call at seven o’clock.",
+    "romaji": "kore kara kamin o toru node, shichiji ni mezamashi no denwa o kakete hoshii.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-28.mp3"
+   },
+   {
+    "jp": "そもそも携帯電話をもっていなかったので、携帯が鳴ることはなかった。",
+    "en": "My cell phone never rang because I did not have one.",
+    "romaji": "somosomo keitai denwa o motte inakatta node, keitai ga naru koto wa nakatta.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-29.mp3"
+   },
+   {
+    "jp": "わたしは何回となくその答えを耳にしているので、すでに準備ができている。",
+    "en": "I have prepared for this answer, because I have heard it so often.",
+    "romaji": "watashi wa nankai to naku sono kotae o mimi ni shite iru node, sude ni junbi ga dekite iru.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-30.mp3"
+   },
+   {
+    "jp": "とてもガタガタと揺れる飛行だったので、わたしは機内で眠れなかった。",
+    "en": "I couldn’t sleep on the airplane because the flight was so bumpy.",
+    "romaji": "totemo gatagata to yureru hikou datta node, watashi wa kinai de nemurenakatta.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-31.mp3"
+   },
+   {
+    "jp": "ホテルに泊まれなかったので、ガレージ内にある寝室を借りました。",
+    "en": "Since I couldn’t get in a hotel, I rented a sleeping room in a garage.",
+    "romaji": "hoteru ni tomarenakatta node, gareeji nai ni aru shinshitsu o karimashita.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-32.mp3"
+   },
+   {
+    "jp": "イツキはとても早口にその話をしたので、本当なのか判断できなかった。",
+    "en": "Itsuki told the story so quickly, I couldn’t gauge its truth.",
+    "romaji": "itsuki wa totemo hayakuchi ni sono hanashi o shita node, hontou na no ka handan dekinakatta.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-33.mp3"
+   },
+   {
+    "jp": "とはいえ、飲食店業は厳しいので、よい選択とは見なさない人もいます。",
+    "en": "But the restaurant business is tough so not everyone sees it as a good choice.",
+    "romaji": "towaie, inshokuten gyou wa kibishii node, yoi sentaku to wa minasanai hito mo imasu.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-34.mp3"
+   },
+   {
+    "jp": "観光客がたくさん訪れると予想されているので、仕事が増えると期待しています。",
+    "en": "We expect a lot of tourists and a lot of work, hopefully.",
+    "romaji": "kankoukyaku ga takusan otozureru to yosou sarete iru node, shigoto ga fueru to kitai shite imasu.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-35.mp3"
+   },
+   {
+    "jp": "手がいつまでもひどくふるえているので、ひげを剃るのも容易ではなかった。",
+    "en": "Shaving was not an easy task, for my hand continued to shake very much.",
+    "romaji": "te ga itsu made mo hidoku furuete iru node, hige o soru no mo youi dewa nakatta.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-36.mp3"
+   },
+   {
+    "jp": "彼にはほかに身内がないので、私を唯一の相続人にするつもりでいたのです。",
+    "en": "He had no other relations, and he had intended me to be his sole heiress.",
+    "romaji": "kare ni wa hoka ni miuchi ga nai node, watashi o yuiitsu no souzokujin ni suru tsumori de ita no desu.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-37.mp3"
+   },
+   {
+    "jp": "彼はふたりに飲物をすすめたが断られたので、シガレットケースを差し出した。",
+    "en": "He offered them a drink and when that was refused he took out his cigarette case.",
+    "romaji": "kare wa futari ni nomimono o susumeta ga kotowarareta node, shigaretto keesu o sashidashita.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-38.mp3"
+   },
+   {
+    "jp": "私はあなたの評判を聞いているので、この問題をあなたにまかせることに決めた。",
+    "en": "I have heard good accounts of you, and have decided to entrust the matter to you.",
+    "romaji": "watashi wa anata no hyouban o kiite iru node, kono mondai o anata ni makaseru koto ni kimeta.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-39.mp3"
+   },
+   {
+    "jp": "支払い期日が来たとき、金が足りなかったので、自分の家の家具を安売りして支払った。",
+    "en": "The time came due and I was short of money, so I sold my own house furnishings cheap to pay off the debt.",
+    "romaji": "shiharai kijitsu ga kita toki, kane ga tarinakatta node, jibun no ie no kagu o yasuuri shite shiharatta.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-40.mp3"
+   },
+   {
+    "jp": "中田は無口ながら、こちらの言うことはよく理解してくれる聞き手なので、話していて心地がよかった。",
+    "en": "Nakada was pleasant to talk to because he had so little to say and yet was so understanding a listener.",
+    "romaji": "nakada wa mukuchi nagara, kochira no iu koto wa yoku rikai shite kureru kikite na node, hanashite ite kokochi ga yokatta.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-41.mp3"
+   },
+   {
+    "jp": "試験が近いので、みんな一生懸命勉強しています。",
+    "en": "Since the test’s near, everyone’s studying hard.",
+    "romaji": "shiken ga chikai node, minna isshoukenmei benkyou shite imasu.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-1.mp3"
+   },
+   {
+    "jp": "夕べ飲みすぎたので、頭がずきずきする。",
+    "en": "I drank too much last night so my head is throbbing.",
+    "romaji": "yuube nomisugita node, atama ga zukizuki suru.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-2.mp3"
+   },
+   {
+    "jp": "明日は試験なので、今日は早く寝ます。",
+    "en": "The test is tomorrow, so I’ll go to bed early today.",
+    "romaji": "ashita wa shiken na node, kyou wa hayaku nemasu.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-3.mp3"
+   },
+   {
+    "jp": "このテレビは古いので、よく故障します。",
+    "en": "This TV is old so it always breaks down.",
+    "romaji": "kono terebi wa furui node, yoku koshou shimasu.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-4.mp3"
+   },
+   {
+    "jp": "危険なので、その機械に触ってはいけません。",
+    "en": "It’s dangerous so please don’t touch this machine.",
+    "romaji": "kiken na node, sono kikai ni sawatte wa ikemasen.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-5.mp3"
+   },
+   {
+    "jp": "皆さん、明日の予定を言いますので、よく聞いてください。",
+    "en": "Everyone, I’ll explain about tomorrow’s plans so please listen carefully.",
+    "romaji": "minasan, ashita no yotei o iimasu node, yoku kiite kudasai.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-6.mp3"
+   },
+   {
+    "jp": "昨日たくさん運動したので、足が痛いです。",
+    "en": "Since I exercised a lot yesterday, my legs hurt.",
+    "romaji": "kinou takusan undou shita node, ashi ga itai desu.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-7.mp3"
+   },
+   {
+    "jp": "少し仮眠を取りますので、状況が変化したら起こしてください。",
+    "en": "I’m going to take a nap for a while, so please wake me up if there’s any change.",
+    "romaji": "sukoshi kamin o torimasu node, joukyou ga henka shitara okoshite kudasai.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-8.mp3"
+   },
+   {
+    "jp": "まあとにかく、我々はもう少しここで調査しますので、あなた方は別室で待機していてください！",
+    "en": "We need to investigate here a little longer, so please wait in another room.",
+    "romaji": "maa tonikaku, wareware wa mou sukoshi koko de chousa shimasu node, anatagata wa besshitsu de taiki shite ite kudasai.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-9.mp3"
+   },
+   {
+    "jp": "今年の夏は猛暑だったので、カツラを付けて時代物の衣装を着てアクションをするのは、本当にキツかったんですよ。",
+    "en": "This year’s summer was extremely hot, so putting on a wig, wearing period drama’s clothes and doing action scenes was really really hard.",
+    "romaji": "kotoshi no natsu wa mousho datta node, katsura o tsukete jidaimono no ishou o kite akushon o suru no wa, hontou ni kitsukattan desu yo.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-10.mp3"
+   },
+   {
+    "jp": "馬は両脚を折ってしまったので、もう立つことができなかった。",
+    "en": "The horse had two broken legs and could not rise.",
+    "romaji": "uma wa ryouashi o otte shimatta node, mou tatsu koto ga dekinakatta.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-11.mp3"
+   },
+   {
+    "jp": "多くの人が、どちらの候補者も好きではないので投票しない、と言っています。",
+    "en": "A lot of people say they don’t like either candidate and won’t vote at all.",
+    "romaji": "ooku no hito ga, dochira no kouhosha mo suki dewa nai node touhyou shinai, to itte imasu.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-12.mp3"
+   },
+   {
+    "jp": "僕が演じたシュンは、義理堅く、他人に優しい男です。僕とよく似たキャラクターだったので、撮影中はとても気楽に演じていました。",
+    "en": "Shun, the man I played was a friendly guy with a strong sense of duty. He was very much like me, so I had an easy time filming.",
+    "romaji": "boku ga enjita shun wa, girigataku, ta’nin ni yasashii otoko desu. boku to yoku nita kyarakutaa datta node, satsueichuu wa totemo kiraku ni enjite imashita.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-13.mp3"
+   },
+   {
+    "jp": "私にはずっと、内なる強さが備わっていたのだと思います。私には生まれつき障害があったので。",
+    "en": "I think I’ve always had an inner strength, because I’ve always been disabled.",
+    "romaji": "watashi ni wa zutto, uchinaru tsuyosa ga sonawatte ita no da to omoimasu. watashi ni wa umaretsuki shougai ga atta node.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-14.mp3"
+   },
+   {
+    "jp": "考え方も好みも人それぞれなので、私の演技に対する賛否が分かれるのは当然のことだと思います。",
+    "en": "Everyone has a different way of thinking and taste, so it’s only natural for them to like and dislike my acting.",
+    "romaji": "kangaekata mo konomi mo hito sorezore na node, watashi no engi ni taisuru sanpi ga wakareru no wa touzen no koto da to omoimasu.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-15.mp3"
+   },
+   {
+    "jp": "ソロ活動で忙しかったのですが、同じ時期に家の引越しもしたので、部屋の片付けが大変でした。",
+    "en": "I was busy with my solo career, and at the same time I was moving houses, so I had a hard time tidying up my rooms.",
+    "romaji": "soro katsudou de isogashikatta no desu ga, onaji jiki ni ie no hikkoshi mo shita node, heya no katadzuke ga taihen deshita.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-16.mp3"
+   },
+   {
+    "jp": "ドラマが人気だったので、結末にも関心が高かったんです。",
+    "en": "The drama was popular, so the ending was highly anticipated.",
+    "romaji": "dorama ga ninki datta node, ketsumatsu ni mo kanshin ga takakattan desu.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-17.mp3"
+   },
+   {
+    "jp": "歌手じゃなかったら、もともと料理が好きなのでシェフになっていたかもしれない。",
+    "en": "If I weren’t a singer, I might become a chef because I like cooking.",
+    "romaji": "kashu janakattara, motomoto ryouri ga suki na node shefu ni natte ita kamoshirenai.",
+    "audio": "https://japanesetest4you.com/media/004/n5g-node-18.mp3"
+   }
+  ],
+  "id": "n5-g36"
+ },
+ {
+  "title": "のがじょうず (no ga jouzu)",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-27/",
+  "meaning": "to be good at",
+  "formation": "Verb-dictionary form + のがじょうず\nNoun + がじょうず",
+  "examples": [
+   {
+    "jp": "弟は歌うのが上手だ。",
+    "en": "My little brother is good at singing.",
+    "romaji": "otouto wa utau no ga jouzu da.",
+    "audio": "https://japanesetest4you.com/audio5/n5g-nogajouzu-01.mp3"
+   },
+   {
+    "jp": "私の彼氏はキスするのが上手ですよ。",
+    "en": "My boyfriend is good at kissing.",
+    "romaji": "watashi no kareshi wa kisu suru noga jouzu desu yo.",
+    "audio": "https://japanesetest4you.com/audio5/n5g-nogajouzu-02.mp3"
+   },
+   {
+    "jp": "教えるのが上手な人は、どんな人？",
+    "en": "What kind of people are good at teaching?",
+    "romaji": "oshieru no ga jouzu na hito wa, donna hito.",
+    "audio": "https://japanesetest4you.com/audio5/n5g-nogajouzu-03.mp3"
+   },
+   {
+    "jp": "母は値切るのが上手です。",
+    "en": "My mother is good at beating down the price.",
+    "romaji": "haha wa negiru no ga jouzu desu.",
+    "audio": "https://japanesetest4you.com/audio5/n5g-nogajouzu-04.mp3"
+   },
+   {
+    "jp": "兄は相談に乗るのが上手です。",
+    "en": "My big brother is good at giving advice.",
+    "romaji": "ani wa soudan ni noru no ga jouzu desu.",
+    "audio": "https://japanesetest4you.com/audio5/n5g-nogajouzu-05.mp3"
+   },
+   {
+    "jp": "今回は、褒めるのが上手な人の特徴と、そのテクニックをご紹介していきます。",
+    "en": "This time, I’d like to introduce the characteristics of people who are good at praising and their techniques.",
+    "romaji": "konkai wa, homeru no ga jouzu na hito no tokuchou to, sono tekunikku o goshoukai shite ikimasu.",
+    "audio": "https://japanesetest4you.com/audio5/n5g-nogajouzu-06.mp3"
+   },
+   {
+    "jp": "嘘つくのがなかなか上手ね。でもこの際はすっかり話してしまったほうが時間と手間が省けるというものよ。",
+    "en": "You lie very well. But it will save time and trouble now if you tell me all about it.",
+    "romaji": "uso tsuku no ga nakanaka jouzu ne. demo kono sai wa sukkari hanashite shimatta hou ga jikan to tema ga habukeru to iu mono yo.",
+    "audio": "https://japanesetest4you.com/audio5/n5g-nogajouzu-07.mp3"
+   },
+   {
+    "jp": "研究によれば、心拍変動の高い人は、気が散るものを無視したり、欲求の充足を遅らせたり、ストレスの多い状況に対処するのが上手であることがわかっています。",
+    "en": "Studies show that people with higher heart rate variability are better at ignoring distractions, delaying gratification, and dealing with stressful situations.",
+    "romaji": "kenkyuu ni yoreba, shinpaku hendou no takai hito wa, ki ga chiru mono o mushi shitari, yokkyuu no juusoku o okurasetari, sutoresu no ooi joukyou ni taisho suru no ga jouzu de aru koto ga wakatte imasu.",
+    "audio": "https://japanesetest4you.com/audio5/n5g-nogajouzu-08.mp3"
+   },
+   {
+    "jp": "お子さんが１３歳で絵が上手なら、アニメで身を立てることを考えたほうがいいですよ。",
+    "en": "If your kids are doing well in drawing in seventh grade, you must think of making a career in animation.",
+    "romaji": "okosan ga juusan sai de e ga jouzu nara, anime de mi o tateru koto o kangaeta hou ga ii desu yo.",
+    "audio": "https://japanesetest4you.com/audio5/n5g-nogajouzu-09.mp3"
+   }
+  ],
+  "id": "n5-g37"
+ },
+ {
+  "title": "のがすき (no ga suki)",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-flashcard-15/",
+  "meaning": "to love / to like doing something",
+  "formation": "Verb-dictionary form + のがすき + だ / です",
+  "examples": [
+   {
+    "jp": "コーラを飲むのが好きです。",
+    "en": "I like drinking Cocacola.",
+    "romaji": "koora o nomu noga suki desu.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-nogasuki-1.mp3"
+   },
+   {
+    "jp": "猫がネズミを追いかけるのが好きだ。",
+    "en": "Cats love chasing mice.",
+    "romaji": "neko ga nezumi o oikakeru noga suki da.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-nogasuki-2.mp3"
+   },
+   {
+    "jp": "妻は不平を言うのが好き。",
+    "en": "My wife loves complaining.",
+    "romaji": "tsuma wa fuhei o iu noga suki.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-nogasuki-3.mp3"
+   },
+   {
+    "jp": "少年漫画を読むのが好きだ。",
+    "en": "I like reading Shonen manga.",
+    "romaji": "shounen manga o yomu noga suki da.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-nogasuki-4.mp3"
+   },
+   {
+    "jp": "母は料理をするのが好きです。",
+    "en": "My mom likes cooking.",
+    "romaji": "haha wa ryouri o suru noga suki desu.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-nogasuki-5.mp3"
+   },
+   {
+    "jp": "彼女はみんなの注目を集めるのが好きなのだ。",
+    "en": "She loves being the center of attention.",
+    "romaji": "kanojo wa minna no chuumoku o atsumeru noga suki nano da.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-nogasuki-6.mp3"
+   },
+   {
+    "jp": "あの子は自分の面倒を見てくれる親分にくっついているのが好きだ。",
+    "en": "That child likes keeping close to his parents who always look after him.",
+    "romaji": "ano ko wa jibun no mendou o mitekureru ryoushin ni kuttsuiteiru nogasuki da.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-nogasuki-7.mp3"
+   },
+   {
+    "jp": "あいつはきれいな女性と付き合うのが好きだ。",
+    "en": "That guy loves going out with beautiful women.",
+    "romaji": "aitsu wa kirei na josei to tsukiau noga suki da.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-nogasuki-8.mp3"
+   },
+   {
+    "jp": "サッカーするのが好きです。",
+    "en": "I like playing soccer.",
+    "romaji": "sakkaa suru noga suki desu.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-nogasuki-9.mp3"
+   },
+   {
+    "jp": "フライト中は、何を食べるのが好きですか？",
+    "en": "What’s your favorite thing to eat while flying?",
+    "romaji": "furaitochuu wa, nani o taberu no ga suki desu ka.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-nogasuki-10.mp3"
+   },
+   {
+    "jp": "私は星空の下を歩くのが好きなのです。でも私は喜んであなた方とご一緒しますよ。",
+    "en": "I like walking under the stars. But I would welcome your company.",
+    "romaji": "watashi wa hoshizora no shita o aruku no ga suki na no desu. demo watashi wa yorokonde anatagata to goissho shimasu yo.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-nogasuki-11.mp3"
+   },
+   {
+    "jp": "子どもたちが幼かった頃、クリスマスにプレゼントをして、サンタクロースがいると信じさせるのが好きだったな。",
+    "en": "I liked giving my children gifts at Christmas and making them believe that Santa Claus existed when they were young.",
+    "romaji": "kodomotachi ga osanakatta koro, kurisumasu ni purezento o shite, santakuroosu ga iru to shinjisaseru no ga suki datta na.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-nogasuki-12.mp3"
+   },
+   {
+    "jp": "わたしは毎日オフィスに来て、今日はどんなことがあるだろうと期待するのが好きだ。",
+    "en": "I prefer to come to work each day and just see what develops.",
+    "romaji": "watashi wa mainichi ofisu ni kite, kyou wa donna koto ga aru darou to kitai suru no ga suki da.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-nogasuki-13.mp3"
+   },
+   {
+    "jp": "私は夕方に美術品を扱う店をぶらついて、いろいろな作品を鑑賞するのが好きだ。",
+    "en": "I like to stroll through the art shops to examine the work.",
+    "romaji": "watashi wa yuugata ni bijitsuhin o atsukau mise o buratsuite, iroiro na sakuhin o kanshou suru no ga suki da.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-nogasuki-14.mp3"
+   },
+   {
+    "jp": "騒ぎを起こしたり、人を試したりするのが好きだ。",
+    "en": "I like to stir things up, and I like to test people.",
+    "romaji": "sawagi o okoshitari, hito o tameshitari suru no ga suki da.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-nogasuki-15.mp3"
+   },
+   {
+    "jp": "私は難しい外科手術を手伝うのが好きで、それが自分にいちばん合っていると思っている。",
+    "en": "I love assisting in challenging surgeries, and I think it’s a perfect fit for me.",
+    "romaji": "watashi wa muzukashii geka shujutsu o tetsudau no ga suki de, sore ga jibun ni ichiban atte iru to omotte iru.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-nogasuki-16.mp3"
+   },
+   {
+    "jp": "木村は意のままに人を魅了できるし、そうするのが好きだ。",
+    "en": "Kimura can seduce and charm people at will, and he likes to do so.",
+    "romaji": "kimura wa i no mama ni hito o miryou dekiru shi, sou suru no ga suki da.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-nogasuki-17.mp3"
+   },
+   {
+    "jp": "兄は仕事をするのが好きです。",
+    "en": "My big brother likes to work.",
+    "romaji": "ani wa shigoto o suru no ga suki desu.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-nogasuki-18.mp3"
+   },
+   {
+    "jp": "私は物事を大きく考えるのが好きだ。",
+    "en": "I like thinking big.",
+    "romaji": "watashi wa monogoto o ookiku kangaeru no ga suki da.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-nogasuki-19.mp3"
+   },
+   {
+    "jp": "のがじょうず (no ga jouzu): to be good at",
+    "en": "のがへた (no ga heta): to be bad at",
+    "romaji": "より~のほうが (yori~no hou ga): more than"
+   }
+  ],
+  "id": "n5-g38"
+ },
+ {
+  "title": "のがへた (no ga heta)",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-28/",
+  "meaning": "to be bad at something, to be not good at something",
+  "formation": "Verb-dictionary form + のが下手",
+  "examples": [],
+  "id": "n5-g39"
+ },
+ {
+  "title": "たい (tai)",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-flashcard-14/",
+  "meaning": "want to do something",
+  "formation": "Verb-ますstem + たい",
+  "examples": [
+   {
+    "jp": "私も外に出て歩きたい。",
+    "en": "I want to get out and walk too.",
+    "romaji": "watashi mo soto ni dete arukitai.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-20.mp3"
+   },
+   {
+    "jp": "人は理解されたい。",
+    "en": "People want to be understood.",
+    "romaji": "hito wa rikai saretai.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-21.mp3"
+   },
+   {
+    "jp": "皆さんに一つ質問をしたい。",
+    "en": "Let me ask you a question.",
+    "romaji": "minasan ni hitotsu shitsumon o shitai.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-22.mp3"
+   },
+   {
+    "jp": "わたしが訴えたいのはこの点だ。",
+    "en": "That’s the sort of thing I mean.",
+    "romaji": "watashi ga uttaetai no wa kono ten da.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-23.mp3"
+   },
+   {
+    "jp": "私は他人から好かれたい。",
+    "en": "I want to be loved by others.",
+    "romaji": "watashi wa tanin kara sukaretai.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-24.mp3"
+   },
+   {
+    "jp": "まったく泣き出したくなったわ！",
+    "en": "I felt like bursting into tears!",
+    "romaji": "mattaku naki dashitaku natta wa.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-25.mp3"
+   },
+   {
+    "jp": "ひとつ聞きたいことがあるんだけど。",
+    "en": "I wanted to ask you something.",
+    "romaji": "hitotsu kikitai koto ga arun da kedo.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-26.mp3"
+   },
+   {
+    "jp": "尋ねたかったことを思い出しましたよ。",
+    "en": "I have remembered what I wanted to ask.",
+    "romaji": "tazunetakatta koto o omoidashimashita yo.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-27.mp3"
+   },
+   {
+    "jp": "こんな場所をきみならどう使いたいね？",
+    "en": "For what would you use such a place?",
+    "romaji": "konna basho o kimi nara dou tsukaitai ne.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-28.mp3"
+   },
+   {
+    "jp": "ひとりで出発したくないんだ。怖いんだよ。",
+    "en": "I don’t want to start this alone. I’m scared.",
+    "romaji": "hitori de shuppatsu shitakunain da. kowain da yo.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-29.mp3"
+   },
+   {
+    "jp": "尋問にはわたしも加わりたいわ。",
+    "en": "I want to take part in the interrogation.",
+    "romaji": "jinmon ni wa watashi mo kuwawaritai wa.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-30.mp3"
+   },
+   {
+    "jp": "わたしが話したいのは、まさにその件なんだ。",
+    "en": "That’s what I wanted to talk to you about.",
+    "romaji": "watashi ga hanashitai no wa, masa ni sono ken nan da.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-31.mp3"
+   },
+   {
+    "jp": "話題をお変えになりたい、そういうわけですか？",
+    "en": "You wish the subject to be changed, eh?",
+    "romaji": "wadai o okae ni naritai, sou iu wake desu ka.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-32.mp3"
+   },
+   {
+    "jp": "全世界に叫びたかった。わたしは自由だ。",
+    "en": "I wanted to yell to the whole world, “I am free!”",
+    "romaji": "zensekai ni sakebitakatta. watashi wa jiyuu da.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-33.mp3"
+   },
+   {
+    "jp": "わたしはまだ若い。死にたくない！",
+    "en": "I’m still young. I don’t wanna die!",
+    "romaji": "watashi wa mada wakai. shinitakunai.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-34.mp3"
+   },
+   {
+    "jp": "今はまだ結婚したいという気持ちがないです。",
+    "en": "I don’t want to get married yet.",
+    "romaji": "ima wa mada kekkon shitai to iu kimochi ga nai desu.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-35.mp3"
+   },
+   {
+    "jp": "わたしはその責任をとりたくなかった。",
+    "en": "I didn’t want to take the responsibility for that.",
+    "romaji": "watashi wa sono sekinin o toritakunakatta.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-36.mp3"
+   },
+   {
+    "jp": "今回は、あなたが満足するようにしたい。",
+    "en": "I want to do it your way this time.",
+    "romaji": "konkai wa, anata ga manzoku suru you ni shitai.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-37.mp3"
+   },
+   {
+    "jp": "できれば、この仕事を完成したいのです。",
+    "en": "I should like, if possible, to be able to complete my task.",
+    "romaji": "dekireba, kono shigoto o kansei shitai no desu.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-38.mp3"
+   },
+   {
+    "jp": "やりたいことがあるというのはいいものだよ。",
+    "en": "It’s good to have something you want to do.",
+    "romaji": "yaritai koto ga aru to iu no wa ii mono da yo.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-39.mp3"
+   },
+   {
+    "jp": "ここで、わたし自身の個人的な体験を紹介したい。",
+    "en": "I would like to share with you a personal story.",
+    "romaji": "koko de, watashi jishin no kojinteki na taiken o shoukai shitai.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-40.mp3"
+   },
+   {
+    "jp": "あの男はいったい何を私に伝えたかったのだろう？",
+    "en": "What was that man trying to convey to me?",
+    "romaji": "ano otoko wa ittai nani o watashi ni tsutaetakatta no darou.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-41.mp3"
+   },
+   {
+    "jp": "私にできることがあれば、お手伝いしたいと思います。",
+    "en": "I would like to help in any way I can.",
+    "romaji": "watashi ni dekiru koto ga areba, otetsudai shitai to omoimasu.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-42.mp3"
+   },
+   {
+    "jp": "わたし、警察とはかかり合いになりたくありません。",
+    "en": "I don’t want to have anything to do with the police.",
+    "romaji": "watashi, keisatsu to wa kakariai ni naritaku arimasen.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-43.mp3"
+   },
+   {
+    "jp": "少し外の気を吸いたいと思う。ここはとても暑いから。",
+    "en": "I want a little air. It’s very hot in here.",
+    "romaji": "sukoshi soto no ki o suitai to omou. koko wa totemo atsui kara.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-44.mp3"
+   },
+   {
+    "jp": "わたし、ピクニックのことで、あなたに相談したかったの。",
+    "en": "I wanted to tell you about the picnic.",
+    "romaji": "watashi, pikunikku no koto de, anata ni soudan shitakatta no.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-45.mp3"
+   },
+   {
+    "jp": "計算が間違っているぞ、と言いたい気分になった。",
+    "en": "I thought of telling him that his math had to be wrong.",
+    "romaji": "keisan ga machigatte iru zo, to iitai kibun ni natta.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-46.mp3"
+   },
+   {
+    "jp": "彼らは家族のためにもっと稼ぎたいと考えている。",
+    "en": "They want to make more money for their families.",
+    "romaji": "karera wa kazoku no tame ni motto kasegitai to kangaete iru.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-47.mp3"
+   },
+   {
+    "jp": "私たちは、何とか息子を助けたいと必死になっていた。",
+    "en": "We were consumed with a desire to help our son.",
+    "romaji": "watashitachi wa, nantoka musuko o tasuketai to hisshi ni natte ita.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-48.mp3"
+   },
+   {
+    "jp": "私は、本当にあなたの話を聞きたいと思っているんです。",
+    "en": "I really want to listen to your story.",
+    "romaji": "watashi wa, hontou ni anata no hanashi o kikitai to omotte irun desu.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-49.mp3"
+   },
+   {
+    "jp": "友達が何の話をしているのか理解したいですよね？",
+    "en": "You want to understand what your friends are talking about, right?",
+    "romaji": "tomodachi ga nani no hanashi o shite iru no ka rikai shitai desu yo ne.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-50.mp3"
+   },
+   {
+    "jp": "わたしは、特別な個人的な旅行を楽しんでいると思いたい。",
+    "en": "I like to think that I’m enjoying a special personalized trip.",
+    "romaji": "watashi wa, tokubetsu na kojinteki na ryokou o tanoshinde iru to omoitai.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-51.mp3"
+   },
+   {
+    "jp": "わたしを雇いたいという企業の二つや三つはあるだろう。",
+    "en": "There are several firms that might be glad to employ me.",
+    "romaji": "watashi o yatoitai to iu kigyou no futatsu ya mitsu wa aru darou.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-52.mp3"
+   },
+   {
+    "jp": "冬の時期だから、みんなボリュームのあるものをたっぷり食べたいんだ。",
+    "en": "Because it’s wintertime, people want to eat big hearty meals.",
+    "romaji": "fuyu no jiki dakara, minna boryuumu no aru mono o tappuri tabetain da.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-53.mp3"
+   },
+   {
+    "jp": "彼は,自分がずっと主張したいと思ってきたことを言ってくれている。",
+    "en": "He’s making the argument I’ve always wanted to make.",
+    "romaji": "kare wa, jibun ga zutto shuchou shitai to omotte kita koto o itte kurete iru.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-54.mp3"
+   },
+   {
+    "jp": "ずっとここにいて、このまま時間のことなんか忘れていたい。",
+    "en": "I want to stay here forever and forget all about time.",
+    "romaji": "zutto koko ni ite, kono mama jikan no koto nanka wasurete itai.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-55.mp3"
+   },
+   {
+    "jp": "あなたに話したいと思ってたことは、ちょうどそれだったんですよ。",
+    "en": "That’s just the very thing I wanted to speak to you about.",
+    "romaji": "anata ni hanashitai to omotteta koto wa, choudo sore dattan desu yo.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-56.mp3"
+   },
+   {
+    "jp": "わたしはそれを使いたいの。それを使って、何か楽しい思いをしてみたいのよ。",
+    "en": "I want to use it; use it and get some good out of it.",
+    "romaji": "watashi wa sore o tsukaitai no. sore o tsukatte, nanika tanoshii omoi o shite mitai no yo.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-57.mp3"
+   },
+   {
+    "jp": "わたしが家族の状況を知らないことを、服部に知られたくない。",
+    "en": "I don’t want Hattori to know of my ignorance of what has happened to my family.",
+    "romaji": "watashi ga kazoku no joukyou o shiranai koto o, hattori ni shiraretakunai.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-58.mp3"
+   },
+   {
+    "jp": "わたしが主張したいのは、わたしたちの市に二つ目の空港が必要だ、ということです。",
+    "en": "I contend that our city needs a second airport.",
+    "romaji": "watashi ga shuchou shitai no wa, watashitachi no shi ni futatsume no kuukou ga hitsuyou da, to iu koto desu.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-59.mp3"
+   },
+   {
+    "jp": "個人的に、これからの数年は何をしたいと思っていますか？何を楽しみにしていますか？",
+    "en": "Personally, what do you hope to do in the next few years? What are you looking forward to?",
+    "romaji": "kojinteki ni, kore kara no suunen wa nani o shitai to omotte imasu ka. nani o tanoshimi ni shite imasu ka.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-60.mp3"
+   },
+   {
+    "jp": "ドイツからウサマなる人物がアメリカ宛に送っている荷物すべてを検査したい。",
+    "en": "I want to see any package sent from Germany to the United States by someone named Osama.",
+    "romaji": "doitsu kara usama naru jinbutsu ga amerika ate ni okutte iru nimotsu subete o kensa shitai.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-61.mp3"
+   },
+   {
+    "jp": "祖母が望んでいたのは、だれにも邪魔されず心静かに娘を育てたい、ということだけだった。",
+    "en": "All my grandmother wanted was to be left alone to bring up her daughter in peace.",
+    "romaji": "sobo ga nozonde ita no wa, dare ni mo jama sarezu kokoro shizuka ni musume o sodatetai, to iu koto dake datta.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-62.mp3"
+   },
+   {
+    "jp": "今日でおれの勤めが最後なんだ。退職する。だから、もういっぺん忘れずちゃんとお礼を言いたかったのさ。",
+    "en": "This is my last day. I’m retiring. So I wanted to make sure and thank you again.",
+    "romaji": "kyou de ore no tsutome ga saigo nan da. taishoku suru. dakara, mou ippen wasurezu chanto orei o iitakatta no sa.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-63.mp3"
+   },
+   {
+    "jp": "英語がうまくなりたいと努力している読者の皆さんに言いたいのは、目標を英語の先に見つけてほしいということ。",
+    "en": "So, for those of you who want to get better at English, you’ve got to find a goal, something beyond English.",
+    "romaji": "eigo ga umaku naritai to doryoku shite iru dokusha no minasan ni iitai no wa, mokuhyou o eigo no saki ni mitsukete hoshii to iu koto.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-64.mp3"
+   },
+   {
+    "jp": "日本人の英語学習者が、もっともっと多くの語彙を学びたいと思ったとき、どのようなアドバイス、もしくはヒントがありますか？",
+    "en": "For the Japanese learners of English, what is your advice or tips when they want to learn more and more vocabulary?",
+    "romaji": "nihonjin no eigo gakushuusha ga, motto motto ooku no goi o manabitai to omotta toki, dono you na adobaisu, moshikuwa hinto ga arimasu ka.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-65.mp3"
+   },
+   {
+    "jp": "私の車が古すぎるから、新しいのを買いたい。",
+    "en": "My car is too old so I want to buy a new one.",
+    "romaji": "watashi no kuruma ga furusugiru kara, atarashii no o kaitai.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-1.mp3"
+   },
+   {
+    "jp": "お酒を飲みたいです。一緒に居酒屋に行きませんか？",
+    "en": "I want to drink some wine. Won’t you go to the pub with me?",
+    "romaji": "osake o nomitai desu. issho ni izakaya ni ikimasen ka.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-2.mp3"
+   },
+   {
+    "jp": "狭い部屋に住みたくない。",
+    "en": "I don’t want to live in a small room.",
+    "romaji": "semai heya ni sumitakunai.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-3.mp3"
+   },
+   {
+    "jp": "帰国したい。両親に会いたい。",
+    "en": "I want to return to my country. I want to meet my parents.",
+    "romaji": "kikoku shitai. ryoushin ni aitai.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-4.mp3"
+   },
+   {
+    "jp": "うちの息子が大学に入りたくないと言いました。",
+    "en": "My son said that he doesn’t want to go to college.",
+    "romaji": "uchi no musuko ga daigaku ni hairitakunai to iimashita.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-5.mp3"
+   },
+   {
+    "jp": "将来有名人になりたいです。",
+    "en": "I want to become famous in the future.",
+    "romaji": "shourai yuumeijin ni naritai desu.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-6.mp3"
+   },
+   {
+    "jp": "日本語を上手く話したいです。",
+    "en": "I want to speak Japanese fluently.",
+    "romaji": "nihongo o umaku hanashitai desu.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-7.mp3"
+   },
+   {
+    "jp": "あなたの言うことを聞きたくない。",
+    "en": "I don’t want to listen to what you say.",
+    "romaji": "anata no iu koto o kikitakunai.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-8.mp3"
+   },
+   {
+    "jp": "彼女と結婚したいです。",
+    "en": "I want to marry her.",
+    "romaji": "kanojo to kekkon shitai desu.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-9.mp3"
+   },
+   {
+    "jp": "寒いから、外に出たくない。",
+    "en": "It’s cold so I don’t want to go out.",
+    "romaji": "samui kara, soto ni detakunai.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-10.mp3"
+   },
+   {
+    "jp": "おれの作ったご飯を食べたくないというのか？",
+    "en": "Are you saying you don’t want to eat my cooking?",
+    "romaji": "ore no tsukutta gohan o tabetakunai to iu no ka.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-11.mp3"
+   },
+   {
+    "jp": "他の誰の口から聞くよりも、君の口から聞きたいんだ。",
+    "en": "I want to hear it rather from your lips than another’s.",
+    "romaji": "hoka no dare no kuchi kara kiku yori mo, kimi no kuchi kara kikitain da.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-12.mp3"
+   },
+   {
+    "jp": "どなたか連絡したい人はいますか。奥さんやお子さんは？",
+    "en": "Is there someone you would like to call? Wife? Children?",
+    "romaji": "donataka renraku shitai hito wa imasu ka. okusan ya okosan wa.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-13.mp3"
+   },
+   {
+    "jp": "わたしは彼女の勇気ある行動に拍手を贈りたい！",
+    "en": "I want to applaud her brave action!",
+    "romaji": "watashi wa kanojo no yuuki aru koudou ni hakushi o okuritai.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-14.mp3"
+   },
+   {
+    "jp": "今夜あなたと大変重大な問題を話し合いたい。",
+    "en": "I want to talk over some serious matters with you tonight.",
+    "romaji": "kon’ya anata to taihen juudai na mondai o hanashiaitai.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-15.mp3"
+   },
+   {
+    "jp": "彼女とは今後、口もきいてもらいたくない。",
+    "en": "I do not even want you to speak to her again.",
+    "romaji": "kanojo to wa kongo, kuchi mo kiite moraitakunai.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-16.mp3"
+   },
+   {
+    "jp": "失礼して少し睡眠をとりたいのだが、かまわないかね？",
+    "en": "If you will excuse me now, I will try to get some sleep.",
+    "romaji": "shitsurei shite sukoshi suimin o toritai no da ga, kamawanai ka ne.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-17.mp3"
+   },
+   {
+    "jp": "君の根性を試したい。",
+    "en": "I want to test your determination.",
+    "romaji": "kimi no konjou o tameshitai.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-18.mp3"
+   },
+   {
+    "jp": "わたしだって逃げ出したいわ。なにもかも本当にうんざりなのよ！",
+    "en": "I do want to escape. I am so very tired of it all!",
+    "romaji": "watashi datte nigedashitai wa. nanimokamo hontou ni unzari na no yo.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-tai-19.mp3"
+   },
+   {
+    "jp": "たがる (tagaru): want to",
+    "en": "欲しい (hoshii): to want something",
+    "romaji": "てほしい (tehoshii): I need you to…"
+   }
+  ],
+  "id": "n5-g40"
+ },
+ {
+  "title": "たことがある (takotogaaru)",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-flashcard-13/",
+  "meaning": "have done something before",
+  "formation": "Verb-plain past + ことがある",
+  "examples": [
+   {
+    "jp": "そんなものは使ったことがないね。",
+    "en": "I’ve never used that.",
+    "romaji": "sonna mono wa tsukatta koto ga nai ne.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-22.mp3"
+   },
+   {
+    "jp": "そんなことを考えたこともないね。",
+    "en": "I hardly ever think about it.",
+    "romaji": "sonna koto o kangaeta koto mo nai ne.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-23.mp3"
+   },
+   {
+    "jp": "これは誰にも話したことがありません。",
+    "en": "I have never told this to anyone.",
+    "romaji": "kore wa dare ni mo hanashita koto ga arimasen.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-24.mp3"
+   },
+   {
+    "jp": "お名前をお聞きしたことはあると思います。",
+    "en": "I think I’ve heard your name before.",
+    "romaji": "onamae o okiki shita koto wa aru to omoimasu.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-25.mp3"
+   },
+   {
+    "jp": "しかし彼女自身はまだそこに行ったことがない。",
+    "en": "She had never been to that place, however.",
+    "romaji": "shikashi kanojo jishin wa mada soko ni itta koto ga nai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-26.mp3"
+   },
+   {
+    "jp": "あなたはその階段を使ったことがあるの？",
+    "en": "Have you ever used one of these stairways?",
+    "romaji": "anata wa sono kaidan o tsukatta koto ga aru no.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-27.mp3"
+   },
+   {
+    "jp": "そんな写真は見たことがないね。",
+    "en": "I’ve never seen that picture in my life.",
+    "romaji": "sonna shashin wa mita koto ga nai ne.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-28.mp3"
+   },
+   {
+    "jp": "それ以上に的確な評言はきいたことがない。",
+    "en": "I’ve never heard it put better.",
+    "romaji": "sore ijou ni tekikaku na hyougen wa kiita koto ga nai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-29.mp3"
+   },
+   {
+    "jp": "私は賭博が不道徳だと思ったことはない。",
+    "en": "I’ve never had any great moral problems with gambling.",
+    "romaji": "watashi wa tobaku ga fudoutoku da to omotta koto wa nai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-30.mp3"
+   },
+   {
+    "jp": "他の男になんか目もくれたことはありませんわ。",
+    "en": "I’ve never looked at any other man.",
+    "romaji": "hoka no otoko ni nanka me mo kureta koto wa arimasen wa.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-31.mp3"
+   },
+   {
+    "jp": "アユミ…愛が冷めたことは一度もないよ。",
+    "en": "Ayumi, I’ve never stopped loving you.",
+    "romaji": "ayumi, ai ga sameta koto wa ichido mo nai yo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-32.mp3"
+   },
+   {
+    "jp": "パリのエッフェル塔に行ったことはありますか？",
+    "en": "Have you ever been to Eiffel Tower in Paris?",
+    "romaji": "pari no efferu tou ni itta koto wa arimasu ka.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-33.mp3"
+   },
+   {
+    "jp": "一度か二度、わたしは恐れを感じたことがある。",
+    "en": "Once or twice I have felt afraid.",
+    "romaji": "ichido ka nido, watashi wa osore o kanjita koto ga aru.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-34.mp3"
+   },
+   {
+    "jp": "それで、この紳士を以前に見たことがあるのですね？",
+    "en": "And you say you’ve seen this gentleman before?",
+    "romaji": "sore de, kono shinshi o izen ni mita koto ga aru no desu ne.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-35.mp3"
+   },
+   {
+    "jp": "わたしは、一度、強盗と仲よく話したことがあります。",
+    "en": "I had a very pleasant chat with a burglar once.",
+    "romaji": "watashi wa, ichido, goutou to naka yoku hanashita koto ga arimasu.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-36.mp3"
+   },
+   {
+    "jp": "わたしは一年間、東京に暮らしたことがあります。",
+    "en": "I lived in Tokyo for a year.",
+    "romaji": "watashi wa ichinenkan, toukyou ni kurashita koto ga arimasu.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-37.mp3"
+   },
+   {
+    "jp": "あなたはわたしを憎むことをやめたことがありますか？",
+    "en": "Have you ever stopped hating me?",
+    "romaji": "anata wa watashi o nikumu koto o yameta koto ga arimasu ka.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-38.mp3"
+   },
+   {
+    "jp": "ここまで強い訛はもう何年も耳にしたことがない。",
+    "en": "I haven’t heard such a thick accent in years.",
+    "romaji": "koko made tsuyoi namari wa mou nannen mo mimi ni shita koto ga nai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-39.mp3"
+   },
+   {
+    "jp": "入院したことはありますか？",
+    "en": "Have you been hospitalized?",
+    "romaji": "nyuuin shita koto wa arimasu ka.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-40.mp3"
+   },
+   {
+    "jp": "あなたは男が泣くのをごらんになったことがありますか？",
+    "en": "Have you ever seen a man cry?",
+    "romaji": "anata wa otoko ga naku no o goran ni natta koto ga arimasu ka.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-41.mp3"
+   },
+   {
+    "jp": "あなたは、一度だって、わたしを愛してくれたことはない！",
+    "en": "You have never loved me!",
+    "romaji": "anata wa, ichido datte, watashi o ai shite kureta koto wa nai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-42.mp3"
+   },
+   {
+    "jp": "僕も恋をしたことはある、が、こんどのはそれとは違うのだ。",
+    "en": "I’ve been in love, but this is not love.",
+    "romaji": "boku mo koi o shita koto wa aru, ga, kondo no wa sore towa chigau no da.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-43.mp3"
+   },
+   {
+    "jp": "私は悪い人間ではない、私はかつて一度も人を憎んだことはない。",
+    "en": "I am not a spiteful man, I have never hated anyone.",
+    "romaji": "watashi wa warui ningen dewa nai, watashi wa katsute ichido mo hito o nikunda koto wa nai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-44.mp3"
+   },
+   {
+    "jp": "これまで、わたしは刃物なんか振りまわしたことは一度もないよ。",
+    "en": "I never used a weapon in my life before.",
+    "romaji": "kore made, watashi wa hamono nanka furimawashita koto wa ichido mo nai yo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-45.mp3"
+   },
+   {
+    "jp": "わたしは今までに一度も危険を冒したことがないんです。",
+    "en": "I’ve never done anything dangerous.",
+    "romaji": "watashi wa ima made ni ichido mo kiken o okashita koto ga nain desu.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-46.mp3"
+   },
+   {
+    "jp": "彼のやり方は何かで読んだことがある。彼は背後で仕事をして誰も信用しない。",
+    "en": "I have read of his methods. He works in the dark and trusts no one.",
+    "romaji": "kare no yarikata wa nanika de yonda koto ga aru. kare wa haigo de shigoto o shite dare mo shin’you shinai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-47.mp3"
+   },
+   {
+    "jp": "誰でもお金を最優先している人と知り合ったことがあるだろう。",
+    "en": "You probably know someone who puts making money ahead of everything else.",
+    "romaji": "dare demo okane o saiyuusen shite iru hito to shiriatta koto ga aru darou.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-48.mp3"
+   },
+   {
+    "jp": "わたしはカナダの常緑樹林を何百キロも旅したことがある。",
+    "en": "I have travelled hundreds of miles through the evergreen forests of Canada.",
+    "romaji": "watashi wa kanada no jouryoku jurin o nan byaku kiro mo tabi shita koto ga aru.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-49.mp3"
+   },
+   {
+    "jp": "あなたは、景気がよくなっている兆候を見たことがありますか？",
+    "en": "Have you seen any indications that the economy is improving?",
+    "romaji": "anata wa, keiki ga yoku natte iru choukou o mita koto ga arimasu ka.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-50.mp3"
+   },
+   {
+    "jp": "聞く訓練を受けたことのある人は、きわめて少ない。",
+    "en": "Comparatively few people have had any training in listening at all.",
+    "romaji": "kiku kunren o uketa koto no aru hito wa, kiwamete sukunai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-51.mp3"
+   },
+   {
+    "jp": "ご両親がこうしたテーマについて、言い争うのを見たことはありますか？",
+    "en": "Did you ever see your parents cross swords over these themes?",
+    "romaji": "goryoushin ga kou shita teema ni tsuite, iiarasou no o mita koto wa arimasu ka.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-52.mp3"
+   },
+   {
+    "jp": "ここから出ていこうという努力さえしない成人の学生には、これまでひとりも目にかかったことがない。",
+    "en": "I’ve never met an adult student who did less than try his or her hardest.",
+    "romaji": "koko kara dete ikou to iu doryoku sae shinai seijin no gakusei ni wa, kore made hitori mo me ni kakatta koto ga nai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-53.mp3"
+   },
+   {
+    "jp": "東京は好きです。以前ニューヨークに住んでいたことがあるので、ニューヨークを思い出しました。",
+    "en": "I like Tokyo. Since I lived in New York for some time, it reminded me of New York.",
+    "romaji": "toukyou wa suki desu. izen nyuuyooku ni sunde ita koto ga aru node, nyuuyooku o omoidashimashita.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-54.mp3"
+   },
+   {
+    "jp": "これはどうにも制しきれぬ衝動で、僕はたびたびこいつを利用したことがある。",
+    "en": "It is a perfectly overpowering impulse, and I have more than once taken advantage of it.",
+    "romaji": "kore wa dou ni mo seishi kirenu shoudou de, boku wa tabitabi koitsu o riyou shita koto ga aru.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-55.mp3"
+   },
+   {
+    "jp": "それまで美和子に光彦で呼ばれたことはなかったから、その響きには心地よい衝撃と驚きがあった。",
+    "en": "Miwako had never called Mitsuhiko by his first name before and the sound came to him as a pleasant shock and surprise.",
+    "romaji": "sore made miwako ni mitsuhiko de yobareta koto wa nakatta kara, sono hibiki niwa kokochi yoi shougeki to odoroki ga atta.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-takotoaru-56.mp3"
+   },
+   {
+    "jp": "寿司を食べたことがありますか？",
+    "en": "Have you ever eaten sushi?",
+    "romaji": "sushi o tabeta koto ga arimasu ka.",
+    "audio": "https://japanesetest4you.com/audio/n5g-takotoaru-1.mp3"
+   },
+   {
+    "jp": "「幽霊を見たことがある」と彼が言った。",
+    "en": "He said that he’s seen a ghost.",
+    "romaji": "yuurei o mita koto ga aru to kare ga itta.",
+    "audio": "https://japanesetest4you.com/audio/n5g-takotoaru-2.mp3"
+   },
+   {
+    "jp": "有名人に会ったことがある？",
+    "en": "Have you ever met a celebrity?",
+    "romaji": "yuumeijin ni atta koto ga aru.",
+    "audio": "https://japanesetest4you.com/audio/n5g-takotoaru-3.mp3"
+   },
+   {
+    "jp": "あの人は誰？何度も見たことがあるよ。",
+    "en": "Who’s that person? I’ve seen him many times before.",
+    "romaji": "ano hito wa dare. nando mo mita koto ga aru yo.",
+    "audio": "https://japanesetest4you.com/audio/n5g-takotoaru-4.mp3"
+   },
+   {
+    "jp": "私がこの本を数え切れないほど読んだことがある。",
+    "en": "I’ve read this book for countless time.",
+    "romaji": "watashi ga kono hon o kazoekirenai hodo yonda koto ga aru.",
+    "audio": "https://japanesetest4you.com/audio/n5g-takotoaru-5.mp3"
+   },
+   {
+    "jp": "先生に叱られたことがある。",
+    "en": "I’ve been scolded by my teacher before.",
+    "romaji": "sensei ni shikarareta koto ga aru.",
+    "audio": "https://japanesetest4you.com/audio/n5g-takotoaru-6.mp3"
+   },
+   {
+    "jp": "日本語能力試験を受けたことがありますか？",
+    "en": "Have you ever taken the Japanese Language Proficiency Test?",
+    "romaji": "nihongo nouryoku shiken o uketa koto ga arimasu ka.",
+    "audio": "https://japanesetest4you.com/audio/n5g-takotoaru-7.mp3"
+   },
+   {
+    "jp": "騙されたことがありますか？",
+    "en": "Have you ever been deceived?",
+    "romaji": "damasareta koto ga arimasu ka.",
+    "audio": "https://japanesetest4you.com/audio/n5g-takotoaru-8.mp3"
+   },
+   {
+    "jp": "この話は聞いたことがある。",
+    "en": "I’ve heard this story before.",
+    "romaji": "kono hanashi wa kiita koto ga aru.",
+    "audio": "https://japanesetest4you.com/audio/n5g-takotoaru-9.mp3"
+   },
+   {
+    "jp": "横浜八景島に行ったことがあります。",
+    "en": "I’ve been to Yokohama Hakkeijima before.",
+    "romaji": "yokohama hakkeijima ni itta koto ga arimasu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-takotoaru-10.mp3"
+   },
+   {
+    "jp": "うそをついたことがある？",
+    "en": "Have you ever told a lie?",
+    "romaji": "uso o tsuita koto ga aru.",
+    "audio": "https://japanesetest4you.com/audio/n5g-takotoaru-11.mp3"
+   },
+   {
+    "jp": "勉強をしろと言われれば勉強をして、特にトラブルを起こしたこともなく、着飾ったりすることにもまるで興味がありませんでした。そんな僕が突然、大学は演劇学科に行くと言い出したので、母はとても驚いたようです。",
+    "en": "I studied when I was told to, I hardly ever caused any trouble, and I wasn’t really interested in dressing up. Because I was like that, my mom was shocked when I told her that I wanted to study acting in college.",
+    "romaji": "benkyou o shiro to iwarereba benkyou o shite, toku ni toraburu o okoshita koto mo naku, kikazattari suru koto ni mo marude kyoumi ga arimasen deshita. sonna boku ga totsuzen, daigaku wa engeki gakka ni iku to iidashita node, hana wa totemo odoroita you desu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-takotoaru-12.mp3"
+   },
+   {
+    "jp": "以前「キャンディクラッシュ」というゲームをやっているとき、「こんなに早くクリアした人は初めてです」というメッセージを関係者からもらったことがあります。",
+    "en": "When I played a game called “candy crush,” I once received a message from my staff staying “I have never seen someone clearing a level so fast.”",
+    "romaji": "izen kyandi kurasshu to iu geemu o yatte iru toki, konna ni hayaku kuria shita hito wa hajimete desu to iu messeeji o kankeisha kara moratta koto ga arimasu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-takotoaru-13.mp3"
+   },
+   {
+    "jp": "兵役に関する話も、これまでしたことがなかったから、このまま行ってしまったら皆さんが寂しいだろうと思って。",
+    "en": "I have never talked about military service, so I thought if I just went without saying anything like this everyone would be so sad.",
+    "romaji": "heieki ni kansuru hanashi mo, kore made shita koto ga nakatta kara, kono mama itte shimattara minasan ga sabishii darou to omotte.",
+    "audio": "https://japanesetest4you.com/audio/n5g-takotoaru-14.mp3"
+   },
+   {
+    "jp": "彼女が誰かの悪口を口にするのを聞いたことは一度もなかった。",
+    "en": "I never once heard her bad-mouth another person.",
+    "romaji": "kanojo ga dareka no warukuchi o kuchi ni suru no o kiita koto wa ichido mo nakatta.",
+    "audio": "https://japanesetest4you.com/audio/n5g-takotoaru-15.mp3"
+   },
+   {
+    "jp": "きみに妹ができたぞ。見たこともないほどきれいな子さ！",
+    "en": "You’ve got a sister. The most beautiful baby you ever saw!",
+    "romaji": "kimi ni imouto ga dekita zo. mita koto mo nai hodo kirei na ko sa.",
+    "audio": "https://japanesetest4you.com/audio/n5g-takotoaru-16.mp3"
+   },
+   {
+    "jp": "水の上に浮いている学校なんて、これまでに見たことがありません。",
+    "en": "I have never seen any school floating on water before.",
+    "romaji": "mizu no ue ni uite iru gakkou nante, kore made ni mita koto ga arimasen.",
+    "audio": "https://japanesetest4you.com/audio/n5g-takotoaru-17.mp3"
+   },
+   {
+    "jp": "オレはやつがメガネを外してるところを見たことがない！",
+    "en": "I’ve never seen him without his glasses!",
+    "romaji": "ore wa yatsu ga megane o hazushiteru tokoro o mita koto ga nai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-takotoaru-18.mp3"
+   },
+   {
+    "jp": "海外旅行なんて考えたこともなかった…",
+    "en": "I’ve never even thought of traveling abroad…",
+    "romaji": "kaigai ryokou nante kangaeta koto mo nakatta.",
+    "audio": "https://japanesetest4you.com/audio/n5g-takotoaru-19.mp3"
+   },
+   {
+    "jp": "一時、あいつの幸運をねたんだことがあった。",
+    "en": "Once, I envied him his good fortune.",
+    "romaji": "ichiji, aitsu no kouun o netanda koto ga atta.",
+    "audio": "https://japanesetest4you.com/audio/n5g-takotoaru-20.mp3"
+   },
+   {
+    "jp": "私はこんなものを見たことがない。",
+    "en": "I have never seen anything like it.",
+    "romaji": "watashi wa konna mono o mita koto ga nai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-takotoaru-21.mp3"
+   },
+   {
+    "jp": "ためしがない (tameshi ga nai): has never happened",
+    "en": "ことがある (koto ga aru): there are times when",
+    "romaji": "ことができる (koto ga dekiru): can, be able to ことはない (koto wa nai): there is no need to"
+   }
+  ],
+  "id": "n5-g41"
+ },
+ {
+  "title": "ている (teiru)",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-flashcard-16/",
+  "meaning": "be doing something",
+  "formation": "Verb-てform + いる",
+  "examples": [
+   {
+    "jp": "日本語学校で日本語を勉強しています。",
+    "en": "I’m studying Japanese at a Japanese language school.",
+    "romaji": "nihongo gakkou de nihongo o benkyou shite imasu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-teiru-1.mp3"
+   },
+   {
+    "jp": "何を考えていますか？",
+    "en": "What are you thinking?",
+    "romaji": "nani o kangaete imasu ka.",
+    "audio": "https://japanesetest4you.com/audio/n5g-teiru-2.mp3"
+   },
+   {
+    "jp": "姉は家を掃除しています。",
+    "en": "My sister is cleaning the house.",
+    "romaji": "ane wa ie o souji shite imasu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-teiru-3.mp3"
+   },
+   {
+    "jp": "雨が降っている。",
+    "en": "It’s raining.",
+    "romaji": "ame ga futte iru.",
+    "audio": "https://japanesetest4you.com/audio/n5g-teiru-4.mp3"
+   },
+   {
+    "jp": "働いているので、後で電話します。",
+    "en": "Since I’m working, I’ll call you back later.",
+    "romaji": "hataraite iru node, ato de denwa shimasu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-teiru-5.mp3"
+   },
+   {
+    "jp": "何言ってるの？",
+    "en": "What are you talking about?",
+    "romaji": "nani itteru no.",
+    "audio": "https://japanesetest4you.com/audio/n5g-teiru-6.mp3"
+   },
+   {
+    "jp": "私は教室で先生と話しています。",
+    "en": "I’m talking to my teacher in the classroom.",
+    "romaji": "watashi wa kyoushitsu de sensei to hanashite imasu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-teiru-7.mp3"
+   },
+   {
+    "jp": "赤ちゃんはミルクを飲んでいます。",
+    "en": "The baby is drinking milk.",
+    "romaji": "akachan wa miruku o nonde imasu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-teiru-8.mp3"
+   },
+   {
+    "jp": "犬が走っている。",
+    "en": "The dog is running.",
+    "romaji": "inu ga hashitte iru.",
+    "audio": "https://japanesetest4you.com/audio/n5g-teiru-9.mp3"
+   },
+   {
+    "jp": "椅子がないので、みんなは床に座っている。",
+    "en": "Since there’s no chairs, everyone’s sitting on the floor.",
+    "romaji": "isu ga nai node, minna wa yuka ni suwatte iru.",
+    "audio": "https://japanesetest4you.com/audio/n5g-teiru-10.mp3"
+   },
+   {
+    "jp": "渋谷駅西口で待っています。",
+    "en": "I’m waiting for you at the West gate of Shibuya station.",
+    "romaji": "shibuya eki nishiguchi de matte imasu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-teiru-11.mp3"
+   },
+   {
+    "jp": "どっちのチームが勝っていますか？",
+    "en": "Which team is winning?",
+    "romaji": "docchi no chiimu ga katte imasu ka.",
+    "audio": "https://japanesetest4you.com/audio/n5g-teiru-12.mp3"
+   },
+   {
+    "jp": "人間であるとはどういうことかを私たちに示したいと、彼は強く願っているのです。",
+    "en": "He’s wanting very much to show us what it means to be human.",
+    "romaji": "ningen de aru to wa dou iu koto ka o watashitachi ni shimeshitai to, kare wa tsuyoku negatte iru no desu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-teiru-13.mp3"
+   },
+   {
+    "jp": "あの店では、キャンプ用品のセールを行っている。",
+    "en": "That store’s having a sale on camping gear.",
+    "romaji": "ano mise dewa, kyanpu youhin no seeru o okonatte iru.",
+    "audio": "https://japanesetest4you.com/audio/n5g-teiru-14.mp3"
+   },
+   {
+    "jp": "ISISは地域全体、そして全世界に勢力を拡大しています。",
+    "en": "ISIS has spread across the region and the entire world.",
+    "romaji": "ISIS wa chiiki zentai, soshite zensekai ni seiryoku o kakudai shite imasu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-teiru-15.mp3"
+   },
+   {
+    "jp": "彼は私たち一人一人を忘れています。",
+    "en": "He’s forgetting every last one of us.",
+    "romaji": "kare wa watashitachi hitori hitori o wasurete imasu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-teiru-16.mp3"
+   },
+   {
+    "jp": "日々の天気予報が、今月はずっと当たっている。",
+    "en": "The daily weather report has been consistently correct this month.",
+    "romaji": "hibi no tenki yohou ga, kongetsu wa zutto atatte iru.",
+    "audio": "https://japanesetest4you.com/audio/n5g-teiru-17.mp3"
+   },
+   {
+    "jp": "その女は対岸でこちらを向いて立っている。",
+    "en": "On the far bank, the woman stood facing me.",
+    "romaji": "sono onna wa taigan de kochira o muite tatte iru.",
+    "audio": "https://japanesetest4you.com/audio/n5g-teiru-18.mp3"
+   },
+   {
+    "jp": "どうやって事務所を出たのか、まったく憶えていない。",
+    "en": "I don’t remember how I got out of the office.",
+    "romaji": "dou yatte jimusho o deta no ka, mattaku oboete inai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-teiru-19.mp3"
+   },
+   {
+    "jp": "父はほんとうにそんな莫大な財産を持っているんでしょうか。",
+    "en": "Does my father really have a very large fortune?",
+    "romaji": "chichi wa hontou ni sonna bakudai na zaisan o motte irun deshou ka.",
+    "audio": "https://japanesetest4you.com/audio/n5g-teiru-20.mp3"
+   },
+   {
+    "jp": "今日はみなさんやたら熱心に勉強してるなあ。",
+    "en": "Everyone’s studying really hard today.",
+    "romaji": "kyou wa minasan yatara nesshin ni benkyou shiteru naa.",
+    "audio": "https://japanesetest4you.com/audio/n5g-teiru-21.mp3"
+   },
+   {
+    "jp": "母は慎重で確かな眼を持っています。",
+    "en": "My mother has a clear and penetrating judgment.",
+    "romaji": "haha wa shinchou de tashikana me o omotte imasu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-teiru-22.mp3"
+   },
+   {
+    "jp": "家の中には物音ひとつしていない。",
+    "en": "Nothing is moving in the house.",
+    "romaji": "ie no naka ni wa monooto hitotsu shite inai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-teiru-23.mp3"
+   },
+   {
+    "jp": "彼は真といって、警察につとめている男だ。",
+    "en": "His name is Makoto and he works for the police.",
+    "romaji": "kare wa makoto to itte, keisatsu ni tsutomete iru otoko da.",
+    "audio": "https://japanesetest4you.com/audio/n5g-teiru-24.mp3"
+   },
+   {
+    "jp": "老人は車輪のあいだにはさまれている。",
+    "en": "The old man is caught in the wheels.",
+    "romaji": "roujin wa sharin no aida ni hasamarete iru.",
+    "audio": "https://japanesetest4you.com/audio/n5g-teiru-25.mp3"
+   },
+   {
+    "jp": "てある (te aru): something is/has been done",
+    "en": "ていた (te ita): was doing something",
+    "romaji": "ているところ (teiru tokoro): in the process of doing つつある (tsutsu aru): to be doing"
+   }
+  ],
+  "id": "n5-g42"
+ },
+ {
+  "title": "てください (tekudasai)",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-flashcard-1/",
+  "meaning": "Please do something",
+  "formation": "Verb てform  (te form) + ください (kudasai)",
+  "examples": [
+   {
+    "jp": "プレゼントを見てください。",
+    "en": "Please open the present.",
+    "romaji": "purezento o mite kudasai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-kudasai-24.mp3"
+   },
+   {
+    "jp": "ちょっと黙って話をきいてください。",
+    "en": "Please be quiet and listen.",
+    "romaji": "chotto damatte hanashi o kiite kudasai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-kudasai-25.mp3"
+   },
+   {
+    "jp": "ただ一つだけ忠告させてください。",
+    "en": "Allow me to give you one piece of advice.",
+    "romaji": "tada hitotsu dake chuukoku sasete kudasai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-kudasai-26.mp3"
+   },
+   {
+    "jp": "どうすればいいのか教えてください。",
+    "en": "Please tell me what to do.",
+    "romaji": "dou sureba ii no ka oshiete kudasai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-kudasai-27.mp3"
+   },
+   {
+    "jp": "まず、あなたの話を聞かせてください。",
+    "en": "Let me listen to you first.",
+    "romaji": "mazu, anata no hanashi o kikasete kudasai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-kudasai-28.mp3"
+   },
+   {
+    "jp": "ほかの人たちを見てください。",
+    "en": "Please look at everyone else here.",
+    "romaji": "hoka no hitotachi o mite kudasai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-kudasai-29.mp3"
+   },
+   {
+    "jp": "よくよく考えてください。",
+    "en": "Please think about it very carefully.",
+    "romaji": "yoku yoku kangaete kudasai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-kudasai-30.mp3"
+   },
+   {
+    "jp": "さあ、一部始終を話してみてください。",
+    "en": "Now, please tell me the whole story.",
+    "romaji": "saa, ichibu shijuu o hanashite mite kudasai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-kudasai-31.mp3"
+   },
+   {
+    "jp": "風が強そうですから、気をつけてください。",
+    "en": "Please be careful, it looks windy out there.",
+    "romaji": "kaze ga tsuyosou desu kara, ki o tsukete kudasai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-kudasai-32.mp3"
+   },
+   {
+    "jp": "そこにある封筒の中身を見てください。",
+    "en": "Please look at what’s in that envelope.",
+    "romaji": "soko ni aru fuutou no nakami o mite kudasai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-kudasai-33.mp3"
+   },
+   {
+    "jp": "見なかったことにして返してください。",
+    "en": "Please give it back and pretend you never saw it.",
+    "romaji": "minakatta koto ni shite kaeshite kudasai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-kudasai-34.mp3"
+   },
+   {
+    "jp": "腰をおろしてコーヒーを飲んでください。",
+    "en": "Sit down and drink a cup of coffee.",
+    "romaji": "koshi o oroshite koohii o nonde kudasai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-kudasai-35.mp3"
+   },
+   {
+    "jp": "わたしを助けてください。",
+    "en": "Please help me.",
+    "romaji": "watashi o tasukete kudasai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-kudasai-36.mp3"
+   },
+   {
+    "jp": "じゃ、よく考えて知らせてください。",
+    "en": "Well, please think it over and let me know.",
+    "romaji": "ja, yoku kangaete shirasete kudasai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-kudasai-37.mp3"
+   },
+   {
+    "jp": "手でアンテナを調整してください。",
+    "en": "Please adjust the antenna by hand.",
+    "romaji": "te de antena o chousei shite kudasai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-kudasai-38.mp3"
+   },
+   {
+    "jp": "わたしの話を注意してきいてください。",
+    "en": "Please listen to me very carefully.",
+    "romaji": "watashi no hanashi o chuui shite kiite kudasai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-kudasai-39.mp3"
+   },
+   {
+    "jp": "どうか食事をつづけてください。",
+    "en": "Please go on with your dinner.",
+    "romaji": "douka shokuji o tsuzukete kudasai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-kudasai-40.mp3"
+   },
+   {
+    "jp": "昨晩、何があったかを聞いてください。",
+    "en": "Let me tell you what happened last night.",
+    "romaji": "sakuban, nani ga atta ka o kiite kudasai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-kudasai-41.mp3"
+   },
+   {
+    "jp": "お願いです、神様、成功させてください。",
+    "en": "Please God let this work.",
+    "romaji": "onegai desu, kamisama, seikou sasete kudasai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-kudasai-42.mp3"
+   },
+   {
+    "jp": "うちへ寄って、コーヒーを飲んでいってください。",
+    "en": "Come on in and have a cup of coffee.",
+    "romaji": "uchi e yotte, koohii o nonde itte kudasai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-kudasai-43.mp3"
+   },
+   {
+    "jp": "哲学的見地から説明してください。",
+    "en": "Please explain it to me from the philosophical point of view.",
+    "romaji": "tetsugakuteki kenchi kara setsumei shite kudasai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-kudasai-44.mp3"
+   },
+   {
+    "jp": "あなたの結婚を一番にお祝いさせてください。",
+    "en": "Let me be the first to congratulate you on your wedding.",
+    "romaji": "anata no kekkon o ichiban ni oiwai sasete kudasai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-kudasai-45.mp3"
+   },
+   {
+    "jp": "どうして君の労に酬いたらよいか、教えてください。",
+    "en": "Please tell me in what way I can reward you.",
+    "romaji": "dou shite kimi no rou ni mukuitara yoi ka, oshiete kudasai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-kudasai-46.mp3"
+   },
+   {
+    "jp": "質問には、あなたの本心で答えてください。",
+    "en": "Please answer the questions with your authentic reactions.",
+    "romaji": "shitsumon ni wa, anata no honshin de kotaete kudasai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-kudasai-47.mp3"
+   },
+   {
+    "jp": "不公正を外国の話だと決め付けないよう注意してください。",
+    "en": "Be careful not to define injustice in foreign terms.",
+    "romaji": "fukousei o gaikoku no hanashi da to kimetsukenai you chuui shite kudasai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-kudasai-48.mp3"
+   },
+   {
+    "jp": "なんでも質問してください。せい一杯の返答をいたします。",
+    "en": "Ask me any questions you like. I will answer them to the best of my ability.",
+    "romaji": "nan demo shitsumon shite kudasai. seiippai no hentou o itashimasu.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-kudasai-49.mp3"
+   },
+   {
+    "jp": "自分ひとりの悲しみはほほ笑みの下にかくしてがんばってください。",
+    "en": "Hide your private sorrows under a smile and carry on.",
+    "romaji": "jibun hitori no kanashimi wa hohoemi no shita ni kakushite ganbatte kudasai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-kudasai-50.mp3"
+   },
+   {
+    "jp": "そんなことはもう、いっさい考えないでください。心のなかから追いはらってください。",
+    "en": "Please think no more of all this, and let it pass away from your mind.",
+    "romaji": "sonna koto wa mou, issai kangaenaide kudasai. kokoro no naka kara oiharatte kudasai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-kudasai-51.mp3"
+   },
+   {
+    "jp": "誘拐犯に心当たりがあるなら、誰なのか教えてください。こちらでもその者を探します。",
+    "en": "If you have any clue about who the kidnapper is, please tell us. We’ll search for that person as well.",
+    "romaji": "yuukaihan ni kokoroatari ga aru nara, dare na no ka oshiete kudasai. kochira demo sono mono o sagashimasu.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-kudasai-52.mp3"
+   },
+   {
+    "jp": "皆でよく相談して決めてください。こっちの足並みが揃わなければ話にならない。",
+    "en": "Please discuss it carefully with everybody. We won’t be able to do anything unless we’re all on the same page.",
+    "romaji": "mina de yoku soudan shite kimete kudasai. kocchi no ashinami ga sorowanakereba hanashi ni naranai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-kudasai-53.mp3"
+   },
+   {
+    "jp": "ただね、あなたもこれからは、ちょっとしたはずみで撃つなんてことは、しないようにしてくださいね。",
+    "en": "Only I hope you won’t shoot yourself by accident any more.",
+    "romaji": "tada ne, anata mo kore kara wa, chotto shita hazumi de utsu nante koto wa, shinai you ni shite kudasai ne.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-kudasai-54.mp3"
+   },
+   {
+    "jp": "下がってください。",
+    "en": "Please step back.",
+    "romaji": "",
+    "audio": "https://japanesetest4you.com/audio/n5g-kudasai-1.mp3"
+   },
+   {
+    "jp": "静かにしてください。",
+    "en": "Please be quiet.",
+    "romaji": "shizuka ni shite kudasai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-kudasai-2.mp3"
+   },
+   {
+    "jp": "はっきりと書いてください。",
+    "en": "Please write clearly.",
+    "romaji": "hakkiri to kaite kudasai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-kudasai-3.mp3"
+   },
+   {
+    "jp": "どうぞ試してください。",
+    "en": "Please try it.",
+    "romaji": "douzo tameshite kudasai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-kudasai-4.mp3"
+   },
+   {
+    "jp": "教科書を貸してください。",
+    "en": "Please lend me your textbook.",
+    "romaji": "kyoukasho o kashite kudasai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-kudasai-5.mp3"
+   },
+   {
+    "jp": "ルールについて説明してください。",
+    "en": "Please explain the rules.",
+    "romaji": "ruuru ni tsuite setsumei shite kudasai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-kudasai-6.mp3"
+   },
+   {
+    "jp": "ドアをしめてください。",
+    "en": "Please close the door.",
+    "romaji": "doa o shimete kudasai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-kudasai-7.mp3"
+   },
+   {
+    "jp": "荷物はここに置いていってください。",
+    "en": "Please put your luggage here.",
+    "romaji": "nimotsu wa koko ni oite itte kudasai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-kudasai-8.mp3"
+   },
+   {
+    "jp": "ちょっと待ってください。",
+    "en": "Please wait a moment.",
+    "romaji": "chotto matte kudasai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-kudasai-9.mp3"
+   },
+   {
+    "jp": "ついてきてください。",
+    "en": "Please follow me.",
+    "romaji": "tsuite kite kudasai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-kudasai-10.mp3"
+   },
+   {
+    "jp": "個人消費を見てください。雇用を見てください。これは不況ではなく、転換期なのです。",
+    "en": "Look at consumer spending. Look at employment. It is not a depression, it’s a transition.",
+    "romaji": "kojin shouhi o mite kudasai. koyou o mite kudasai. kore wa fukyou de wa naku, tenkanki na no desu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-kudasai-11.mp3"
+   },
+   {
+    "jp": "１月からは、ドラマ「太陽の末裔」の放送も始まりますので、楽しみにしていてくださいね。",
+    "en": "The drama “Descendants of the Sun” will start airing in January, so please look forward to it.",
+    "romaji": "ichigatsu kara wa, dorama taiyou no matsuei no housou mo hajimarimasu node, tanoshimi ni shite ite kudasai ne.",
+    "audio": "https://japanesetest4you.com/audio/n5g-kudasai-12.mp3"
+   },
+   {
+    "jp": "父が建設したタワー、父が創設した企業、父が創出した何万もの雇用で、その能力を評価してください。",
+    "en": "Please judge my father’s competency by the tower he’s built, the companies he’s founded, and the tens of thousands of jobs he’s created.",
+    "romaji": "chichi ga kensetsu shita tawaa, chichi ga sousetsu shita kigyou, chichi ga soushutsu shita nanman mo no koyou de, sono nouryoku o hyouka shite kudasai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-kudasai-13.mp3"
+   },
+   {
+    "jp": "上着を脱いで、こちらに放り投げてください。",
+    "en": "Please remove your jackets and toss them over here.",
+    "romaji": "uwagi o nuide, kochira ni hourinagete kudasai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-kudasai-14.mp3"
+   },
+   {
+    "jp": "現場にいる各員は、観客の安全を確保してください！",
+    "en": "Everyone at the scene, please ensure the safety of the spectators!",
+    "romaji": "genba ni iru kakuin wa, kankyaku no anzen o kakuho shite kudasai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-kudasai-15.mp3"
+   },
+   {
+    "jp": "お願いです、外見だけを信じないでください！",
+    "en": "I beg you, please do not believe appearances!",
+    "romaji": "onegai desu, gaiken dake o shinjinaide kudasai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-kudasai-16.mp3"
+   },
+   {
+    "jp": "そのまま二人の監視を続けてください。",
+    "en": "Please continue watching those two.",
+    "romaji": "sono mama futari no kanshi o tsudzukete kudasai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-kudasai-17.mp3"
+   },
+   {
+    "jp": "わかりました、知っていることをお話します。だから落ち着いて聞いてくださいね。",
+    "en": "Okay, I’ll tell you what I know. Please calm down and listen.",
+    "romaji": "wakarimashita, shitte iru koto o ohanashi shimasu. dakara ochitsuite kiite kudasai ne.",
+    "audio": "https://japanesetest4you.com/audio/n5g-kudasai-18.mp3"
+   },
+   {
+    "jp": "父が自分の子どもたちに教え込んできた価値観で父の価値観を評価してください。",
+    "en": "Please judge my father’s values by those he’s instilled in his children.",
+    "romaji": "chichi ga jibun no kodomotachi ni oshiekonde kita kachikan de chichi no kachikan o hyouka shite kudasai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-kudasai-19.mp3"
+   },
+   {
+    "jp": "もしあなたがイスラム教徒で、アメリカと自由を愛し、テロを憎むのであれば、この国に残り、私たちの勝利を助け、共に未来を築いてください。",
+    "en": "If you’re a Muslim and you love America and freedom and you hate terror, stay here and help us win and make a future together.",
+    "romaji": "moshi anata ga isuramu kyouto de, amerika to jiyuu o ai shi, tero o nikumu no de areba, kono kuni ni nokori, watashitachi no shouri o tasuke, tomo ni mirai o kizuite kudasai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-kudasai-20.mp3"
+   },
+   {
+    "jp": "皆さんも会える日を待っていてください！",
+    "en": "Everyone, please wait until the day we can meet!",
+    "romaji": "minasan mo aeru hi o matte ite kudasai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-kudasai-21.mp3"
+   },
+   {
+    "jp": "千葉くんに会ったら、このメッセージを伝えてください。",
+    "en": "Please relay this message to Chiba when you see him.",
+    "romaji": "chibakun ni attara, kono messeeji o tsutaete kudasai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-kudasai-22.mp3"
+   },
+   {
+    "jp": "では最後に、これからの展望を聞かせてください。",
+    "en": "Finally, please tell us about your future prospects.",
+    "romaji": "dewa saigo ni, kore kara no tenbou o kikasete kudasai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-kudasai-23.mp3"
+   },
+   {
+    "jp": "ないでください (naide kudasai): please don’t",
+    "en": "お～ください (o~kudasai): please (honorific)",
+    "romaji": ""
+   }
+  ],
+  "id": "n5-g43"
+ },
+ {
+  "title": "てもいい (temo ii)",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-flashcard-7/",
+  "meaning": "",
+  "formation": "Verb-てform + もいい\nいadjective (remove い)  + くてもいい\nなadjective + でもいい\nNoun + でもいい",
+  "examples": [
+   {
+    "jp": "すきにしていい。",
+    "en": "Do what you want.",
+    "romaji": "suki ni shite ii.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-26.mp3"
+   },
+   {
+    "jp": "わたしもいっしょに行っていい？",
+    "en": "Can I come with you?",
+    "romaji": "watashi mo issho ni itte ii.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-27.mp3"
+   },
+   {
+    "jp": "もうひとつ質問をしてもいいですか？",
+    "en": "Can I ask another question?",
+    "romaji": "mou hitotsu shitsumon o shite mo ii desu ka.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-28.mp3"
+   },
+   {
+    "jp": "鍵はもっていってもいい。関係ないからな。",
+    "en": "Keep the keys, they don’t matter.",
+    "romaji": "kagi wa motte itte mo ii. kankei nai kara na.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-29.mp3"
+   },
+   {
+    "jp": "ひとつ率直に質問していいかしら？",
+    "en": "Can I just ask you something straight out?",
+    "romaji": "hitotsu socchoku ni shitsumon shite ii kashira.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-30.mp3"
+   },
+   {
+    "jp": "明日、あなたに会いに来てもいいですか？",
+    "en": "May I come to see you tomorrow?",
+    "romaji": "ashita, anata ni ai ni kite mo ii desu ka.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-31.mp3"
+   },
+   {
+    "jp": "あと二歩進んだら、目をあけてもいいぞ。",
+    "en": "Take two more steps, then open your eyes.",
+    "romaji": "ato niho susundara, me o akete mo ii zo.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-32.mp3"
+   },
+   {
+    "jp": "もうはいってきてもいいが、黙っていておくれ。",
+    "en": "You may come in now, but remain silent.",
+    "romaji": "mou haitte kite mo ii ga, damatte ite okure.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-33.mp3"
+   },
+   {
+    "jp": "ガーゼは一日か二日したらとっていい。",
+    "en": "You can take the gauze off in a day or two.",
+    "romaji": "gaaze wa ichinichi ka futsuka shitara totte ii.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-34.mp3"
+   },
+   {
+    "jp": "あなたが帰る前に、ひとつだけ頼みごとをしてもいい？",
+    "en": "Would you do something for me before you go?",
+    "romaji": "anata ga kaeru mae ni, hitotsu dake tanomigoto o shite mo ii.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-35.mp3"
+   },
+   {
+    "jp": "走ることでもいい。いなかへハイキングに出かけてもいい。",
+    "en": "You can try running or a long hike in the country.",
+    "romaji": "hashiru koto demo ii. inaka e haikingu ni dekakete mo ii.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-36.mp3"
+   },
+   {
+    "jp": "はっきり話していいぞ、きみの命を心配することなしにだ。",
+    "en": "You may speak plainly without fear for your life.",
+    "romaji": "hakkiri hanashite ii zo, kimi no inochi o shinpai suru koto nashi ni da.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-37.mp3"
+   },
+   {
+    "jp": "わたしにまかせておいて。あなたはなにもしなくてもいいの。",
+    "en": "Leave it to me. You don’t have to do anything.",
+    "romaji": "watashi ni makasete oite. anata wa nanimo shinakute mo ii no.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-38.mp3"
+   },
+   {
+    "jp": "もう行っていいよ。私もすぐ着替えをして、そちらへ行くから。",
+    "en": "You can go. I’ll dress at once and come down.",
+    "romaji": "mou itte ii yo. watashi mo sugu kigae o shite, sochira e iku kara.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-39.mp3"
+   },
+   {
+    "jp": "あの女の子の驚くべき話は、事実として受けとってもいいんだろうね？",
+    "en": "I suppose we can accept the girl’s rather extraordinary story?",
+    "romaji": "ano onna no ko no odoroku beki hanashi wa, jijitsu toshite uketotte mo iin darou ne.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-40.mp3"
+   },
+   {
+    "jp": "どうしてもというのなら、この小説はペンネームで出版してもいい。",
+    "en": "Publish this under a pseudonym, if you have to.",
+    "romaji": "dou shitemo to iu no nara, kono shousetsu wa penneemu de shuppan shite mo ii.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-41.mp3"
+   },
+   {
+    "jp": "どこかへ電話をかけるのなら、うちの電話をつかってもいいわ。",
+    "en": "If you want to call someone, you can use my phone.",
+    "romaji": "dokoka e denwa o kakeru no nara, uchi no denwa o tsukatte mo ii wa.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-42.mp3"
+   },
+   {
+    "jp": "山田先生から短い距離なら車を運転してもいいというお許しが出た。",
+    "en": "Dr. Yamada okayed me to drive short distances.",
+    "romaji": "yamada sensei kara mijikai kyori nara kuruma o unten shite mo ii to iu oyurushi ga deta.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-43.mp3"
+   },
+   {
+    "jp": "父から千円もらって好きなように使ってもいいと言われた。",
+    "en": "My father gave me 1000 yen and told me to spend as I wished.",
+    "romaji": "chichi kara sen’en moratte suki na you ni tsukatte mo ii to iwareta.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-44.mp3"
+   },
+   {
+    "jp": "それだけの値打ちがある連中には、政府内での地位をあたえてもいい。",
+    "en": "You may offer positions of authority to those who qualify.",
+    "romaji": "sore dake no neuchi ga aru renchuu ni wa, seifunai de no chii o ataete mo ii.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-45.mp3"
+   },
+   {
+    "jp": "中村先生が診察してくれたの。問題ないし、家に帰ってもいいって。",
+    "en": "Dr. Nakamura saw me, and he said I was fine and I could go home.",
+    "romaji": "nakamura sensei ga shinsatsu shite kureta no. mondai nai shi, ie ni kaette mo ii tte.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-46.mp3"
+   },
+   {
+    "jp": "田中には、帰ってもいいといおう。あとで、あの家へ寄ってみるかもしれないが。",
+    "en": "I’ll tell Tanaka that he can go. I may call round and see him at his own place later.",
+    "romaji": "tanaka ni wa, kaette mo ii to iou. ato de, ano ie e yotte miru kamoshirenai ga.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-47.mp3"
+   },
+   {
+    "jp": "チョコレートを食べてもいいですか？",
+    "en": "May I eat the chocolates?",
+    "romaji": "chokoreeto o tabete mo ii desu ka?",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-1.mp3"
+   },
+   {
+    "jp": "ここに座ってもいいかな。",
+    "en": "I wonder if I can sit here.",
+    "romaji": "koko ni suwatte mo ii kana.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-2.mp3"
+   },
+   {
+    "jp": "エアコンをつけてもいいですか？",
+    "en": "May I turn to air conditioner on?",
+    "romaji": "eakon o tsukete mo ii desu ka?",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-3.mp3"
+   },
+   {
+    "jp": "誰でもいいから恋愛したい。",
+    "en": "I want to fall in love, I don’t care with whom.",
+    "romaji": "dare demo ii kara, renai shitai.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-4.mp3"
+   },
+   {
+    "jp": "写真を取ってもいいかい？",
+    "en": "Can I take photos?",
+    "romaji": "shashin o totte mo ii kai?",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-5.mp3"
+   },
+   {
+    "jp": "水をもらってもいいですか？",
+    "en": "May I have some water?",
+    "romaji": "mizu o moratte mo ii desu ka?",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-6.mp3"
+   },
+   {
+    "jp": "ヒントをあげてもいいですよ。",
+    "en": "You can give some hints.",
+    "romaji": "hinto o agete mo ii desu yo.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-7.mp3"
+   },
+   {
+    "jp": "それじゃ、わたし、行ってもいいですか？",
+    "en": "Well then, May I go now?",
+    "romaji": "soreja, watashi, itte mo ii desuka?",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-8.mp3"
+   },
+   {
+    "jp": "この指輪がほしいから、高くてもいいよ。",
+    "en": "I want this ring, so I don’t mind if it’s expensive.",
+    "romaji": "kono yubiwa ga hoshii kara, takakute mo ii yo.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-9.mp3"
+   },
+   {
+    "jp": "部屋が狭くてもいい。",
+    "en": "I don’t mind if the room is small.",
+    "romaji": "heya ga semakute mo ii.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-10.mp3"
+   },
+   {
+    "jp": "ひとつ質問していいかしら？",
+    "en": "Mind if I ask you one question?",
+    "romaji": "hitotsu shitsumon shite ii kashira.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-11.mp3"
+   },
+   {
+    "jp": "検査が終われば家に戻っていいと先生も言ってた。",
+    "en": "The doctor said that you can go home after some tests.",
+    "romaji": "kensa ga owareba ie ni modotte ii to sensei mo itteta.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-12.mp3"
+   },
+   {
+    "jp": "道はどこまでも続いている。だけど、僕は休まずには行けないよ。もうお昼にしていい時間だ。",
+    "en": "The road goes on forever, but I can’t without a rest. It is high time for lunch.",
+    "romaji": "michi wa doko made mo tsudzuite iru. da kedo, boku wa yasumazu ni wa ikenai yo. mou ohiru ni shite ii jikan da.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-13.mp3"
+   },
+   {
+    "jp": "この創造物に対して、人間に対するときと同じように感情移入していいのだろうか？",
+    "en": "Am I supposed to relate to this creature in the way that I would relate to a human being?",
+    "romaji": "kono souzoubutsu ni taishite, ningen ni taisuru toki to onaji you ni kanjou i’nyuu shite ii no darou ka.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-14.mp3"
+   },
+   {
+    "jp": "ノゾミは右を見、左を見て、どう進んでいいか、はっきりしなくなった様子だった。",
+    "en": "Nozomi was looking from side to side, and seemed already uncertain which way to go.",
+    "romaji": "nozomi wa migo o mi, hidari o mite, dou susunde ii ka, hakkiri shinakunatta yousu datta.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-15.mp3"
+   },
+   {
+    "jp": "あなたからお電話だと伝えますので、お待ちいただいてよろしいですか？",
+    "en": "Let me tell him you’re on the line. May I put you on hold?",
+    "romaji": "anata kara odenwa da to tsutaemasu node, omachi itadaite yoroshii desu ka.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-16.mp3"
+   },
+   {
+    "jp": "あなたが必要としそうな機器はすべてそろっているから、自由に使っていい。",
+    "en": "All the equipment you could possibly need are here at your disposal.",
+    "romaji": "anata ga hitsuyou to shisou na kiki wa subete sorotte iru kara, jiyuu ni tsukatte ii.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-17.mp3"
+   },
+   {
+    "jp": "あなたは別にどこかに連絡しなくてもいいの？",
+    "en": "Isn’t there someplace you need to call?",
+    "romaji": "anata wa betsu ni dokoka ni renraku shinakute mo ii no.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-18.mp3"
+   },
+   {
+    "jp": "彼女がもう被らなくなった帽子をくれたが、どう扱っていいかわからない。",
+    "en": "She gave me an old hat that she doesn’t wear anymore, and I don’t know what to do with it.",
+    "romaji": "kanojo ga mou kaburanakunatta boushi o kureta ga, dou atsukatte ii ka wakaranai.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-19.mp3"
+   },
+   {
+    "jp": "こちらで調べてもいいし、手っ取り早くあなたが教えてくださってもいい。どちらにせよ、いまから伺います。",
+    "en": "I can look up your address myself, or you can simply give it to me. Either way, I’m coming over.",
+    "romaji": "kochira de shirabete mo ii shi, tettoribayaku anata ga oshiete kudasatte mo ii. dochira nise yo, ima kara ukagaimasu.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-20.mp3"
+   },
+   {
+    "jp": "実は、彼の行動をどう理解していいのかわからない。",
+    "en": "Actually, I don’t know what to make of his behavior.",
+    "romaji": "jitsu wa, kare no koudou o dou rikai shite ii no ka wakaranai.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-21.mp3"
+   },
+   {
+    "jp": "気にしなくていいんだ。費用はわたしが出した。",
+    "en": "Don’t worry about it. It was my own money.",
+    "romaji": "ki ni shinakute iin da. hiyou wa watashi ga dashita.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-22.mp3"
+   },
+   {
+    "jp": "家にいる限りは、自分の思いどおりのことをしていいですよ。",
+    "en": "You are allowed to do your own thing as long as you don’t leave the house.",
+    "romaji": "ie ni iru kagiri wa, jibun no omoi doori no koto o shite ii desu yo.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-23.mp3"
+   },
+   {
+    "jp": "あなたの仕事がもたらす論理的な問題について訊いてもいいかしら？",
+    "en": "Might I ask about the ethical dilemma posed by your work?",
+    "romaji": "anata no shigoto ga motarasu ronriteki na mondai ni tsuite kiite mo ii kashira.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-24.mp3"
+   },
+   {
+    "jp": "真由美さん、ひとつ提案していいかな？",
+    "en": "Mayumi, can I make a suggestion?",
+    "romaji": "mayumisan, hitotsu teian shite ii kana.",
+    "audio": "https://japanesetest4you.com/media/003/n5g-teii-25.mp3"
+   },
+   {
+    "jp": "たらいい/といい (taraii/toii): it would be nice if, should",
+    "en": "ばいい (baii): should, can, it’d be good if",
+    "romaji": ""
+   }
+  ],
+  "id": "n5-g44"
+ },
+ {
+  "title": "てから (tekara)",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-flashcard-18/",
+  "meaning": "after doing something; since",
+  "formation": "Verbてfrom + から",
+  "examples": [
+   {
+    "jp": "わたしは彼と知り合ってから数年になる。",
+    "en": "I have known him for several years.",
+    "romaji": "watashi wa kare to shiriatte kara sunen ni naru.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-19.mp3"
+   },
+   {
+    "jp": "おりてきてから、どのくらいたつのかしら。",
+    "en": "I wonder how long we’ve been down here?",
+    "romaji": "orite kite kara, dono kurai tatsu no kashira.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-20.mp3"
+   },
+   {
+    "jp": "生まれてからずっとここに住んでいます。",
+    "en": "I’ve lived here my whole life.",
+    "romaji": "umarete kara zutto koko ni sunde imasu.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-21.mp3"
+   },
+   {
+    "jp": "その件は、ここにもどってきてから心配しよう。",
+    "en": "We’ll worry about that when we come back.",
+    "romaji": "sono ken wa, koko ni modotte kite kara shinpai shiyou.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-22.mp3"
+   },
+   {
+    "jp": "よい教師は、生徒のレベルを把握してから教える。",
+    "en": "A good teacher will assess the class before teaching.",
+    "romaji": "yoi kyoushi wa, seito no reberu o haaku shite kara oshieru.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-23.mp3"
+   },
+   {
+    "jp": "ですが、私はもどってから、べつの情報をつかみました。",
+    "en": "But I found another bit of news when I got back.",
+    "romaji": "desu ga, watashi wa modotte kara, betsu no jouhou o tsukamimashita.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-24.mp3"
+   },
+   {
+    "jp": "私は、今年に入ってから三回もダイエットを繰り返している。",
+    "en": "I’ve started a new diet for the third time this year.",
+    "romaji": "watashi wa, kotoshi ni haitte kara sankai mo daietto o kurikaeshite iru.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-25.mp3"
+   },
+   {
+    "jp": "仕事が終わってから、どこへ報告にまいりましょう？",
+    "en": "Where shall I report to you when I’ve completed my chores?",
+    "romaji": "shigoto ga owatte kara, doko e houkoku ni mairimashou.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-26.mp3"
+   },
+   {
+    "jp": "私たちが結婚してからまる一年がたったら教えてあげるよ。",
+    "en": "When we have been married a year, I will tell you.",
+    "romaji": "watashitachi ga kekkon shite kara maru ichinen ga tattara oshiete ageru yo.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-27.mp3"
+   },
+   {
+    "jp": "三十分ほどしてから私は階上の自分の部屋へ戻りました。",
+    "en": "About half an hour later I went up to my room.",
+    "romaji": "sanjuppun hodo shite kara watashi wa kaijou no jibun no heya e modorimashita.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-28.mp3"
+   },
+   {
+    "jp": "わたしたちは結婚してからまだ一年そこそこにしかなりません。",
+    "en": "We had only been married a little over a year.",
+    "romaji": "Watashitachi wa kekkon shite kara mada ichinen sokosoko ni shika narimasen.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-29.mp3"
+   },
+   {
+    "jp": "読んでから、きちんともとどおりにたたんでおいたよ。",
+    "en": "After reading it, I folded it anew symmetrically.",
+    "romaji": "yonde kara, kichinto moto doori ni tatande oita yo.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-30.mp3"
+   },
+   {
+    "jp": "わたしは適度の眠り薬を一服処方してから別れました。",
+    "en": "I prescribed a mild sleeping draught and made my adieu.",
+    "romaji": "watashi wa tekido no nemurigusuri o ippuku shohou shite kara wakaremashita.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-31.mp3"
+   },
+   {
+    "jp": "結婚してから、まだそう長くはない様子でした。",
+    "en": "It seems those two had not been married very long.",
+    "romaji": "kekkon shite kara, mada sou nagaku wanai yousu deshita.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-32.mp3"
+   },
+   {
+    "jp": "しばらく間をおいてから、わたしは、彼に鈴木の伝言を伝えた。",
+    "en": "After pausing a few minutes, I gave him Suzuki’s message.",
+    "romaji": "shibaraku ma o oite kara, watashi wa, kare ni suzuki no dengon o tsutaeta.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-33.mp3"
+   },
+   {
+    "jp": "遺言をしたためてから、ベッドにもぐり込んで、臨終の時を待った。",
+    "en": "I drew up my will, and then lay back in bed to await my end.",
+    "romaji": "yuigon o shitatamete kara, beddo ni mogurikonde, rinjuu no toki o matta.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-34.mp3"
+   },
+   {
+    "jp": "森で二晩過ごしてから、人目を避けて国境を越えました。",
+    "en": "We spent two nights in the forest and sneaked past the border.",
+    "romaji": "mori de niban sugoshite kara, hitome o sakete kokkyou o koemashita.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-35.mp3"
+   },
+   {
+    "jp": "わたしは東京にもどってから、あらゆることで悩み始めました。",
+    "en": "When I returned to Tokyo, I began worrying about everything.",
+    "romaji": "watashi wa toukyou ni modotte kara, arayuru koto de nayami hajimemashita.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-36.mp3"
+   },
+   {
+    "jp": "母は家を出てから七年目に初めて手紙をよこした。",
+    "en": "My mother never even wrote me a letter until after she had been gone seven years.",
+    "romaji": "haha wa ie o dete kara nananen me ni hajimete tegami o yokoshita.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-37.mp3"
+   },
+   {
+    "jp": "バスに乗ってから、なにか起きそうな感じがした。",
+    "en": "When we started on that bus, I had a feeling that something would happen.",
+    "romaji": "basu ni notte kara, nanika okisou na kanji ga shita.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-38.mp3"
+   },
+   {
+    "jp": "私は毎朝五セットも六セットもテニスをしてから風呂に入った。",
+    "en": "I played five or six sets of games of tennis every morning then took a bath.",
+    "romaji": "watashi wa maiasa go setto mo roku setto mo tenisu o shite kara furo ni haitta.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-39.mp3"
+   },
+   {
+    "jp": "彼は一二分そこにいて、笑って雑談してから、出て行きました。",
+    "en": "He stayed a minute or two, laughing and talking, and then went out.",
+    "romaji": "kare wa ichi nifun soko ni ite, waratte zatsudan shite kara, dete ikimashita.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-40.mp3"
+   },
+   {
+    "jp": "前にお目にかかってから、今日でちょうど三週間になります。",
+    "en": "It has been exactly three weeks since we last met.",
+    "romaji": "mae ni ome ni kakatte kara, kyou de choudo san shuukan ni narimasu.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-41.mp3"
+   },
+   {
+    "jp": "もう一つのニュースを聞いてからずっと自分を責めつけているのだ。",
+    "en": "I have been blaming myself ever since I heard this other news.",
+    "romaji": "mou hitotsu no nyuusu o kiite kara zutto jibun o semetsukete iru no da.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-42.mp3"
+   },
+   {
+    "jp": "わたしたちの努力は、その日の午後おそくなってから始めてむくいられました。",
+    "en": "It was not until late that afternoon that our efforts were rewarded.",
+    "romaji": "watashitachi no doryoku wa, sono hi no gogo osoku natte kara hajimete mukuiraremashita.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-43.mp3"
+   },
+   {
+    "jp": "これはこれは、あなたにお眼にかかってから、もうずいぶん経ちますな。",
+    "en": "You know, it is really ages since I last saw you.",
+    "romaji": "kore wa kore wa, anata ni ome ni kakatte kara, mou zuibun tachimasu na.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-44.mp3"
+   },
+   {
+    "jp": "ふたりはしばらくその場に立って乗客がバスに乗り込むさまをながめてから、車で去っていった。",
+    "en": "They stood there for awhile, watching passengers board, then drove off.",
+    "romaji": "futari wa shibaraku sono ba ni tatte joukyaku ga basu ni norikomu sama o nagamete kara, kuruma de satte itta.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-45.mp3"
+   },
+   {
+    "jp": "彼女はふたりの顔を見くらべてから、鍵をとりだしてドアを開けた。",
+    "en": "She looked from one to the other of the two men, then produced a key and opened the door.",
+    "romaji": "kanojo wa futari no kao o mikurabete kara, kagi o toridashite doa o aketa.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-46.mp3"
+   },
+   {
+    "jp": "お医者さんを呼びにやったけど、着いてから二、三分後には加藤が死んでしまった。",
+    "en": "The doctor had been sent for, but Kato had died a few minutes after the doctor’s arrival.",
+    "romaji": "oishasan o yobi ni yatta kedo, tsuite kara ni, sanpun go ni wa katou ga shinde shimatta.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-47.mp3"
+   },
+   {
+    "jp": "ブラウン夫人は、ひどく喜んで僕らを迎えてくれた。そして、夫の書斎に案内してから、夫と僕らを残して退出した。",
+    "en": "Mrs. Brown welcomed us enthusiastically. Then she took us to her husband’s study and left us with him.",
+    "romaji": "buraun fujin wa, hidoku yorokonde bokura o mukaete kureta. soshite, otto no shosai ni annai shite kara, otto to bokura o nokoshite taishutsu shita.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-48.mp3"
+   },
+   {
+    "jp": "私は、チェックインしてから、この時間にもルームサービスをしているかどうかを尋ねた。",
+    "en": "I checked in, and asked if room service were available at this hour.",
+    "romaji": "watashi wa, chekkuin shite kara, kono jikan ni mo ruumu saabisu o shite iru ka dou ka o tazuneta.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-49.mp3"
+   },
+   {
+    "jp": "君は結婚してから、ずいぶんいろいろの点で変わったね、いいほうへさ。",
+    "en": "You have changed in many respects since your marriage, and for the better.",
+    "romaji": "kimi wa kekkon shite kara, zuibun iroiro no ten de kawatta ne, ii hou e sa.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-50.mp3"
+   },
+   {
+    "jp": "編集室へ帰ってから、経済がいかによく機能しているかを万年筆で書く。",
+    "en": "Back in the newsroom, I write my stories in fountain pen about how well the economy is doing.",
+    "romaji": "henshuushitsu e kaette kara, keizai ga ikani yoku kinou shite iru ka o man’nenhitsu de kaku.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-51.mp3"
+   },
+   {
+    "jp": "ラーメン屋に通いだしてから五年か六年になり、松田さんともずいぶん会話をかわしてきた。",
+    "en": "I’d had a lot of conversations with Matsuda in the five or six years I’d been going to the ramen restaurant.",
+    "romaji": "raamen’ya ni kayoidashite kara go’nen ka roku’nen ni nari, matsuda-san tomo zuibun kaiwa o kawashite kita.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-52.mp3"
+   },
+   {
+    "jp": "列車に乗り込むときに、父が一通の手紙を私に手渡して、大阪についてから開けるようにと申しました。",
+    "en": "As I stepped on the train, my father handed me a letter and told me not to open it until I reached Osaka.",
+    "romaji": "ressha ni norikomu toki ni, chichi ga ittsuu no tegami o watashi ni tewatashite, oosaka ni tsuite kara akeru you ni to moushimashita.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-53.mp3"
+   },
+   {
+    "jp": "宿題をしてからテレビを見ました。",
+    "en": "I watched TV after doing my homework.",
+    "romaji": "shukudai o shite kara terebi o mimashita.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-1.mp3"
+   },
+   {
+    "jp": "日本に来てからずっと仕事を探しています。",
+    "en": "I’ve been looking for a job ever since I came to Japan.",
+    "romaji": "nihon ni kite kara zutto shigoto o sagashite imasu.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-2.mp3"
+   },
+   {
+    "jp": "私の話を聞いてから、アドバイスお願いします。",
+    "en": "After listening to my story, please give me some advice.",
+    "romaji": "watashi no hanashi o kiite kara, adobaisu onegaishimasu.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-3.mp3"
+   },
+   {
+    "jp": "彼は親と離れてから独立になりました。",
+    "en": "He became independent after leaving his parents.",
+    "romaji": "kare wa oya to hanarete kara dokuritsu ni narimashita.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-4.mp3"
+   },
+   {
+    "jp": "学校が終わってから家に帰りなさい。",
+    "en": "Return home after school’s over.",
+    "romaji": "gakkou ga owatte kara ie ni kaerinasai.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-5.mp3"
+   },
+   {
+    "jp": "ご飯を食べてから部屋を掃除してください。",
+    "en": "After eating, please clean your room.",
+    "romaji": "gohan o tabete kara heya o souji shite kudasai.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-6.mp3"
+   },
+   {
+    "jp": "彼女はここに来てからずっと寝ている。",
+    "en": "She’s been sleeping ever since she got here.",
+    "romaji": "kanojo wa koko ni kite kara zutto nete iru.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-7.mp3"
+   },
+   {
+    "jp": "休暇が始まってから帰国しました。",
+    "en": "I returned to my country after the holiday started.",
+    "romaji": "kyuuka ga hajimatte kara kikoku shimashita.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-8.mp3"
+   },
+   {
+    "jp": "看護婦が退出してからすでに十分ほどたっていた。",
+    "en": "Ten minutes had elapsed since the nurse had left.",
+    "romaji": "kangofu ga taishutsu shite kara sude ni juppun hodo tatte ita.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-9.mp3"
+   },
+   {
+    "jp": "このクラブを出てから兄は行方不明になったんだ！",
+    "en": "It was on leaving this club that my brother disappeared.",
+    "romaji": "kono kurabu o dete kara ani wa yukuefumei ni nattan da.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-10.mp3"
+   },
+   {
+    "jp": "私は腹がぺこぺこなんだ。夜があけてからずっと、歩きどおしなんだ。",
+    "en": "I am dying of hunger. I have been walking since sunrise.",
+    "romaji": "watashi wa hara ga pekopeko nan da. yoru ga akete kara zutto, arukidooshi nan da.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-11.mp3"
+   },
+   {
+    "jp": "私たちは若さを失ってからでないと、そのありがたみがわからない。",
+    "en": "We can’t appreciate our youth until it’s gone.",
+    "romaji": "watashitachi wa wakasa o ushinatte kara denai to, sono arigatami ga wakaranai.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-12.mp3"
+   },
+   {
+    "jp": "ひょっとしたら、子どもの頃にそういう活動をしていない大人たちがみんな、大きくなってから、そういうことをやりたがるのかも。",
+    "en": "Perhaps all the adults that aren’t doing these activities when they’re children want to do them when they’re grown up.",
+    "romaji": "hyotto shitara, kodomo no koro ni sou iu katsudou o shite inai otonatachi ga minna, ookiku natte kara, sou iu koto o yaritagaru no kamo.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-13.mp3"
+   },
+   {
+    "jp": "彼は、会社を辞めてからは家で母親から小言を聞かされ、一人暮らしをするようになった。",
+    "en": "After he quit his job, his mother kept scolding him at home so he decided to live alone.",
+    "romaji": "kare wa, kaisha o yamete kara wa ie de hahaoya kara kogoto o kikasare, hitorigurashi o suru you ni natta.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-14.mp3"
+   },
+   {
+    "jp": "父は日本のこと、１９４５に戦争が終わってから何が起こったのか、何が起きているのかを、世界に知らせようと努めました。",
+    "en": "My father tried to let the world know about Japan, about what happaned and what’s happening ever since the war ended in 1945.",
+    "romaji": "chichi wa nihon no koto, sen kyuuhyaku yonjuu go ni sensou ga owatte kara nani ga okotta no ka, nani ga okite iru no ka o, sekai ni shiraseyou to tsutomemashita.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-15.mp3"
+   },
+   {
+    "jp": "アイドルから女優に転向してから、ずっと彼女の作品を見ていました。",
+    "en": "I’ve been watching her work ever since she turned from an idol into an actress.",
+    "romaji": "aidoru kara joyuu ni tenkou shite kara, zutto kanojo no sakuhin o mite imashita.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-16.mp3"
+   },
+   {
+    "jp": "ヒラリーは、私たちみんなを１つにまとめ、より強くしてくれます。それはおわかりでしょう。彼女はこれまでずっと、そうしてきたからです。",
+    "en": "Hillary will make us stronger together. You know it because she’s spent a lifetime doing it.",
+    "romaji": "hirarii wa, watashitachi minna o hitotsu ni matome, yori tsuyoku shite kuremasu. sore wa owakari deshou. kanojo wa kore made zutto, sou shite kita kara desu.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-17.mp3"
+   },
+   {
+    "jp": "先生の授業を受けてから日本語が好きになりました。",
+    "en": "I came to like Japanese after taking your lesson.",
+    "romaji": "sensei no jugyou o ukete kara nihongo ga suki ni narimashita.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-tekara-18.mp3"
+   },
+   {
+    "jp": "後で (ato de): after, later",
+    "en": "たら (tara): if, after, when",
+    "romaji": "て以来 (te irai): since 上で (ue de): after, when"
+   }
+  ],
+  "id": "n5-g45"
+ },
+ {
+  "title": "てはいけない (tewaikenai)",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-flashcard-10/",
+  "meaning": "may not, must not, cannot",
+  "formation": "Verb-てform + はいけない/ちゃいけない/はだめ/ちゃだめ",
+  "examples": [
+   {
+    "jp": "そんなことを望んではいけないわ。",
+    "en": "I must suppress such longings.",
+    "romaji": "sonna koto o nozonde wa ikenai wa.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tewaikenai-22.mp3"
+   },
+   {
+    "jp": "わたしたちは離れてはいけないのよ。",
+    "en": "We must not be parted.",
+    "romaji": "watashitachi wa hanarete wa ikenai no yo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tewaikenai-23.mp3"
+   },
+   {
+    "jp": "しかし、あきらめてはいけないよ。",
+    "en": "But don’t give up hope.",
+    "romaji": "shikashi, akiramete wa ikenai yo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tewaikenai-24.mp3"
+   },
+   {
+    "jp": "証拠になるものを残してはいけないよ。",
+    "en": "Don’t leave any tracks behind you.",
+    "romaji": "shouko ni naru mono o nokoshite wa ikenai yo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tewaikenai-25.mp3"
+   },
+   {
+    "jp": "しかし、患者を興奮させてはいけません。",
+    "en": "But we must not excite the patient.",
+    "romaji": "shikashi, kanja o koufun sasete wa ikemasen.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tewaikenai-26.mp3"
+   },
+   {
+    "jp": "きみはここにいちゃいけないんだぞ！",
+    "en": "You’re not supposed to be here!",
+    "romaji": "kimi wa koko ni icha ikenain da zo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tewaikenai-27.mp3"
+   },
+   {
+    "jp": "きみは、勝っちゃいけない賭けに勝ったんだ。",
+    "en": "You won bets you weren’t supposed to win.",
+    "romaji": "kimi wa, kaccha ikenai kake ni kattan da.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tewaikenai-28.mp3"
+   },
+   {
+    "jp": "恐れてはいけない。恐怖は心を殺すもの。",
+    "en": "I must not fear. Fear is the mind-killer.",
+    "romaji": "osorete wa ikenai. kyoufu wa kokoro o korosu mono.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tewaikenai-29.mp3"
+   },
+   {
+    "jp": "あなたの反応が、芝居であってはいけない。",
+    "en": "Your response must not be an act.",
+    "romaji": "anata no hannou ga, shibai de atte wa ikenai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tewaikenai-30.mp3"
+   },
+   {
+    "jp": "ここでは慈悲など何ひとつ見せてはいけない。",
+    "en": "You must show no mercy here.",
+    "romaji": "koko dewa jihi nado nani hitotsu misete wa ikenai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tewaikenai-31.mp3"
+   },
+   {
+    "jp": "こんなところでこんなことを考えていてはいけない。",
+    "en": "I should not be thinking such thoughts at a time like this.",
+    "romaji": "konna tokoro de konna koto o kangaete ite wa ikenai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tewaikenai-32.mp3"
+   },
+   {
+    "jp": "きみを連れてはいけないよ。あまりにも危険だから。",
+    "en": "You can’t come with me. It’s too dangerous.",
+    "romaji": "kimi o tsurete wa ikenai yo. amari ni mo kiken dakara.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tewaikenai-33.mp3"
+   },
+   {
+    "jp": "頭をからっぽにするのよ。なにかを思い出そうとしてはだめ。",
+    "en": "Clear your mind. Don’t try to remember anything.",
+    "romaji": "atama o karappo ni suru no yo. nanika o omoidasou to shite wa dame.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tewaikenai-34.mp3"
+   },
+   {
+    "jp": "気を落としてはいけないよ。あなたを救い出してみせるよ。",
+    "en": "Don’t you lose heart. I’ll get you out of this.",
+    "romaji": "ki o otoshite wa ikenai yo. anata o sukuidashite miseru yo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tewaikenai-35.mp3"
+   },
+   {
+    "jp": "あなたはこのことを、ひとことなりと口にしてはいけませんよ。",
+    "en": "You must not breathe a word of this.",
+    "romaji": "anata wa kono koto o, hitokoto nari to kuchi ni shite wa ikemasen yo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tewaikenai-36.mp3"
+   },
+   {
+    "jp": "どんなことが起こっても、決してそれを忘れてはいけないよ。",
+    "en": "No matter what happens, never forget that!",
+    "romaji": "donna koto ga okotte mo, kesshite sore o wasurete wa ikenai yo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tewaikenai-37.mp3"
+   },
+   {
+    "jp": "わたしたち、眠ってはいけないわ。朝まで警戒をつづけなければ。",
+    "en": "We must not sleep. We must stay on guard till morning.",
+    "romaji": "watashitachi, nemutte wa ikenai wa. asa made keikai o tsuzukenakereba.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tewaikenai-38.mp3"
+   },
+   {
+    "jp": "わたしのためにあなたの命までを失っちゃいけないわ。",
+    "en": "You shall not lose your life because of me.",
+    "romaji": "watashi no tame ni anata no inochi made o ushinaccha ikenai wa.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tewaikenai-39.mp3"
+   },
+   {
+    "jp": "どんな人物でも、疑う余地がないと決めてしまってはいけない。",
+    "en": "Never say to yourself that anyone is above suspicion.",
+    "romaji": "donna jinbutsu demo, utagau yochi ga nai to kimete shimatte wa ikenai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tewaikenai-40.mp3"
+   },
+   {
+    "jp": "こんな些細なほめ言葉に感激していてはいけない。",
+    "en": "Do not be overpowered by such a little tribute of admiration.",
+    "romaji": "konna sasai na homekotoba ni kangeki shite ite wa ikenai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tewaikenai-41.mp3"
+   },
+   {
+    "jp": "自分の輝かしい知性を基準にして他人を判断してはいけない！",
+    "en": "You mustn’t judge everybody else by the light of your shining intellect!",
+    "romaji": "jibun no kagayakashii chisei o kijun ni shite tanin o handan shite wa ikenai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tewaikenai-42.mp3"
+   },
+   {
+    "jp": "この件では、ぜったいに彼女の思いどおりにさせちゃいけない。",
+    "en": "You can’t let her have her way on this one.",
+    "romaji": "kono ken dewa, zettai ni kanojo no omoi doori ni sasecha ikenai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tewaikenai-43.mp3"
+   },
+   {
+    "jp": "筋肉が緊張すれば、筋肉が働いているということを忘れてはいけません。",
+    "en": "Remember that a tense muscle is a working muscle.",
+    "romaji": "kinniku ga kinchou sureba, kinniku ga hataraite iru to iu koto o wasurete wa ikemasen.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tewaikenai-44.mp3"
+   },
+   {
+    "jp": "ぜったいに必要だというのではないかぎり、傷つく人をひとりでも出してはだめ。",
+    "en": "No one gets hurt unless it’s absolutely necessary.",
+    "romaji": "zettai ni hitsuyou da to iu no dewa nai kagiri, kizutsuku hito o hitori demo dashite wa dame.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tewaikenai-45.mp3"
+   },
+   {
+    "jp": "その件については、警察や取材記者にはひとことも話してはいけませんよ。",
+    "en": "Not a word about any of that to the police or the reporters.",
+    "romaji": "sono ken ni tsuite wa, keisatsu ya shuzai kisha ni wa hitokoto mo hanashite wa ikemasen yo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tewaikenai-46.mp3"
+   },
+   {
+    "jp": "一つだけ言っておきたいことがある。それは酔っぱらってはいけないってことだ。",
+    "en": "What I want to say is, don’t you ever get drunk.",
+    "romaji": "hitotsu dake itte okitai koto ga aru. sore wa yopparatte wa ikenai tte koto da.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tewaikenai-47.mp3"
+   },
+   {
+    "jp": "自分の知っていることを全部話しちゃだめですよ――ひじょうに親しい人間にでも話しちゃだめです。",
+    "en": "Never tell all you know—not even to the person you know best.",
+    "romaji": "jibun no shitte iru koto o zenbu hanashicha dame desu yo. hijou ni shitashii ningen ni demo hanashicha dame desu.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tewaikenai-48.mp3"
+   },
+   {
+    "jp": "自分の心の中で正しいと思っているのなら、他人の言うことなんか気にしてはだめよ。",
+    "en": "Never be bothered by what people say, as long as you know in your heart you are right.",
+    "romaji": "jibun no kokoro no naka de tadashii to omotte iru no nara, tanin no iu koto nanka ki ni shite wa dame yo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tewaikenai-49.mp3"
+   },
+   {
+    "jp": "どんな人でもその人生で何かしら困難を経験していることを、忘れてはいけません。",
+    "en": "Remember that every single person has gone through some challenge in their lives.",
+    "romaji": "donna hito demo sono jinsei de nani kashira konnan o keiken shite iru koto o, wasurete wa ikemasen.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tewaikenai-50.mp3"
+   },
+   {
+    "jp": "「英語を話せるようになること」がゴールであってはいけません。「その目的を達成するために必要な道具」が英語なのだと思ってほしいです。",
+    "en": "Just “being able to speak English” shouldn’t be the goal. To achieve your goal you need to think of English as a tool.",
+    "romaji": "eigo o hanaseru you ni naru koto ga gooru de atte wa ikemasen. sono mokuteki o tassei suru tame ni hitsuyou na dougu ga eigo na no da to omotte hoshii desu.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tewaikenai-51.mp3"
+   },
+   {
+    "jp": "図書館では大きい声を出してはいけません。",
+    "en": "You must not speak too loud in the library.",
+    "romaji": "toshokan de wa ookii koe o dashite wa ikemasen.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-tewaikenai-1.mp3"
+   },
+   {
+    "jp": "うそをついてはいけない。",
+    "en": "You must not tell lies.",
+    "romaji": "uso o tsuite wa ikenai.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-tewaikenai-2.mp3"
+   },
+   {
+    "jp": "道でタバコを吸ってはいけません。",
+    "en": "You must not smoke on the street.",
+    "romaji": "michi de tabako o sutte wa ikemasen.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-tewaikenai-3.mp3"
+   },
+   {
+    "jp": "授業中は携帯電話を使ってはいけない。",
+    "en": "You may not use cell phones during class.",
+    "romaji": "jugyouchuu keitaidenwa o tsukatte wa ikenai.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-tewaikenai-4.mp3"
+   },
+   {
+    "jp": "高望みしてはいけない。",
+    "en": "You must not aim too high.",
+    "romaji": "takanozomi shite wa ikenai.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-tewaikenai-5.mp3"
+   },
+   {
+    "jp": "お客さんに失礼してはいけない。",
+    "en": "You cannot be rude to the customers.",
+    "romaji": "okyakusan ni shitsurei shite wa ikenai.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-tewaikenai-6.mp3"
+   },
+   {
+    "jp": "両親のお金を盗んではいけない。",
+    "en": "You must not steal your parents’ money.",
+    "romaji": "ryoushin no okane o nusunde wa ikenai.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-tewaikenai-7.mp3"
+   },
+   {
+    "jp": "廊下を走ってはいけない。先生に叱られるよ。",
+    "en": "You must not run in the hallway. You will be scolded by the teachers.",
+    "romaji": "rouka o hashitte wa ikenai. sensei ni shikarareru yo.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-tewaikenai-8.mp3"
+   },
+   {
+    "jp": "今日テストがあるから、遅刻してはいけない。",
+    "en": "Since there’s a test today, you can’t be late.",
+    "romaji": "kyou tesuto ga aru kara, chikoku shite wa ikenai.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-tewaikenai-9.mp3"
+   },
+   {
+    "jp": "あの男には逆らってはいけないと思う。",
+    "en": "I think we should not oppose that man.",
+    "romaji": "ano otoko niwa sakaratte wa ikenai to omou.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-tewaikenai-10.mp3"
+   },
+   {
+    "jp": "これを飲んでしまったら、今夜はもうなにも飲んではいけない。",
+    "en": "Take nothing more tonight after you drink this.",
+    "romaji": "kore o nonde shimattara, kon’ya wa mou nanimo nonde wa ikenai.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-tewaikenai-11.mp3"
+   },
+   {
+    "jp": "未知の経験の機会は逃しちゃいけないよ。心が豊かになる。",
+    "en": "Never pass up new experiences. They enrich the mind.",
+    "romaji": "michi no keiken no kikai wa nogashicha ikenai yo. kokoro ga yutaka ni naru.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-tewaikenai-12.mp3"
+   },
+   {
+    "jp": "事実をすべて知らないならば、人の判断に疑問をはさんではいけない。",
+    "en": "Don’t question a person’s judgement unless you know all the facts.",
+    "romaji": "jijitsu o subete shiranai naraba, hito no handan ni gimon o hasande wa ikenai.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-tewaikenai-13.mp3"
+   },
+   {
+    "jp": "ここスコットランドでは、政治の状況はイギリスのほかの地域とはまったく違いことも、忘れてはいけません。",
+    "en": "Let’s not forget, too, that up here in Scotland, the political scene is completely different from the rest of the UK.",
+    "romaji": "koko sukottorando de wa, seiji no joukyou wa igirisu no hoka no chiiki to wa mattaku chigai koto mo, wasurete wa ikemasen.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-tewaikenai-14.mp3"
+   },
+   {
+    "jp": "僕はできるかぎり少ないチップで作ろうとした。そのほうがやりがいがあるし、会社の人にあまり迷惑をかけてもいけないと思ったからだ。",
+    "en": "I decided to use as few chips as possible, both as a personal challenge and because I did not want to cause my colleagues too much trouble.",
+    "romaji": "boku wa dekiru kagiri sukunai chippu de tsukurou to shita. sono hou ga yarigai ga aru shi, kaisha no hito ni amari meiwaku o kakete mo ikenai to omotta kara da. ***迷惑をかける (meiwaku o kakeru): to cause trouble for someone",
+    "audio": "https://japanesetest4you.com/audio2/n5g-tewaikenai-15.mp3"
+   },
+   {
+    "jp": "そんなこと、わたしに話してはだめですよ！気は確かですか。",
+    "en": "You must not tell me these things! You are not yourself.",
+    "romaji": "sonna koto, watashi ni hanashite wa dame desu yo. ki wa tashika desu ka.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-tewaikenai-16.mp3"
+   },
+   {
+    "jp": "動いてはだめ。興奮するのもだめ。おとなしく横になって休んでいてください。",
+    "en": "No movement. No excitement. Just lie still and rest.",
+    "romaji": "ugoite wa dame. koufun suru no mo dame. otonashiku yoko ni natte yasunde ite kudasai. ***横になる (yoko ni naru): to lie down",
+    "audio": "https://japanesetest4you.com/audio2/n5g-tewaikenai-17.mp3"
+   },
+   {
+    "jp": "一セントでも粗末にしてはいけないことを母から学んだ。",
+    "en": "I learned from my mother that every penny counts.",
+    "romaji": "issento demo somatsu ni shite wa ikenai koto o haha kara mananda. ***粗末にする (somatsu ni suru): to waste, to treat shabbily",
+    "audio": "https://japanesetest4you.com/audio2/n5g-tewaikenai-18.mp3"
+   },
+   {
+    "jp": "土地に金を出しすぎてはいけません。",
+    "en": "Do not pay too much for land.",
+    "romaji": "tochi ni kane o dashisugite wa ikemasen.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-tewaikenai-19.mp3"
+   },
+   {
+    "jp": "寮の中で酒を飲んではいけません。",
+    "en": "Drinking in the dorm is against the rules.",
+    "romaji": "ryou no naka de sake o nonde wa ikemasen.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-tewaikenai-20.mp3"
+   },
+   {
+    "jp": "眠くなったら、あんなところにすわっちゃだめですよ。",
+    "en": "You shouldn’t sit in such a place if you feel sleepy.",
+    "romaji": "nemukunattara, anna tokoro ni suwaccha dame desu yo.",
+    "audio": "https://japanesetest4you.com/audio2/n5g-tewaikenai-21.mp3"
+   },
+   {
+    "jp": "てはならない (tewa naranai): must not, cannot",
+    "en": "べきではない (beki dewa nai): must not, should not",
+    "romaji": "わけにはいかない (wake niwa ikanai): cannot afford to"
+   }
+  ],
+  "id": "n5-g46"
+ },
+ {
+  "title": "と (to)",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-25/",
+  "meaning": "and, with",
+  "formation": "Noun + と + Noun",
+  "examples": [
+   {
+    "jp": "きみと会うのが楽しみだよ。",
+    "en": "I look forward to seeing you.",
+    "romaji": "kimi to au no ga tanoshimi da yo.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-to1-15.mp3"
+   },
+   {
+    "jp": "友だちと別れるのが悲しいこと。",
+    "en": "Parting with friends is a sadness.",
+    "romaji": "tomodachi to wakareru no ga kanashii koto.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-to1-16.mp3"
+   },
+   {
+    "jp": "私の人生と、私の名誉を救ってくれ。",
+    "en": "Spare my life, my honor!",
+    "romaji": "watashi no jinsei to, watashi no meiyo o sukutte kure.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-to1-17.mp3"
+   },
+   {
+    "jp": "友人とわたしが見込み違いをしたんです。",
+    "en": "My friend and I were wrong.",
+    "romaji": "yuujin to watashi ga mikomi chigai o shitan desu.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-to1-18.mp3"
+   },
+   {
+    "jp": "あなたは幸福と健康とで輝いているのね。",
+    "en": "You are radiant with health and happiness!",
+    "romaji": "anata wa koufuku to kenkou to de kagayaite iru no ne.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-to1-19.mp3"
+   },
+   {
+    "jp": "彼女は転んで膝と手首にけがをした。",
+    "en": "She had fallen down and cut her knees and hurt her wrist.",
+    "romaji": "kanojo wa koronde hiza to tekubi ni kega o shita.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-to1-20.mp3"
+   },
+   {
+    "jp": "わたしは新聞と牛乳の配達を依頼した。",
+    "en": "I arranged for newspaper and milk delivery.",
+    "romaji": "watashi wa shinbun to gyuunyuu no haitatsu o irai shita.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-to1-21.mp3"
+   },
+   {
+    "jp": "兄弟とわたしは、実を言うと、一年中働きます。",
+    "en": "My siblings and I actually work all year round.",
+    "romaji": "kyoudai to watashi wa, jitsu o iu to, ichinenjuu hatarakimasu.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-to1-22.mp3"
+   },
+   {
+    "jp": "彼は、病院の看護婦の服を着た女と話していた。",
+    "en": "He was talking to a woman dressed as a hospital nurse.",
+    "romaji": "kare wa, byouin no kangofu no fuku o kita onna to hanashite ita.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-to1-23.mp3"
+   },
+   {
+    "jp": "写真と本人とはずいぶん違っていることがよくあります。",
+    "en": "There’s often a lot of difference between a photograph and its original.",
+    "romaji": "shashin to honnin to wa zuibun chigatte iru koto ga yoku arimasu.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-to1-24.mp3"
+   },
+   {
+    "jp": "あなたと話をするのを、とても楽しみにしていたのよ。",
+    "en": "I’ve been longing to talk to you.",
+    "romaji": "anata to hanashi o suru no, totemo tanoshimi ni shite ita no yo.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-to1-25.mp3"
+   },
+   {
+    "jp": "彼女のドレスは黒色で、さりげない青と緑の模様がついていた。",
+    "en": "Her dress was black with a subtle blue-and-green pattern.",
+    "romaji": "kanojo no doresu wa kokushoku de, sarigenai ao to midori no moyou ga tsuite ita.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-to1-26.mp3"
+   },
+   {
+    "jp": "わたしの母さんと父さんは、わたしよりももっと保守的です。",
+    "en": "My mom and dad are more conservative than I am.",
+    "romaji": "watashi no kaasan to tousan wa, watashi yori mo motto hoshuteki desu.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-to1-27.mp3"
+   },
+   {
+    "jp": "そういうことがあるとわたしはがっかりすることが多い。",
+    "en": "I find I’m often disappointed when that happens.",
+    "romaji": "sou iu koto ga aru to watashi wa gakkari suru koto ga ooi.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-to1-28.mp3"
+   },
+   {
+    "jp": "このニュース番組の形式は、短いリポートと長いインタビューだ。",
+    "en": "The format of this news show is short reports and long interviews.",
+    "romaji": "kono nyuusu bangumi no keishiki wa, mijikai ripooto to nagai intabyuu da.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-to1-29.mp3"
+   },
+   {
+    "jp": "わたしには、霊界は現世とまったく同じように実在しているのです。",
+    "en": "To me, the spirit world is quite as real as this one.",
+    "romaji": "watashi ni wa, reikai wa gense to mattaku onaji you ni jitsuzai shite iru no desu.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-to1-30.mp3"
+   },
+   {
+    "jp": "人間は過労が原因で死にはしない。浪費と悩みが原因で死ぬのだ。",
+    "en": "Men do not die from overwork. They die from dissipation and worry.",
+    "romaji": "ningen wa karou ga gen’in de shini wa shinai. rouhi to nayami ga gen’in de shinu no da.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-to1-31.mp3"
+   },
+   {
+    "jp": "食器棚には、皿と、ソーダ水のサイホン、それにビールが二本載っている。",
+    "en": "On the cupboard was a plate, a soda water siphon, and two bottles of beer.",
+    "romaji": "shokkidana ni wa, sara to, sooda sui no saihon, sore ni biiru ga nihon notte iru.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-to1-32.mp3"
+   },
+   {
+    "jp": "他人に善を行うのは義務ではない、歓喜である。それは行う者の健康と幸福とを増進する。",
+    "en": "Doing good to others is not a duty. It is a joy, for it increases your own health and happiness.",
+    "romaji": "ta’nin ni zen o okonau no wa gimu dewa nai, kanki de aru. sore wa okonau mono no kenkou to koufuku to o zoushin suru.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-to1-33.mp3"
+   },
+   {
+    "jp": "ママ、お菓子とミルクを買ってくれる？",
+    "en": "Mom, can you buy me candies and milk?",
+    "romaji": "mama, okashi to miruku o katte kureru.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-to1-1.mp3"
+   },
+   {
+    "jp": "漫画と小説を読みます。",
+    "en": "I read comic books and novels.",
+    "romaji": "manga to shousetsu o yomimasu.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-to1-2.mp3"
+   },
+   {
+    "jp": "中国語と韓国語を勉強しています。",
+    "en": "I’m studying Chinese and Korean.",
+    "romaji": "chuugokugo to kankokugo o benkyou shite imasu.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-to1-3.mp3"
+   },
+   {
+    "jp": "犬と猫が好きです。",
+    "en": "I like dogs and cats.",
+    "romaji": "inu to neko ga suki desu.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-to1-4.mp3"
+   },
+   {
+    "jp": "コーヒーと紅茶がございますが、どちらになさいますか？",
+    "en": "We have coffee and black tea, which one would you like?",
+    "romaji": "koohii to koucha ga gozaimasu ga, dochira ni nasaimasu ka.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-to1-5.mp3"
+   },
+   {
+    "jp": "サトシには四つ下の弟と六つ下の妹がいる。",
+    "en": "Satoshi has a brother, four years younger than him, and a sister, six years younger.",
+    "romaji": "satoshi ni wa yotsu shita no otouto to mutsu shita no imouto ga iru.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-to1-6.mp3"
+   },
+   {
+    "jp": "若い二人は目と目を見交わした。",
+    "en": "The two young persons exchanged looks.",
+    "romaji": "wakai futari wa me to me o mikawashita.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-to1-7.mp3"
+   },
+   {
+    "jp": "言語が主な問題なのではありません。主な問題は、日本のあなた方が、一緒に育った人たちと働くことに慣れていることです。",
+    "en": "The language isn’t the main problem. The main problem is that you in Japan are used to work with people with whom you’ve grown up.",
+    "romaji": "gengo ga omona mondai na no dewa arimasen. omona mondai wa, nihon no anatagata ga, issho ni sodatta hitotachi to hataraku koto ni narete iru koto desu.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-to1-8.mp3"
+   },
+   {
+    "jp": "あなたはお母さんと同じ目をしている。",
+    "en": "You have your mother’s eyes.",
+    "romaji": "anata wa okaasan to onaji me o shite iru.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-to1-9.mp3"
+   },
+   {
+    "jp": "私は化学と自然科学を徹底的に研究しました。",
+    "en": "I have studied chemistry and the natural sciences somewhat deeply.",
+    "romaji": "watashi wa kagaku to shizen kagaku o tetteiteki ni kenkyuu shimashita.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-to1-10.mp3"
+   },
+   {
+    "jp": "フランクとジャックは小声でなにか言い交わしていた。",
+    "en": "Frank and Jack exchanged some words in a whisper.",
+    "romaji": "furanku to jakku wa kogoe de nanika iikawashite ita.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-to1-11.mp3"
+   },
+   {
+    "jp": "あなたは現在兄とどういう関わりがあるの？",
+    "en": "What’s your current relationship with my brother?",
+    "romaji": "anata wa genzai ani to dou iu kakawari ga aru no.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-to1-12.mp3"
+   },
+   {
+    "jp": "日本では最近、１８歳と１９歳の人たちが初めて国政選挙で投票する機会がありました。",
+    "en": "Recently Japanese 18 and 19 year olds had their first change to vote in a national election.",
+    "romaji": "nihon dewa saikin, juuhassai to juukyuusai no hitotachi ga hajimete kokusei senkyo de touhyou suru kikai ga arimashita.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-to1-13.mp3"
+   },
+   {
+    "jp": "イングランドでは毎年９月になると、ほとんど全ての小学校と中学校が、夜、大人が学ぶクラスを開くの。",
+    "en": "In England, every September, nearly every elementary school and secondary school opens in the evening for adult education classes.",
+    "romaji": "ingurando dewa maitoshi kyuugatsu ni naru to, hotondo subete no shougakkou to chuugakkou ga, yoru, otona ga manabu kurasu o hiraku no.",
+    "audio": "https://japanesetest4you.com/media/001/n5g-to1-14.mp3"
+   },
+   {
+    "jp": "と (to) – 2: if, when",
+    "en": "や (ya): and",
+    "romaji": ""
+   }
+  ],
+  "id": "n5-g47"
+ },
+ {
+  "title": "つもりだ",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-flashcard-2/",
+  "meaning": "intend to; plan to do something; plan on doing something; to be convinced that",
+  "formation": "Verb-casual + つもりだ\nなadj + なつもりだ\nいadj + つもりだ\nNoun + のつもりだ\nつもりはない (tsumori wa nai): have no intention of doing",
+  "examples": [
+   {
+    "jp": "どう返事するつもりですか？",
+    "en": "How are you going to answer it?",
+    "romaji": "dou henji suru tsumori desu ka.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-16.mp3"
+   },
+   {
+    "jp": "お別れのキスもしないつもり？",
+    "en": "Aren’t you going to kiss me goodbye?",
+    "romaji": "owakare no kisu mo shinai tsumori.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-17.mp3"
+   },
+   {
+    "jp": "いったん同意したことは守るつもりだ。",
+    "en": "I will live up to what I’ve agreed to.",
+    "romaji": "ittan doui shita koto wa mamoru tsumori da.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-18.mp3"
+   },
+   {
+    "jp": "それをどこにかけるつもりですか？",
+    "en": "Where were you going to hang that?",
+    "romaji": "sore o doko ni kakeru tsumori desu ka.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-19.mp3"
+   },
+   {
+    "jp": "なんとか断るつもりだった。",
+    "en": "I was planning to turn him down.",
+    "romaji": "nantoka kotowaru tsumori datta.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-20.mp3"
+   },
+   {
+    "jp": "これから昼寝をするつもりだ。",
+    "en": "I’m gonna take a nap.",
+    "romaji": "kore kara hirune o suru tsumori da.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-21.mp3"
+   },
+   {
+    "jp": "では、何もやらないつもりですか？",
+    "en": "You mean to do nothing about it, then?",
+    "romaji": "dewa, nani mo yaranai tsumori desu ka.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-22.mp3"
+   },
+   {
+    "jp": "わたしは辞表を出すつもりです。",
+    "en": "I’m going to tender my resignation.",
+    "romaji": "watashi wa jihyou o dasu tsumori desu.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-23.mp3"
+   },
+   {
+    "jp": "いくらなら売るつもりですか？",
+    "en": "How much would you sell it for?",
+    "romaji": "ikura nara uru tsumori desu ka.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-24.mp3"
+   },
+   {
+    "jp": "おれは過去の中で生きるつもりはない。",
+    "en": "I’m not going to live in the past.",
+    "romaji": "ore wa kako no naka de ikiru tsumori wa nai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-25.mp3"
+   },
+   {
+    "jp": "かなりの額でも払うつもりだよ。",
+    "en": "I’d be willing to pay quite a bit.",
+    "romaji": "kanari no gaku demo harau tsumori da yo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-26.mp3"
+   },
+   {
+    "jp": "彼は、またおなじことをするつもりなんだ。",
+    "en": "He’s going to do it again.",
+    "romaji": "kare wa, mata onaji koto o suru tsumori nan da.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-27.mp3"
+   },
+   {
+    "jp": "論議をするつもりはない。",
+    "en": "I’m not going to get involved in a debate with you.",
+    "romaji": "rongi o suru tsumori wa nai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-28.mp3"
+   },
+   {
+    "jp": "服や車を買うつもりはなかった。",
+    "en": "I had no intention of shopping for clothes or a car.",
+    "romaji": "fuku ya kuruma o kau tsumori wa nakatta.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-29.mp3"
+   },
+   {
+    "jp": "ここに長居をするつもりはない。",
+    "en": "I don’t expect to be here long.",
+    "romaji": "koko ni nagai o suru tsumori wa nai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-30.mp3"
+   },
+   {
+    "jp": "あなたに反対するつもりはありませんよ。",
+    "en": "I shouldn’t like to contradict you.",
+    "romaji": "anata ni hantai suru tsumori wa arimasen yo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-31.mp3"
+   },
+   {
+    "jp": "旅の最初の夜は京都で過ごすつもりだった。",
+    "en": "I had meant to spend my first night on the road in Kyoto.",
+    "romaji": "tabi no saisho no yoru wa kyouto de sugosu tsumori datta.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-32.mp3"
+   },
+   {
+    "jp": "そう長いあいだ出かけているつもりはない。",
+    "en": "I don’t intend to be out long.",
+    "romaji": "sou nagai aida dekakete iru tsumori wa nai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-33.mp3"
+   },
+   {
+    "jp": "その晩はホテルに泊まるつもりだった。",
+    "en": "I thought I’d spend the night in a hotel.",
+    "romaji": "sono ban wa hoteru ni tomaru tsumori datta.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-34.mp3"
+   },
+   {
+    "jp": "彼らは別に危害を加えるつもりはないのです。",
+    "en": "They mean no harm.",
+    "romaji": "karera wa betsu ni kigai o kuwaeru tsumori wa nai no desu.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-35.mp3"
+   },
+   {
+    "jp": "警察へ届けるつもりはないでしょうね？",
+    "en": "You don’t want to go to the police, I suppose?",
+    "romaji": "keisatsu e todokeru tsumori wa nai deshou ne.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-36.mp3"
+   },
+   {
+    "jp": "私を訪ねてきた人物は、待つつもりがないらしい。",
+    "en": "It sounds as if whoever has arrived to visit me does not want to wait.",
+    "romaji": "watashi o tazunete kita jinbutsu wa, matsu tsumori ga nai rashii.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-37.mp3"
+   },
+   {
+    "jp": "拒絶する、そう、確かに最初はそうするつもりでした。",
+    "en": "To refuse—yes, that was my first instinct.",
+    "romaji": "kyozetsu suru, sou, tashika ni saisho wa sou suru tsumori deshita.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-38.mp3"
+   },
+   {
+    "jp": "心の奥ではこの命が果てるその日までずっと兵士でいるつもりです。",
+    "en": "I’ll be a soldier in my heart until the day I die.",
+    "romaji": "kokoro no oku dewa kono inochi ga hateru sono hi made zutto heishi de iru tsumori desu.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-39.mp3"
+   },
+   {
+    "jp": "彼を救けるための苦労をして、それでかれを殺すつもり？",
+    "en": "Would you destroy him in the effort to save him?",
+    "romaji": "kare o tasukeru tame no kurou o shite, sore de kare o korosu tsumori.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-40.mp3"
+   },
+   {
+    "jp": "ごめんごめん。おどかすつもりはなかったんだ。",
+    "en": "Sorry, sorry. Didn’t mean to surprise you.",
+    "romaji": "gomen gomen. odokasu tsumori wa nakattan da.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-41.mp3"
+   },
+   {
+    "jp": "誰かを撃つつもりはないし、銀行を襲うつもりもない。",
+    "en": "I don’t plan to shoot anybody or to rob a bank.",
+    "romaji": "dareka o utsu tsumori wa nai shi, ginkou o osou tsumori mo nai.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-42.mp3"
+   },
+   {
+    "jp": "事情はできる限り詳しく説明するつもりです。",
+    "en": "I intend to explain the situation to you in all possible detail.",
+    "romaji": "jijou wa dekiru kagiri kuwashiku setsumei suru tsumori desu.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-43.mp3"
+   },
+   {
+    "jp": "子供たちのためなら、どんなことでもするつもりだ。",
+    "en": "I would do anything in the world for the children.",
+    "romaji": "kodomotachi no tame nara, donna koto demo suru tsumori da.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-44.mp3"
+   },
+   {
+    "jp": "マユミは、その縁組を進んで受けるつもりだったのですか？",
+    "en": "Was Mayumi willing to fall in with this arrangement?",
+    "romaji": "mayumi wa, sono engumi o susunde ukeru tsumori datta no desu ka.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-45.mp3"
+   },
+   {
+    "jp": "前々からｉＰｈｏｎｅに機種変更するつもりだった。",
+    "en": "I’d been meaning to trade up to an iPhone.",
+    "romaji": "maemae kara aifon ni kishu henkou suru tsumori datta.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-46.mp3"
+   },
+   {
+    "jp": "ごめんなさい…わたし、古い傷口をあけるつもりはなかったの。",
+    "en": "Forgive me. I did not mean to open an old wound.",
+    "romaji": "gomen nasai. watashi, furui kizuguchi o akeru tsumori wa nakatta no.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-47.mp3"
+   },
+   {
+    "jp": "何もあの男を悪く言うつもりはない。あいつのことは好きだからな。",
+    "en": "I will say nothing against the lad, for I like him.",
+    "romaji": "nanimo ano otoko o waruku iu tsumori wa nai. aitsu no koto wa suki dakara na.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-48.mp3"
+   },
+   {
+    "jp": "あそこで何をしているか、誰かに教えるつもりはないんですか？",
+    "en": "Are you ever gonna tell anybody what you’re doing back there?",
+    "romaji": "asoko de nani o shite iru ka, dareka ni oshieru tsumori wa nain desu ka.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-49.mp3"
+   },
+   {
+    "jp": "あしたには、東京にもどるつもりでした。だから会わないほうがいいと思った。",
+    "en": "I was returning to Tokyo tomorrow. I felt it would be better not to meet.",
+    "romaji": "ashita ni wa, toukyou ni modoru tsumori deshita.dakara awanai hou ga ii to omotta.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-50.mp3"
+   },
+   {
+    "jp": "祖父に電話をかけるつもりだったが、誰か知らない人のところにかかってしまった。",
+    "en": "I attempted to call my grandfather, but I got a wrong number.",
+    "romaji": "sofu ni denwa o kakeru tsumori datta ga, dareka shiranai hito no tokoro ni kakatte shimatta.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-51.mp3"
+   },
+   {
+    "jp": "私はよく眠るつもりだ。君のほうこそ、心配しないで、よくお休み！",
+    "en": "I intend to get a night’s sleep. And don’t worry about it either. Good night!",
+    "romaji": "watashi wa yoku nemuru tsumori da. kimi no hou koso, shinpai shinaide, yoku oyasumi.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-52.mp3"
+   },
+   {
+    "jp": "ハイスクールの卒業生として、まっさきになにをするつもりですか？",
+    "en": "What’s the first thing you’re going to do as a high school graduate?",
+    "romaji": "haisukuuru no sotsugyousei toshite, massaki ni nani o suru tsumori desu ka.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-53.mp3"
+   },
+   {
+    "jp": "ここで宝物を見つけたら、あなたは自分の分け前を、どうするつもりですか？",
+    "en": "If we find a treasure here, what you going to do with your share?",
+    "romaji": "koko de takaramono o mitsuketara, anata wa jibun no wakemae o, dou suru tsumori desu ka.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-54.mp3"
+   },
+   {
+    "jp": "わたしと幸福の間に、金銭を割りこませるようなことはしないつもりよ。",
+    "en": "I’m not going to let money come between me and happiness.",
+    "romaji": "watashi to koufuku no aida ni, kinsen o warikomaseru you na koto wa shinai tsumori yo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-55.mp3"
+   },
+   {
+    "jp": "もうずっと若い時から、わたし、金のために結婚するつもりだった。",
+    "en": "I made up my mind to marry money when I was quite young.",
+    "romaji": "mou zutto wakai toki kara, watashi, kane no tame ni kekkon suru tsumori datta.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-56.mp3"
+   },
+   {
+    "jp": "それで、あなたは実際にそのすばらしい計画を実行にうつすつもりですか？",
+    "en": "And you really mean to carry out this remarkable plan of yours?",
+    "romaji": "sore de, anata wa jissai ni sono subarashii keikaku o jikkou ni utsusu tsumori desu ka.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-57.mp3"
+   },
+   {
+    "jp": "わたしは自分のしたことについて、よろこんで責任をおうつもりです。",
+    "en": "I am willing to answer for my action.",
+    "romaji": "watashi wa jibun no shita koto ni tsuite, yorokonde sekinin o ou tsumori desu.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-58.mp3"
+   },
+   {
+    "jp": "トモコは十二のときから、もっと本を読むつもりだと言い続けてますよ。",
+    "en": "Tomoko has been meaning to read more ever since she was twelve years old.",
+    "romaji": "tomoko wa juuni no toki kara, motto hon o yomu tsumori da to ii tsuzuketemasu yo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-59.mp3"
+   },
+   {
+    "jp": "中村はきっと、わたしたちを驚かすつもりだったんだと思いますわ。",
+    "en": "Nakamura arranged a little surprise for us, I suppose.",
+    "romaji": "nakamura wa kitto, watashitachi o odorokasu tsumori dattan da to omoimasu wa.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-60.mp3"
+   },
+   {
+    "jp": "母の病気が良くなったらすぐに、ぼくは外国へ行くつもりです。",
+    "en": "As soon as my mother gets well, I shall go abroad.",
+    "romaji": "haha no byouki ga yoku nattara sugu ni, boku wa gaikoku e iku tsumori desu.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-61.mp3"
+   },
+   {
+    "jp": "「ハリー・ポッターと呪いの子」をもう一度子供たちに見せてやるつもりだ。",
+    "en": "I’m going to take my kids to see Harry Potter and the Cursed Child for the second time.",
+    "romaji": "harii pottaa to noroi no ko o mou ichido kodomotachi ni misete yaru tsumori da.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-62.mp3"
+   },
+   {
+    "jp": "自分ではすでに株式投資のコツを会得しているつもりだったが、すっかり損してしまった。",
+    "en": "I thought that I knew the ropes in the stock market; but I lost every cent.",
+    "romaji": "jibun dewa sude ni kabushiki toushi no kotsu o etoku shite iru tsumori datta ga, sukkari son shite shimatta.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-63.mp3"
+   },
+   {
+    "jp": "これが人生ってもんですね。隠退したら、私は田舎にささやかな土地を持つつもりですよ。",
+    "en": "This is the life. When I retire, I shall have a little place in the country.",
+    "romaji": "kore ga jinsei tte mon desu ne. intai shitara, watashi wa inaka ni sasayaka na tochi o motsu tsumori desu yo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-64.mp3"
+   },
+   {
+    "jp": "私は白鳥に電話し、決定は不当なものであり、こちらはあきらめるつもりはない、と言った。",
+    "en": "I called Shiratori and told him I thought the ruling was unfair, that I wasn’t about to give up.",
+    "romaji": "watashi wa shiratori ni denwa shi, kettei wa futou na mono de ari, kochira wa akirameru tsumori wa nai, to itta.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-tsumori-65.mp3"
+   },
+   {
+    "jp": "国へ帰ったら、会社をつくるつもりだ。",
+    "en": "When I return to my country, I plan to start a company.",
+    "romaji": "kuni e kaettara, kaisha o tsukuru tsumori da.",
+    "audio": "https://japanesetest4you.com/audio/n5g-tsumori-1.mp3"
+   },
+   {
+    "jp": "あなたたちも行くつもりですか？",
+    "en": "Are you guys going too?",
+    "romaji": "anatatachi mo iku tsumori desu ka.",
+    "audio": "https://japanesetest4you.com/audio/n5g-tsumori-2.mp3"
+   },
+   {
+    "jp": "おれを破滅させるつもりか。",
+    "en": "Are you trying to ruin me?",
+    "romaji": "ore o hametsu saseru tsumori ka.",
+    "audio": "https://japanesetest4you.com/audio/n5g-tsumori-3.mp3"
+   },
+   {
+    "jp": "明日横浜へ行くつもりです。",
+    "en": "I plan to go to Yokohama tomorrow.",
+    "romaji": "ashita yokohama e iku tsumori desu.",
+    "audio": "https://japanesetest4you.com/audio/n5g-tsumori-5.mp3"
+   },
+   {
+    "jp": "気に障るようなことを言うつもりはなかったんだ。",
+    "en": "I didn’t mean to upset you.",
+    "romaji": "ki ni sawaru you na koto o iu tsumori wa nakattan da.",
+    "audio": "https://japanesetest4you.com/audio/n5g-tsumori-6.mp3"
+   },
+   {
+    "jp": "プレッシャーをかけるつもりはない。",
+    "en": "I don’t plan to pressure you.",
+    "romaji": "puresshaa o kakeru tsumori wa nai.",
+    "audio": "https://japanesetest4you.com/audio/n5g-tsumori-7.mp3"
+   },
+   {
+    "jp": "ばれたらどうするつもりなの？",
+    "en": "What do you intend to do if you get caught?",
+    "romaji": "baretara dou suru tsumori na no.",
+    "audio": "https://japanesetest4you.com/audio/n5g-tsumori-8.mp3"
+   },
+   {
+    "jp": "もう昼だよ。いつまで寝ているつもり？",
+    "en": "It’s already noon. How long are you gonna keep sleeping?",
+    "romaji": "mou hiru da yo. itsu made nete iru tsumori.",
+    "audio": "https://japanesetest4you.com/audio/n5g-tsumori-9.mp3"
+   },
+   {
+    "jp": "私はここに立って、皆さんに伝統的でありふれた内容の卒業スピーチを行うつもりはありません。",
+    "en": "I am not going to stand up here and give you the traditional, Hallmark version of a valedictory speech.",
+    "romaji": "watashi wa koko ni tatte, minasan ni dentouteki de arifureta naiyou no sotsugyou supiichi o okonau tsumori wa arimasen.",
+    "audio": "https://japanesetest4you.com/audio/n5g-tsumori-10.mp3"
+   },
+   {
+    "jp": "明広はできるだけ遅くまで朝子の帰りを待つつもりだった。",
+    "en": "Akihiro resolved to wait for Asako as late as possible.",
+    "romaji": "akihiro wa dekiru dake osoku made akiko no kaeri o matsu tsumori datta.",
+    "audio": "https://japanesetest4you.com/audio/n5g-tsumori-11.mp3"
+   },
+   {
+    "jp": "あなたの家庭に新たな波風を立てないようにするつもりだ。",
+    "en": "I won’t bring fresh trouble into your family.",
+    "romaji": "anata no katei ni aratana namikaze o tatenai you ni suru tsumori da.",
+    "audio": "https://japanesetest4you.com/audio/n5g-tsumori-12.mp3"
+   },
+   {
+    "jp": "オレはやつを信じて全面的に協力するつもりだ。",
+    "en": "I believe him, and I will support him one hundred percent!",
+    "romaji": "ore wa yatsu o shinjite zenmenteki ni kyouryoku suru tsumori da.",
+    "audio": "https://japanesetest4you.com/audio/n5g-tsumori-13.mp3"
+   },
+   {
+    "jp": "あなたを非難するつもりはないんだ！",
+    "en": "I’m not going to criticize you!",
+    "romaji": "anata o hinan suru tsumori wa nain da.",
+    "audio": "https://japanesetest4you.com/audio/n5g-tsumori-14.mp3"
+   },
+   {
+    "jp": "あの人たちを投獄するのに手を貸すつもり？",
+    "en": "You’d help put them in jail?",
+    "romaji": "ano hitotachi o tougoku suru no ni te o kasu tsumori.",
+    "audio": "https://japanesetest4you.com/audio/n5g-tsumori-15.mp3"
+   },
+   {
+    "jp": "つもりで (tsumori de): with the intention of doing",
+    "en": "予定だ (yotei da): intend to do something",
+    "romaji": "ようと思う (you to omou): thinking of doing"
+   }
+  ],
+  "id": "n5-g48"
+ },
+ {
+  "title": "や (ya)",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-29/",
+  "meaning": "and",
+  "formation": "Noun + や + Noun",
+  "examples": [
+   {
+    "jp": "彼らは希望や慰めについて語った。",
+    "en": "They talked of hope and comfort.",
+    "romaji": "karera wa kibou ya nagusame ni tsuite katatta.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-ya-16.mp3"
+   },
+   {
+    "jp": "彼には運動や娯楽に費やす時間はなかった。",
+    "en": "He had no time for play, no time for recreation.",
+    "romaji": "kare ni wa undou ya goraku ni tsuiyasu jikan wa nakatta.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-ya-17.mp3"
+   },
+   {
+    "jp": "血や謎の中に身を置いた経験なんてないんです。",
+    "en": "I’ve never been surrounded by blood or mystery.",
+    "romaji": "chi ya nazo no naka ni mi o oita keiken nante nain desu.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-ya-18.mp3"
+   },
+   {
+    "jp": "あなたは裕福さや甘やかされることが嫌になったのよ。",
+    "en": "You are sick of prosperity and indulgence.",
+    "romaji": "anata wa yuufukusa ya amayakasareru koto ga iya ni natta no yo.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-ya-19.mp3"
+   },
+   {
+    "jp": "アユミは深刻な病気や、ほかの困難に打ち勝った。",
+    "en": "Ayumi overcame a serious illness and other challenges.",
+    "romaji": "ayumi wa shinkoku na byouki ya, hoka no konnan ni uchikatta.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-ya-20.mp3"
+   },
+   {
+    "jp": "音楽や芸術や、そういったものは得手じゃありません。",
+    "en": "I’m no good at music and art and such things.",
+    "romaji": "ongaku ya geijutsu ya, sou itta mono wa ete ja arimasen.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-ya-21.mp3"
+   },
+   {
+    "jp": "偶然や見込みや幸運といったものをあてにしません。",
+    "en": "I don’t believe in coincidence or forecasts or good luck.",
+    "romaji": "guuzen ya mikomi ya kouun to itta mono o ate ni shimasen.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-ya-22.mp3"
+   },
+   {
+    "jp": "この映画には恋愛要素が入っているが、冒険や笑いもある。",
+    "en": "This movie has romance, but it also has some adventure and comedy.",
+    "romaji": "kono eiga ni wa ren’ai youso ga haitte iru ga, bouken ya warai mo aru.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-ya-23.mp3"
+   },
+   {
+    "jp": "低俗な人々は偉人の欠点や愚行に非常な喜びを感じる。",
+    "en": "Vulgar people take huge delight in the faults and follies of great men.",
+    "romaji": "teizoku na hitobito wa ijin no ketten ya gukou ni hijou na yorokobi o kanjiru.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-ya-24.mp3"
+   },
+   {
+    "jp": "夫とわたしには、花や庭園という共通の好きなことがある。",
+    "en": "My husband and I have a mutual love of flowers and gardens.",
+    "romaji": "otto to watashi ni wa, hana ya teien to iu kyoutsuu no suki na koto ga aru.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-ya-25.mp3"
+   },
+   {
+    "jp": "兄弟たちは自分たちの関心事や仕事について話していた。",
+    "en": "The brothers talked of their own concerns and pursuits.",
+    "romaji": "kyoudaitachi wa jibuntachi no kanshinji ya shigoto ni tsuite hanashite ita.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-ya-26.mp3"
+   },
+   {
+    "jp": "その工場には、最新ロボットやそのほかの産業機器がある。",
+    "en": "The factory has the newest robots and other industrial hardware.",
+    "romaji": "sono koujou ni wa, saishin robotto ya sono hoka no sangyou kiki ga aru.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-ya-27.mp3"
+   },
+   {
+    "jp": "わたしたちの教会は、食べ物や衣類を必要とする人々に寄付している。",
+    "en": "Our church donates food and clothing to people who need them.",
+    "romaji": "watashitachi no kyoukai wa, tabemono ya irui o hitsuyou to suru hitobito ni kifu shite iru.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-ya-28.mp3"
+   },
+   {
+    "jp": "子供たちを人混みから遠ざけ、学校や映画館へは行かせませんでした。",
+    "en": "We kept our children away from crowds, away from school and the movies.",
+    "romaji": "kodomotachi o hitogomi kara toozake, gakkou ya eigakan e wa ikasemasen deshita.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-ya-29.mp3"
+   },
+   {
+    "jp": "春美は、子供や女の涙を、平気で見聞きすることのできない人であった。",
+    "en": "Harumi could not hear or see a child or woman crying without being moved.",
+    "romaji": "harumi wa, kodomo ya onna no namida o, heiki de mikiki suru koto no dekinai hito de atta.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-ya-30.mp3"
+   },
+   {
+    "jp": "新聞や、枕やチョコレートや、果物や、清涼飲料などの売り子がいた。",
+    "en": "There were sellers of newspapers, of pillows, of chocolate, of fruit, of mineral waters.",
+    "romaji": "shinbun ya, makura ya chokoreeto ya, kudamono ya, seiryou inryou nado no uriko ga ita.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-ya-31.mp3"
+   },
+   {
+    "jp": "週末はほとんど子供たちに付き添って、サッカーの試合や練習に出かけます。",
+    "en": "I spend my weekends mostly attending my kids’ soccer tournaments or training.",
+    "romaji": "shuumatsu wa hotondo kodomotachi ni tsukisotte, sakkaa no shiai ya renshuu ni dekakemasu.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-ya-32.mp3"
+   },
+   {
+    "jp": "友達と一緒に焼肉やキムチを食べました。",
+    "en": "I ate things like grilled meat and kimchi with my friends.",
+    "romaji": "tomodachi to issho ni yakiniku ya kimuchi o tabemashita.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-ya-1.mp3"
+   },
+   {
+    "jp": "ブックオフでDVDや本を売った。",
+    "en": "I sold my DVD and books, among other things, at Bookoff.",
+    "romaji": "bukkuofu de DVD ya hon o utta.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-ya-2.mp3"
+   },
+   {
+    "jp": "大学生やサラリーマンがマラソン大会に参加しています。",
+    "en": "People like college students and office workers are participating in the marathon race.",
+    "romaji": "daigakusei ya sarariiman ga marason taikai ni sanka shite imasu.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-ya-3.mp3"
+   },
+   {
+    "jp": "スーパーでりんごや野菜を買いました。",
+    "en": "I bought things like apples and vegetables at the supermarket.",
+    "romaji": "suupaa de ringo ya yasai o kaimashita.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-ya-4.mp3"
+   },
+   {
+    "jp": "冬休みは家族でイタリアやイギリスへ行きました。",
+    "en": "I went to countries like Italy and England with my family during the winter holiday.",
+    "romaji": "fuyuyasumi wa kazoku de itaria ya igirisu e ikimashita.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-ya-5.mp3"
+   },
+   {
+    "jp": "現在、わが国を苦しめている犯罪や暴力はすぐになくなります。",
+    "en": "The crime and violence that today afflicts our nation will soon come to an end.",
+    "romaji": "genzai, wagakuni o kurushimete iru hanzai ya bouryoku wa sugu ni nakunarimasu.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-ya-6.mp3"
+   },
+   {
+    "jp": "学者やビジネスリーダたちが、毎年ここに集まって意見交換をする。",
+    "en": "Scholars and business leaders gather here each year to exchange ideas.",
+    "romaji": "gakusha ya bijinesu riidatachi ga, maitoshi koko ni atsumatte iken koukan o suru.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-ya-7.mp3"
+   },
+   {
+    "jp": "ここには、アメリカに移住した人たちが、金網の反対側にいる家族や恋人と話すためにやってきます。",
+    "en": "Here, people who have immigrated to the United States come to speak with their family and lovers on the other side.",
+    "romaji": "koko ni wa, amerika ni ijuu shita hitotachi ga, kanaami no hantaigawa ni iru kazoku ya koibito to hanasu tame ni yatte kimasu.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-ya-8.mp3"
+   },
+   {
+    "jp": "西洋の国々やそのほかの地域の人々が、１９８９年の出来事から学ぶべきだ。",
+    "en": "Western countries and other people should learn from what happened in 1989.",
+    "romaji": "seiyou no kuniguni ya sono hoka no chiiki no hitobito ga, sen kyuuhyaku hachijuu kyuu nen no dekigoto kara manabu beki da.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-ya-9.mp3"
+   },
+   {
+    "jp": "彼は、労働や農作業にいそしむ農民たちのつつましい日常の光景を多くの絵に描きました。",
+    "en": "He painted many pictures of humble, everyday scenes of peasants working and farming.",
+    "romaji": "kare wa, roudou ya nousagyou ni isoshimu noumintachi no tsutsumashii nichijou no koukei o ooku no e ni egakimashita.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-ya-10.mp3"
+   },
+   {
+    "jp": "私はずっと、レジャーや観光や旅行にとても関心がありました。",
+    "en": "I’ve always been really interested in leisure and tourism and travel.",
+    "romaji": "watashi wa zutto, rejaa ya kankou ya ryokou ni totemo kanshin ga arimashita.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-ya-11.mp3"
+   },
+   {
+    "jp": "たまに、建物ツアーもやります。お客さんを案内して、テートの歴史やこの建物の歴史について、説明するのです。",
+    "en": "I occasionally do the architecture tours, where I take people round and explain the history of the Tate and the history of the building as well.",
+    "romaji": "tama ni, tatemono tsuaa mo yarimasu. okyakusan o annai shite, teeto no rekishi ya kono tatemono no rekishi ni tsuite, setsumei suru no desu.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-ya-12.mp3"
+   },
+   {
+    "jp": "他の政治家たちは、そうした苦難やその不公平さを見て、「あなた方に同情します」と言います。「あなた方のために闘います」と言うのは父だけでしょう。",
+    "en": "Other politicians see these hardships, see the unfairness of it all, and they say, “I feel for you.” Only my father will say, “I’ll fight for you.”",
+    "romaji": "hoka no seijikatachi wa, soushita ku’nan ya sono fukouheisa o mite, anatagata ni doujou shimasu to iimasu. anatagata no tame ni tatakaimasu to iu no wa chichi dake deshou.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-ya-13.mp3"
+   },
+   {
+    "jp": "警察や刑事が絡むストーリーは多いですよね。実話がモチーフになっているものもあるし、完全にフィクションのものもあります。",
+    "en": "There are many stories about police and detectives, right? Some are based on true stories, and some are completely fiction.",
+    "romaji": "keisatsu ya keiji ga karamu sutoorii wa ooi desu yo ne. jitsuwa ga mochiifu ni natte iru mono mo aru shi, kanzen ni fikushon no mono mo arimasu.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-ya-14.mp3"
+   },
+   {
+    "jp": "テレビゲームには、危険や暴力を美化するものもある。",
+    "en": "Some video games glamorize danger and violence.",
+    "romaji": "terebi geemu ni wa, kiken ya bouryoku o bika suru mono mo aru.",
+    "audio": "https://japanesetest4you.com/media/002/n5g-ya-15.mp3"
+   }
+  ],
+  "id": "n5-g49"
+ },
+ {
+  "title": "より ~ のほうが ~ (yori ~ nohouga ~)",
+  "url": "https://japanesetest4you.com/flashcard/learn-japanese-grammar-flashcard-17/",
+  "meaning": "more than",
+  "formation": "Noun 1 より　Noun 2 の方が　…\nVerb-phrase 1 より　V-phrase 2 方が　…\nい-adjective 1 より　い-adjective 2 方が　…\nな-adjective 1 より　い-adjective 2 な方が　…",
+  "examples": [
+   {
+    "jp": "人より牛のほうが多い。",
+    "en": "There are more cows than people.",
+    "romaji": "hito yori ushi no hou ga ooi.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-houga-19.mp3"
+   },
+   {
+    "jp": "木を彫るほうが、石よりずっと簡単だ。",
+    "en": "It’s much easier to carve wood than stone.",
+    "romaji": "ki o horu ou ga, ishi yori zutto kantan da.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-houga-20.mp3"
+   },
+   {
+    "jp": "勉強などよりおしゃべりのほうがずっと楽しかった。",
+    "en": "It was much easier to chat than to study.",
+    "romaji": "benkyou nado yori oshaberi no hou ga zutto tanoshikatta.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-houga-21.mp3"
+   },
+   {
+    "jp": "彼らは働く時間より休む時間のほうが多かった。",
+    "en": "They rested more than they worked.",
+    "romaji": "karera wa hataraku jikan yori yasumu jikan no hou ga ookatta.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-houga-22.mp3"
+   },
+   {
+    "jp": "わたし、猫なんかより、ずっとずっと犬のほうが好きですわ。",
+    "en": "I like dogs much better than cats.",
+    "romaji": "watashi, neko nanka yori, zutto zutto inu no hou ga suki desu wa.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-houga-23.mp3"
+   },
+   {
+    "jp": "朝寝坊より早起きのほうが身体にいいよ。",
+    "en": "It’s better to get up early in the morning than to sleep in.",
+    "romaji": "asanebou yori hayaoki no hou ga karada ni ii yo.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-houga-24.mp3"
+   },
+   {
+    "jp": "男のことなら、女よりも男のほうがよくわかります。",
+    "en": "A man knows other men better than a woman can do.",
+    "romaji": "otoko no koto nara, onna yori otoko no hou ga yoku wakarimasu.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-houga-25.mp3"
+   },
+   {
+    "jp": "けっきょくはアマチュアよりプロ選手のほうが勝つんだ。",
+    "en": "The professional always scores over the amateur in the end.",
+    "romaji": "kekkyoku wa amachua yori puro senshu no hou ga katsun da.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-houga-26.mp3"
+   },
+   {
+    "jp": "きみは埼玉よりここで過ごす時間のほうがはるかに多いじゃないか。",
+    "en": "You’ve been here a lot more than you’ve been in Saitama.",
+    "romaji": "kimi wa saitama yori koko de sugosu jikan no hou ga haruka ni ooi janai ka.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-houga-27.mp3"
+   },
+   {
+    "jp": "経済的には、アキラは去年より今年のほうがうまくいっている。",
+    "en": "Financially, Akira is doing much better this year than last.",
+    "romaji": "keizaiteki ni wa, akira wa kyonen yori kotoshi no hou ga umaku itte iru.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-houga-28.mp3"
+   },
+   {
+    "jp": "新しいものをつくるほうが、古いものを読むより有意義だ。",
+    "en": "Producing something new is more meaningful than simply reading something old.",
+    "romaji": "atarashii mono o tsukuru hou ga, furui mono o yomu yori yuuigi da.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-houga-29.mp3"
+   },
+   {
+    "jp": "こういった局面では、おおむね精神より肉体のほうが賢明である。",
+    "en": "At such moments, the body is almost always wiser than the brain.",
+    "romaji": "kou itta kyokumen dewa, oomune seishin yori nikutai no hou ga kenmei de aru.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-houga-30.mp3"
+   },
+   {
+    "jp": "お手を拝見すると、右のほうがたっぷりひと回りは左より大きいですね。",
+    "en": "Your right hand is quite a size larger than your left.",
+    "romaji": "ote o haiken suru to, migi no hou ga tappuri hitomawari wa hidari yori ookii desu ne.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-houga-31.mp3"
+   },
+   {
+    "jp": "いま欲しいものよりあなたとの関係を維持することのほうが、わたしには重要だ。",
+    "en": "What I want isn’t as important to me as my relationship with you.",
+    "romaji": "ima hoshii mono yori anata to no kankei o iji suru koto no hou ga, watashi ni wa juuyou da.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-houga-32.mp3"
+   },
+   {
+    "jp": "大半の人間は、自分の愚かさより、自分の悪行のほうがたやすく認められるのだろう。",
+    "en": "For most of us, it’s easier to admit doing wrong than being stupid.",
+    "romaji": "taihan no ningen wa, jibun no orokasa yori, jibun no akugyou no hou ga tayasuku mitomerareru no darou.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-houga-33.mp3"
+   },
+   {
+    "jp": "大衆の救いのために勤勉に働くより、ひとりの人のために全身を捧げるほうが気高いのだ。",
+    "en": "It is more noble to give yourself completely to one individual than to labor diligently for the salvation of the masses.",
+    "romaji": "taishuu no sukui no tame ni kinben ni hataraku yori, hitori no hito no tame ni zenshin o sasageru hou ga kedakai no da.",
+    "audio": "https://japanesetest4you.com/audio10/n5g-houga-34.mp3"
+   },
+   {
+    "jp": "彼女よりあなたの方がきれいですよ。",
+    "en": "You’re more beautiful than her.",
+    "romaji": "kanojo yori anata no hou ga kirei desu yo.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-houga-1.mp3"
+   },
+   {
+    "jp": "ビールを飲むよりミルクを飲むの方が健康にいいですよ。",
+    "en": "Drinking milk is better for your health than drinking beer.",
+    "romaji": "biiru o nomu yori miruko o nomu no hou ga kenkou ni ii desu yo.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-houga-2.mp3"
+   },
+   {
+    "jp": "英語より日本語の方が難しいと思う。",
+    "en": "I think Japanese is more difficult than English.",
+    "romaji": "eigo yori nihongo no hou ga muzukashii to omou.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-houga-3.mp3"
+   },
+   {
+    "jp": "サスケよりナルトの方が強い。",
+    "en": "Naruto is stronger than Sasuke.",
+    "romaji": "sasuke yori naruto no hou ga tsuyoi.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-houga-4.mp3"
+   },
+   {
+    "jp": "日本よりロシアの方が寒い。",
+    "en": "Russia is colder than Japan.",
+    "romaji": "nihon yori roshia no hou ga samui.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-houga-5.mp3"
+   },
+   {
+    "jp": "他人に頼るより自分で問題を解決する方がいいよ。",
+    "en": "Solving the problem by yourself is better than relying on others.",
+    "romaji": "tanin ni tayoru yori jibun de mondai o kaiketsu suru hou ga ii yo.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-houga-6.mp3"
+   },
+   {
+    "jp": "兄より僕の方が背が高い。",
+    "en": "I’m taller than my big brother.",
+    "romaji": "ani yori boku no hou ga sega takai.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-houga-7.mp3"
+   },
+   {
+    "jp": "給料の低いより、給料の高い仕事の方がいいじゃない？",
+    "en": "Isn’t a high-paying job better than a low-paying one?",
+    "romaji": "kyuuryou no hikui yori, kyuuryou no takai shigoto no hou ga ii janai?",
+    "audio": "https://japanesetest4you.com/audio3/n5g-houga-8.mp3"
+   },
+   {
+    "jp": "きみより彼の方が頭がいいよ。",
+    "en": "He’s smarter than you.",
+    "romaji": "kimi yori kare no hou ga atama ga ii.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-houga-9.mp3"
+   },
+   {
+    "jp": "家族より仕事の方が大切だと思う人と結婚したくない。",
+    "en": "I don’t want to marry someone who thinks his job is more important than his family.",
+    "romaji": "kazoku yori shigoto no hou ga taisetsu da to omou hito to kekkon shitakunai.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-houga-10.mp3"
+   },
+   {
+    "jp": "私はその後も、テレビで放送された大方のほかの番組より、このパイロット版の方が出来がいいと思っていました。",
+    "en": "I still thought that pilot episode was better than most other things that were on TV.",
+    "romaji": "watashi wa sono ato mo, terebi de housou sareta ookata no hoka no bangumi yori, kono pairottoban no hou ga deki ga ii to omotte imashita.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-houga-11.mp3"
+   },
+   {
+    "jp": "女より男のほうが飽きやすいものだ。",
+    "en": "Men tire more easily than women.",
+    "romaji": "onna yori otoko no hou ga akiyasui mono da.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-houga-12.mp3"
+   },
+   {
+    "jp": "彼は、科学者や発明者やほかの何かよりも、詩人の方が大事だと、本気で考えていました。",
+    "en": "He thought poets were more important, really, than scientists and inventors, than anything.",
+    "romaji": "kare wa, kagakusha ya hatsumeisha ya hoka no nanika yorimo, shijin no hou ga daiji da to, honki de kangaete imashita.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-houga-13.mp3"
+   },
+   {
+    "jp": "先生は僕に、僕の方が先生よりうまくなってしまったので、このまま続けて音楽専門の学校のオーディションを受けてほしい、と言うようになりました。",
+    "en": "My teacher then said that I had become better than she was and she wanted me to go on and audition to a specialist music school.",
+    "romaji": "sensei wa boku ni, boku no hou ga sensei yori umaku natte shimatta node, kono mama tsuzukete ongaku senmon no gakkou no oodishon o ukete hoshii, to iu you ni narimashita.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-houga-14.mp3"
+   },
+   {
+    "jp": "失業者に生活保護を与えるより、職を提供するほうが、よほど建設的だと思う。",
+    "en": "Providing jobs, in my view, is a far more constructive solution to unemployment than creating welfare programs.",
+    "romaji": "shitsugyousha ni seikatsu hogo o ataeru yori, shoku o teikyou suru hou ga, yohodo kensetsuteki da to omou.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-houga-15.mp3"
+   },
+   {
+    "jp": "あなたが家族より仕事のほうが大事だと言うなら、もちろん医者におなりなさい。",
+    "en": "If work is more important to you than family, then by all means, become a doctor.",
+    "romaji": "anata ga kazoku yori shigoto no hou ga daiji da to iu nara, mochiron isha ni onarinasai.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-houga-16.mp3"
+   },
+   {
+    "jp": "街道は使わないよ。それよりはここで待ってるほうがまだ安全だ。",
+    "en": "I am not going by the main road. It would be safer to wait here than that.",
+    "romaji": "kaidou wa tsukawanai yo. sore yori wa koko de matteru hou ga mada anzen da.",
+    "audio": "https://japanesetest4you.com/audio3/n5g-houga-17.mp3"
+   },
+   {
+    "jp": "彼女は頬を赤らめた。妹の返事よりユウトの返事のほうが気に入った。",
+    "en": "She blushed, liking Yuto’s answer much better than his sister’s.",
+    "romaji": "kanojo wa hoo o akarameta. imouto no henji yori yuuto no henji no hou ga ki ni itta. ***気に入る (ki ni iru): to be pleased with, to suit",
+    "audio": "https://japanesetest4you.com/audio3/n5g-houga-18.mp3"
+   },
+   {
+    "jp": "ほうがいい (hou ga ii) – 2: better not do something",
+    "en": "よりも (yorimo): rather than",
+    "romaji": "より (yori): more than ほうがいい (hou ga ii) – 1: had better, should"
+   }
+  ],
+  "id": "n5-g50"
+ }
+];
