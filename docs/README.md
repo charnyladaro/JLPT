@@ -38,5 +38,3 @@ After editing the reviewers in `../Reviewer/*.md`, regenerate `data/reviewers.js
 node -e "const fs=require('fs');const o={};for(const l of ['N5','N4','N3','N2','N1'])o[l]=fs.readFileSync('../Reviewer/JLPT_'+l+'_Reviewer.md','utf8');fs.writeFileSync('data/reviewers.json',JSON.stringify(o))"
 node build-data.mjs
 ```
-
-Data source: [japanesetest4you.com](https://japanesetest4you.com/) — scraped for personal study use.
