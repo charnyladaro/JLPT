@@ -290,8 +290,7 @@
             ${p.examples.slice(0, firstN).map(exHtml).join("")}
             <div id="gmore-slot"></div>
             ${p.examples.length > firstN ? `<button class="more-btn" id="gmore">Show ${p.examples.length - firstN} more examples</button>` : ""}
-          </div>
-          <p class="g-src">Source: <a href="${esc(p.url)}" target="_blank" rel="noopener">japanesetest4you.com</a></p>`;
+          </div>`;
 
         document.getElementById("knownbtn").addEventListener("click", () => {
           if (known[p.id]) delete known[p.id]; else known[p.id] = 1;
