@@ -43,7 +43,13 @@
     <button class="donate-close" aria-label="Close">×</button>
     <h2 id="donate-title">Support JLPT 道場</h2>
     <p>This app is free and always will be. If it helps your studies, any amount is welcome — it keeps the app free and maintained.</p>
-    <img id="donate-qr" src="donate-qr.png" alt="Donation QR code">
+    <div class="seg donate-seg" role="tablist" aria-label="Donation method">
+      <button data-qr="bmc" class="active" role="tab" aria-selected="true">☕ Buy Me a Coffee</button>
+      <button data-qr="maya" role="tab" aria-selected="false">Maya</button>
+    </div>
+    <img id="donate-qr-bmc" class="donate-qr" src="donate-bmc.png" alt="Buy Me a Coffee QR code">
+    <img id="donate-qr-maya" class="donate-qr" src="donate-maya.png" alt="Maya QR code" hidden>
+    <p class="donate-hint" id="donate-hint">Scan with your phone camera</p>
     <p class="donate-thanks">ありがとうございます 🙏</p>
   </div>
 </div>

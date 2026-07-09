@@ -125,7 +125,12 @@ button{font:inherit; color:inherit; cursor:pointer}
 .donate-card h2{margin:0 0 8px; font-size:18px}
 .donate-card p{margin:0 0 16px; font-size:13px; color:var(--muted); line-height:1.5}
 .donate-card .donate-thanks{margin:12px 0 0; color:var(--ink)}
-#donate-qr{width:220px; max-width:100%; border-radius:10px; border:1px solid var(--line); background:#fff; padding:8px}
+.donate-card .donate-hint{margin:8px 0 0; font-size:11px}
+.donate-seg{display:flex; width:100%; margin:0 0 14px}
+.donate-seg button{cursor:pointer; flex:1; text-align:center; padding:8px 0; font-size:12px; white-space:nowrap}
+.donate-seg button.active{background:var(--accent); color:#fff}
+.donate-qr{width:220px; max-width:100%; border-radius:10px; border:1px solid var(--line); background:#fff; padding:8px}
+.donate-qr[hidden]{display:none}
 .donate-close{
   position:absolute; top:8px; right:10px; border:0; background:transparent; color:var(--muted);
   font-size:22px; cursor:pointer; line-height:1;

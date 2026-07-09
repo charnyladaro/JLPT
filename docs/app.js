@@ -710,9 +710,11 @@
   }
 
   /* ========================== update check =========================== */
-  /* Compares the latest GitHub release tag against APP_VERSION; shows the
-     topbar icon when a newer release exists. Silent offline / rate-limited. */
-  const APP_VERSION = "1.0.0";
+  /* Compares the latest GitHub release tag against the app version; shows the
+     topbar icon when a newer release exists. Silent offline / rate-limited.
+     Inside the Android app the native shell injects the installed version so
+     it always matches the APK; the string below only covers the browser. */
+  const APP_VERSION = window.NATIVE_APP_VERSION || "1.0.1";
   const RELEASES_API = "https://api.github.com/repos/charnyladaro/JLPT/releases/latest";
   function newerVersion(latest, current) {
     const a = String(latest).split(".").map(n => parseInt(n, 10) || 0);
@@ -723,8 +725,11 @@
     return false;
   }
   function showUpdate(tag, url) {
-    if (!newerVersion(String(tag).replace(/^v/i, ""), APP_VERSION)) return;
     const btn = document.getElementById("updatebtn");
+    if (!newerVersion(String(tag).replace(/^v/i, ""), APP_VERSION)) {
+      btn.hidden = true; // already current — clear any stale notification
+      return;
+    }
     btn.href = url || "https://github.com/charnyladaro/JLPT/releases";
     btn.title = `New version ${tag} available — you have v${APP_VERSION}`;
     btn.hidden = false;
@@ -750,8 +755,25 @@
 
   /* ============================= donate =============================== */
   const $donate = document.getElementById("donate-overlay");
+  const DONATE_HINTS = {
+    bmc: "Scan with your phone camera to open my Buy Me a Coffee page",
+    maya: "Scan with Maya or any InstaPay banking app",
+  };
   document.getElementById("donatebtn").addEventListener("click", () => { $donate.hidden = false; });
   $donate.addEventListener("click", e => {
+    const tab = e.target.closest(".donate-seg button");
+    if (tab) {
+      $donate.querySelectorAll(".donate-seg button").forEach(b => {
+        const on = b === tab;
+        b.classList.toggle("active", on);
+        b.setAttribute("aria-selected", on);
+      });
+      $donate.querySelectorAll(".donate-qr").forEach(img => {
+        img.hidden = img.id !== "donate-qr-" + tab.dataset.qr;
+      });
+      document.getElementById("donate-hint").textContent = DONATE_HINTS[tab.dataset.qr] || "";
+      return;
+    }
     if (e.target === $donate || e.target.closest(".donate-close")) $donate.hidden = true;
   });
   document.addEventListener("keydown", e => { if (e.key === "Escape") $donate.hidden = true; });
