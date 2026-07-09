@@ -78,6 +78,59 @@ button{font:inherit; color:inherit; cursor:pointer}
   display:flex; justify-content:space-between; gap:16px; flex-wrap:wrap;
 }
 #foot a{color:var(--muted)}
+#foot .author{color:var(--ink); font-weight:600; text-decoration:none}
+#foot .author:hover{color:var(--accent)}
+#foot .gh-link{display:inline-block; vertical-align:-2px; margin-left:4px; color:var(--muted)}
+#foot .gh-link:hover{color:var(--ink)}
+
+/* ---------------- update notice ---------------- */
+#updatebtn{
+  position:relative; display:flex; align-items:center; justify-content:center;
+  width:32px; height:32px; border:1px solid var(--accent); border-radius:50%;
+  color:var(--accent); background:var(--surface);
+}
+#updatebtn:hover{background:var(--line-soft)}
+#updatebtn[hidden]{display:none}
+#updatebtn::after{
+  content:""; position:absolute; top:-2px; right:-2px; width:9px; height:9px;
+  border-radius:50%; background:var(--n1); border:2px solid var(--bg);
+  animation:update-pulse 2s ease-in-out infinite;
+}
+@keyframes update-pulse{0%,100%{transform:scale(1); opacity:1} 50%{transform:scale(1.35); opacity:.55}}
+
+/* ---------------- donate ---------------- */
+.foot-actions{display:flex; align-items:center; gap:8px}
+.apk-btn{
+  display:inline-flex; align-items:center; gap:5px;
+  border:1px solid var(--line); background:var(--surface); color:var(--muted) !important;
+  border-radius:8px; padding:3px 12px; font-size:12px; text-decoration:none;
+}
+.apk-btn:hover{color:var(--accent) !important; border-color:var(--accent)}
+.apk-btn[hidden]{display:none}
+.donate-btn{
+  border:1px solid var(--line); background:var(--surface); color:var(--muted);
+  border-radius:8px; padding:3px 12px; font-size:12px; cursor:pointer;
+}
+.donate-btn:hover{color:var(--accent); border-color:var(--accent)}
+#donate-overlay{
+  position:fixed; inset:0; z-index:60; background:rgba(0,0,0,.45);
+  display:flex; align-items:center; justify-content:center; padding:20px;
+}
+#donate-overlay[hidden]{display:none}
+.donate-card{
+  position:relative; background:var(--surface); border:1px solid var(--line); border-radius:14px;
+  padding:28px 26px 22px; max-width:340px; width:100%; text-align:center;
+  box-shadow:0 12px 40px rgba(0,0,0,.25);
+}
+.donate-card h2{margin:0 0 8px; font-size:18px}
+.donate-card p{margin:0 0 16px; font-size:13px; color:var(--muted); line-height:1.5}
+.donate-card .donate-thanks{margin:12px 0 0; color:var(--ink)}
+#donate-qr{width:220px; max-width:100%; border-radius:10px; border:1px solid var(--line); background:#fff; padding:8px}
+.donate-close{
+  position:absolute; top:8px; right:10px; border:0; background:transparent; color:var(--muted);
+  font-size:22px; cursor:pointer; line-height:1;
+}
+.donate-close:hover{color:var(--ink)}
 
 h1.page-title{font-size:26px; font-weight:700; letter-spacing:-.01em; margin:0 0 4px}
 h1.page-title .jp-label{font-family:var(--serif-jp); font-weight:600; color:var(--accent); margin-right:10px}

@@ -709,6 +709,53 @@
     window.scrollTo(0, 0);
   }
 
+  /* ========================== update check =========================== */
+  /* Compares the latest GitHub release tag against APP_VERSION; shows the
+     topbar icon when a newer release exists. Silent offline / rate-limited. */
+  const APP_VERSION = "1.0.0";
+  const RELEASES_API = "https://api.github.com/repos/charnyladaro/JLPT/releases/latest";
+  function newerVersion(latest, current) {
+    const a = String(latest).split(".").map(n => parseInt(n, 10) || 0);
+    const b = String(current).split(".").map(n => parseInt(n, 10) || 0);
+    for (let i = 0; i < Math.max(a.length, b.length); i++) {
+      if ((a[i] || 0) !== (b[i] || 0)) return (a[i] || 0) > (b[i] || 0);
+    }
+    return false;
+  }
+  function showUpdate(tag, url) {
+    if (!newerVersion(String(tag).replace(/^v/i, ""), APP_VERSION)) return;
+    const btn = document.getElementById("updatebtn");
+    btn.href = url || "https://github.com/charnyladaro/JLPT/releases";
+    btn.title = `New version ${tag} available — you have v${APP_VERSION}`;
+    btn.hidden = false;
+  }
+  function checkForUpdate() {
+    const last = store.updateCheck || {};
+    if (last.tag) showUpdate(last.tag, last.url);
+    if (Date.now() - (last.at || 0) < 6 * 3600e3) return;
+    fetch(RELEASES_API)
+      .then(r => (r.ok ? r.json() : null))
+      .then(rel => {
+        if (!rel || !rel.tag_name) return;
+        store.updateCheck = { at: Date.now(), tag: rel.tag_name, url: rel.html_url };
+        save();
+        showUpdate(rel.tag_name, rel.html_url);
+      })
+      .catch(() => {});
+  }
+  checkForUpdate();
+
+  /* Hide the APK download link inside the Android app itself. */
+  if (window.ReactNativeWebView) document.getElementById("apkbtn").hidden = true;
+
+  /* ============================= donate =============================== */
+  const $donate = document.getElementById("donate-overlay");
+  document.getElementById("donatebtn").addEventListener("click", () => { $donate.hidden = false; });
+  $donate.addEventListener("click", e => {
+    if (e.target === $donate || e.target.closest(".donate-close")) $donate.hidden = true;
+  });
+  document.addEventListener("keydown", e => { if (e.key === "Escape") $donate.hidden = true; });
+
   /* ============================== boot ================================ */
   route();
 })();
